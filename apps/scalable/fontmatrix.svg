@@ -1,0 +1,21 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="48" xmlns="http://www.w3.org/2000/svg" height="48">
+<defs id="defs2312">
+<linearGradient gradientTransform="matrix(0.61237243,0,0,0.61237243,0.50783367,-31.079636)" xlink:href="#linearGradient4456" id="linearGradient4462" y1="23.935667" x1="17.805128" y2="65.167358" x2="84.181808" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(0.75296525,-0.25722543,0,0.73520263,16.596589,-14.787063)" xlink:href="#linearGradient3171" id="linearGradient3177" y1="32.606827" x1="38.808681" y2="19.818819" x2="6.9347034" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="linearGradient4456">
+<stop offset="0" style="stop-color:#9c0f0f" id="stop4458"/>
+<stop offset="1" style="stop-color:#4f0707" id="stop4460"/>
+</linearGradient>
+<linearGradient id="linearGradient3171">
+<stop offset="0" id="stop3173"/>
+<stop offset="1" style="stop-color:#930000" id="stop3175"/>
+</linearGradient>
+</defs>
+<g id="layer1" transform="translate(0,26)">
+<rect width="39.191837" x="3.0686636" y="-27.739426" height="39.191837" style="fill:url(#linearGradient4462);stroke:none" id="rect2318" transform="matrix(0.96592584,0.25881898,-0.25881898,0.96592584,0,0)"/>
+<g style="font-family:'Bauhaus Std';font-size:40px;stroke-width:1.636">
+<path style="fill:#fff;stroke:#000" id="path2941" d="m .8864,-22.4545 0,11.3864 5.6591,1.5 0,17.6081 8.7273,2.6164 0,-18 c 4.36364,0.541107 6.54545,3.20582 6.54545,5.30321 v 4.84091 l 8.7273,3.9268 v -10.0377 c 0,-5.23502 -1.98236,-10.2057 -10.9091,-13.0887 z "/>
+<path style="fill:#ffd9b0;stroke:url(#linearGradient3177);stroke-miterlimit:2.1" id="path3169" d="m 37.0909,5.2791 0,9.7364 8.3182,3.0937 0,-13.0864 c 0,-8.72727 -1.77273,-13.5682 -13.9773,-17.9318 1.06971,2.18182 3.47727,6.54545 3.47727,13.0887 2.18182,1.74501 2.18182,2.81995 2.18182,5.09955 z "/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+<defs id="defs7">
+<linearGradient gradientTransform="matrix(0.99999,0,0,0.99999,51.624724,15.875082)" id="0" y1="32.369" y2="-16.429" gradientUnits="userSpaceOnUse" x2="0">
+<stop style="stop-color:#b72525" id="stop2"/>
+<stop offset="1" style="stop-color:#ff4b4b" id="stop4"/>
+</linearGradient>
+</defs>
+<circle cx="24" cy="24" style="fill:url(#0)" id="circle9" r="23.99976"/>
+<g style="fill:#fef57f;stroke-width:1.129">
+<path style="opacity:.8" id="path11" d="m 6.9346,14.2108 6.1733,-6.3083 2.2375,2.1896 -6.1733,6.3083 z"/>
+<path style="opacity:.8" id="path13" d="m 11.0151,18.204 6.1733,-6.3083 2.2375,2.1896 -6.1733,6.3083 z"/>
+<path style="opacity:.8;color:#000" id="path17" d="m 24.0028,17.4875 c -3.63418,0 -6.61807,2.9376 -6.61807,6.51533 0,3.57773 2.98389,6.50969 6.61807,6.50969 3.63418,0 6.61243,-2.93196 6.61243,-6.50969 0,-3.57773 -2.97825,-6.51533 -6.61243,-6.51533 m 0,3.1848 c 1.88652,0 3.38355,1.47332 3.38355,3.33048 0,1.85717 -1.49703,3.32484 -3.38355,3.32484 -1.88652,0 -3.38355,-1.46767 -3.38355,-3.32484 0,-1.85717 1.49703,-3.33048 3.38355,-3.33048"/>
+<path style="opacity:.8" id="path19" d="m 35.7365,7.9863 5.3289,5.8512 -7.1651,6.5254 -5.3289,-5.8512 z"/>
+<path style="opacity:.8" id="path21" d="m 18.9837,33.4581 h 8.82635 v 3.13066 H 18.9837 Z"/>
+<path style="opacity:.8" id="path23" d="m 18.9837,39.1673 h 8.82635 v 3.13066 H 18.9837 Z"/>
+</g>
+</svg>

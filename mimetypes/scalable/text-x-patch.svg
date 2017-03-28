@@ -1,0 +1,99 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<g id="layer1" transform="matrix(1.1422276,0,0,0.91859617,-3.4236888,1.9536064)">
+<path style="fill:#ecf0f1" id="rect4090" d="M 0,0 0,40 34,40 34.143818,-0.00210213 23,0 z" transform="translate(7,4)"/>
+<g style="fill:#7f8c8d;stroke:#003bc3;fill-rule:evenodd;stroke-linecap:square;stroke-width:0" id="g7">
+<rect width="23.362026" x="0" y="0" height="3.1810868" style="stroke-miterlimit:2.013" id="line2" transform="translate(12.3038,16.1417)"/>
+<g style="stroke-miterlimit:2" id="g10">
+<rect width="17.642252" x="15.178874" y="9.7795401" height="3.1810868" id="line"/>
+<rect width="23.362026" x="0" y="0" height="3.1810868" id="line21" transform="translate(12.2953,22.5039)"/>
+<rect width="23.362026" x="0" y="0" height="3.1810868" id="line22" transform="translate(12.3392,28.8661)"/>
+<rect width="23.362026" x="0" y="0" height="3.1810868" id="line23" transform="translate(12.3307,35.2282)"/>
+</g>
+</g>
+</g>
+<path style="fill:#764716" id="path4228" d="m 9.3061,39.6939 c 2.93877,2.93877 6.2449,3.30613 6.2449,3.30613 l 26.449,-26.449 c 0,0 -0.36734,-3.30613 -3.30612,-6.2449 -2.9386,-2.9386 -6.2449,-3.30613 -6.2449,-3.30613 l -26.449,26.449 c 0,0 0.367347,3.30613 3.30613,6.2449 z "/>
+<g id="g4424" transform="matrix(1.1043245,0,0,1.1043245,-1.4115334,-2.8371142)">
+<path style="fill:#eecaa5" id="path13148" d="m 9.7052,37.6076 c 2.66115,2.66115 5.65495,2.9938 5.65495,2.9938 l 23.9504,-23.9504 c 0,0 -0.332644,-2.9938 -2.9938,-5.65495 -2.66099,-2.66099 -5.65495,-2.9938 -5.65495,-2.9938 l -23.9504,23.9504 c -1.77636e-15,0 0.332644,2.9938 2.9938,5.65495 z "/>
+<path style="fill:#dfbd9d" id="path13178" d="m 21.2921,33.2781 10.9909,-10.9125 c 0.604462,-0.60015 -6.94873,-7.64025 -7.5532,-7.0401 l -10.9909,10.9125 c -0.604641,0.600328 6.94856,7.64043 7.5532,7.0401 z "/>
+<g style="fill:#fff" id="g19">
+<g id="g13180" transform="matrix(-0.33264401,0.33264401,0.33264401,0.33264401,33.289597,5.0417814)">
+<circle cx="11.399902" cy="7.5" r="0.5" id="circle13182"/>
+<circle cx="11.399902" cy="11.5" r="0.5" id="circle13184"/>
+<circle cx="11.399902" cy="15.5" r="0.5" id="circle13186"/>
+<circle cx="11.399902" cy="19.5" r="0.5" id="circle13188"/>
+<circle cx="15.399902" cy="3.5" r="0.5" id="circle13190"/>
+<circle cx="15.399902" cy="7.5" r="0.5" id="circle13192"/>
+<circle cx="15.399902" cy="11.5" r="0.5" id="circle13194"/>
+<circle cx="15.399902" cy="15.5" r="0.5" id="circle13196"/>
+<circle cx="15.399902" cy="19.5" r="0.5" id="circle13198"/>
+<circle cx="15.399902" cy="23.5" r="0.5" id="circle13200"/>
+<circle cx="19.399902" cy="7.5" r="0.5" id="circle13202"/>
+<circle cx="19.399902" cy="11.5" r="0.5" id="circle13204"/>
+<circle cx="19.399902" cy="15.5" r="0.5" id="circle13206"/>
+<circle cx="19.399902" cy="19.5" r="0.5" id="circle13208"/>
+<circle cx="23.399902" cy="3.5" r="0.5" id="circle13210"/>
+<circle cx="23.399902" cy="7.5" r="0.5" id="circle13212"/>
+<circle cx="23.399902" cy="11.5" r="0.5" id="circle13214"/>
+<circle cx="23.399902" cy="15.5" r="0.5" id="circle13216"/>
+<circle cx="23.399902" cy="19.5" r="0.5" id="circle13218"/>
+<circle cx="23.399902" cy="23.5" r="0.5" id="circle13220"/>
+</g>
+<g id="g13226" transform="matrix(-0.33264401,0.33264401,0.33264401,0.33264401,33.289597,5.0417814)">
+<circle cx="30.399902" cy="7.5" r="0.5" id="circle13228"/>
+<circle cx="30.399902" cy="11.5" r="0.5" id="circle13230"/>
+<circle cx="30.399902" cy="15.5" r="0.5" id="circle13232"/>
+<circle cx="30.399902" cy="19.5" r="0.5" id="circle13234"/>
+<circle cx="34.399902" cy="7.5" r="0.5" id="circle13236"/>
+<circle cx="34.399902" cy="11.5" r="0.5" id="circle13238"/>
+<circle cx="34.399902" cy="15.5" r="0.5" id="circle13240"/>
+<circle cx="34.399902" cy="19.5" r="0.5" id="circle13242"/>
+<circle cx="38.399902" cy="7.5" r="0.5" id="circle13244"/>
+<circle cx="38.399902" cy="11.5" r="0.5" id="circle13246"/>
+<circle cx="38.399902" cy="15.5" r="0.5" id="circle13248"/>
+<circle cx="38.399902" cy="19.5" r="0.5" id="circle13250"/>
+<circle cx="42.399902" cy="7.5" r="0.5" id="circle13252"/>
+<circle cx="42.399902" cy="11.5" r="0.5" id="circle13254"/>
+<circle cx="42.399902" cy="15.5" r="0.5" id="circle13256"/>
+<circle cx="42.399902" cy="19.5" r="0.5" id="circle13258"/>
+<circle cx="46.399902" cy="7.5" r="0.5" id="circle13260"/>
+<circle cx="46.399902" cy="11.5" r="0.5" id="circle13262"/>
+<circle cx="46.399902" cy="15.5" r="0.5" id="circle13264"/>
+<circle cx="46.399902" cy="19.5" r="0.5" id="circle13266"/>
+<circle cx="50.399902" cy="7.5" r="0.5" id="circle13268"/>
+<circle cx="50.399902" cy="11.5" r="0.5" id="circle13270"/>
+<circle cx="50.399902" cy="15.5" r="0.5" id="circle13272"/>
+<circle cx="50.399902" cy="19.5" r="0.5" id="circle13274"/>
+<circle cx="54.399902" cy="7.5" r="0.5" id="circle13276"/>
+<circle cx="54.399902" cy="11.5" r="0.5" id="circle13278"/>
+<circle cx="54.399902" cy="15.5" r="0.5" id="circle13280"/>
+<circle cx="54.399902" cy="19.5" r="0.5" id="circle13282"/>
+<circle cx="58.399902" cy="7.5" r="0.5" id="circle13284"/>
+<circle cx="58.399902" cy="11.5" r="0.5" id="circle13286"/>
+<circle cx="58.399902" cy="15.5" r="0.5" id="circle13288"/>
+<circle cx="58.399902" cy="19.5" r="0.5" id="circle13290"/>
+</g>
+<g id="g13292" transform="matrix(-0.33264401,0.33264401,0.33264401,0.33264401,33.289597,5.0417814)">
+<circle cx="65.399902" cy="3.5" r="0.5" id="circle13294"/>
+<circle cx="65.399902" cy="7.5" r="0.5" id="circle13296"/>
+<circle cx="65.399902" cy="11.5" r="0.5" id="circle13298"/>
+<circle cx="65.399902" cy="15.5" r="0.5" id="circle13300"/>
+<circle cx="65.399902" cy="19.5" r="0.5" id="circle13302"/>
+<circle cx="65.399902" cy="23.5" r="0.5" id="circle13304"/>
+<circle cx="69.399902" cy="7.5" r="0.5" id="circle13306"/>
+<circle cx="69.399902" cy="11.5" r="0.5" id="circle13308"/>
+<circle cx="69.399902" cy="15.5" r="0.5" id="circle13310"/>
+<circle cx="69.399902" cy="19.5" r="0.5" id="circle13312"/>
+<circle cx="73.399902" cy="3.5" r="0.5" id="circle13314"/>
+<circle cx="73.399902" cy="7.5" r="0.5" id="circle13316"/>
+<circle cx="73.399902" cy="11.5" r="0.5" id="circle13318"/>
+<circle cx="73.399902" cy="15.5" r="0.5" id="circle13320"/>
+<circle cx="73.399902" cy="19.5" r="0.5" id="circle13322"/>
+<circle cx="73.399902" cy="23.5" r="0.5" id="circle13324"/>
+<circle cx="77.399902" cy="7.5" r="0.5" id="circle13326"/>
+<circle cx="77.399902" cy="11.5" r="0.5" id="circle13328"/>
+<circle cx="77.399902" cy="15.5" r="0.5" id="circle13330"/>
+<circle cx="77.399902" cy="19.5" r="0.5" id="circle13332"/>
+</g>
+</g>
+</g>
+</svg>

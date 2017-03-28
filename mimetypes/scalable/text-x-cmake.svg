@@ -1,0 +1,10 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<g id="layer1" transform="matrix(1.1470591,0,0,0.91864444,-3.5294177,1.9525339)">
+<path style="fill:#ecf0f1" id="rect4090" d="m 0,-.0001 0,40.0001 h 34 v -40.0001 z " transform="translate(7,4)"/>
+<g style="stroke-miterlimit:2;stroke-width:0;stroke:#003bc3;fill-rule:evenodd;stroke-linecap:square">
+<path style="fill:#88c941" id="shape0" d="M 22.2331,7.35701 10.0509,0 0,7.35701 z" transform="translate(13.2499,29.7777)"/>
+<path style="fill:#e74c3c" id="shape01" d="m 0,0 .4322,15.5015 10.5156,6.3142 z " transform="translate(24.5178,15.3003)"/>
+<path style="fill:#3498db" id="shape02" d="M 0,21.8251 11.6505,13.3015 11.2461,0 z" transform="translate(13.2753,15.3031)"/>
+</g>
+</g>
+</svg>

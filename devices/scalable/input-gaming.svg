@@ -1,0 +1,31 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs4291">
+<clipPath id="clipPath3519" clipPathUnits="userSpaceOnUse">
+<path style="stroke:none;stroke-linecap:square;stroke-dashoffset:.361" id="path3521" d="m 49.053,377.9185 c -0.710706,0.07273 -1.33956,0.49196 -1.68004,1.12002 l -14.2803,26.3829 c -0.171895,0.32432 -0.254644,0.67287 -0.248894,1.02669 0.000172,0.01057 -0.000328,0.02054 0,0.03111 v 2.98673 0.31112 h 0.062223 c 0.045335,0.25962 0.109053,0.51286 0.248895,0.74669 0.388063,0.64889 1.07953,1.05365 1.8356,1.0578 h 220.863 c 0.76537,0.00175 1.4767,-0.39926 1.86671,-1.0578 0.13743,-0.23204 0.20572,-0.48851 0.2489,-0.74669 0.04872,-0.29136 0.06222,-0.87113 0.06222,-0.87113 v -2.08449 c 0,-0.49198 -0.03547,-0.98746 -0.28001,-1.43115 l -14.8403,-26.3828 c -0.38858,-0.68003 -1.11464,-1.09662 -1.89783,-1.08891 h -191.742 c -0.072548,-0.00367 -0.145236,-0.00367 -0.217783,0 z "/>
+</clipPath>
+<linearGradient gradientTransform="matrix(1.0208745,0,0,1.0208745,0.79037737,-0.02078015)" xlink:href="#linearGradient3857" id="linearGradient3782" y1="25.6024" x1="5.25774" y2="47.038803" x2="5.2832308" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="linearGradient3777">
+<stop offset="0" style="stop-color:#fff" id="stop3779"/>
+<stop offset="1" style="stop-color:#c8c8c8" id="stop3781"/>
+</linearGradient>
+<linearGradient id="linearGradient3857">
+<stop offset="0" style="stop-color:#e6e6e6" id="stop3859"/>
+<stop offset="0.69999999" style="stop-color:#e6e6e6" id="stop3863"/>
+<stop offset="0.75" style="stop-color:#aaa" id="stop3865"/>
+<stop offset="1" style="stop-color:#aaa" id="stop3861"/>
+</linearGradient>
+<linearGradient id="linearGradient4407">
+<stop offset="0" style="stop-color:#e6e6e6" id="stop4409"/>
+<stop offset="0.56323987" style="stop-color:#aaa" id="stop4571"/>
+<stop offset="0.76957035" style="stop-color:#646464" id="stop4573"/>
+<stop offset="1" style="stop-color:#646464" id="stop4411"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.048902,0,0,1.048902,-24.404171,-3.7011522)" xlink:href="#linearGradient4407" id="linearGradient4433" y1="8.5129795" x1="30.834169" y2="25.939911" x2="35.053295" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(1.2482472,0,0,1.2482472,-4.8226908,-5.1527241)" xlink:href="#linearGradient3777" id="linearGradient3783" y1="19.891404" x1="26.0658" y2="19.891404" x2="35.22716" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:none;stroke:url(#linearGradient4433);stroke-width:1.441" id="path3590" d="m 16.3002,26.942 c 0,0 -4.63205,-0.989943 -3.83026,-5.15868 0.975653,-5.07268 10.6358,-0.182782 10.6358,-3.75465 0,-5.73695 -21.812,0.167385 -22.3679,-3.75465 -0.42362,-2.98841 5.50128,-2.49622 8.44281,-3.96325 5.15729,-2.57208 -1.13377,-2.32412 -1.48533,-5.65903"/>
+<path style="fill:url(#linearGradient3782);stroke:#969696;stroke-width:.624" id="rect3771" d="m 8.9379,26.1702 36.3083,0 c 1.13113,0 2.01579,0.910918 2.04175,2.04175 l .4002,17.4344 c 0.02596,1.13083 -0.91062,2.04175 -2.04175,2.04175 h -37.1089 c -1.13113,0 -2.06772,-0.910918 -2.04175,-2.04175 l .4004,-17.4344 c 0.025972,-1.13083 0.91062,-2.04175 2.04175,-2.04175 z "/>
+<path style="fill:#ffdb00;stroke:#8c7800;stroke-width:.375" id="path3856" d="m 16.1622,30.085 c -3.26437,0 -5.89673,0.974662 -5.89673,2.1756 v 1.95002 c 0,1.20094 2.63237,2.1756 5.89673,2.1756 3.26437,0 5.94938,-0.974664 5.94938,-2.1756 v -1.95002 c 0,-1.20094 -2.68501,-2.1756 -5.94938,-2.1756 z "/>
+<path style="fill:url(#linearGradient3783);stroke:#828282;stroke-width:.624" id="rect3860" d="m 29.5209,4.2014 c -1.26035,0.477641 -1.49503,1.79905 -1.49503,3.0426 v 24.8869 c 0,2.09008 2.10167,3.78375 4.6878,3.78375 h 1.43591 c 2.58613,0 4.6878,-1.69367 4.6878,-3.78375 v -24.8869 c 0,-1.24355 -0.253152,-2.52532 -1.49503,-3.0426 -2.55172,-1.06287 -5.26186,-0.970016 -7.82145,0 z "/>
+<rect width="6.1366305" x="30.375906" y="1.1873314" rx="2.3049016" ry="2.3049016" height="10.739141" style="fill:#dc0a00;stroke:#690500;stroke-width:.375" id="rect3797"/>
+</svg>

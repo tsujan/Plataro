@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="application-x-pem-key.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="7.4237291"
+     inkscape:cy="23.59322"
+     inkscape:current-layer="svg2"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4" />
+  <path
+     style="fill:#34495e;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     d="m 4.499996,5.6271698 0,36.7456492 39.000009,0 0,-36.6066977 -12.61765,-0.1389515 z"
+     id="rect4090"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     style="fill:#bdc3c7;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     d="m 31.460244,26.230612 c 0,3.256895 -3.296762,5.897153 -7.363523,5.897153 -4.066714,0 -7.363454,-2.640258 -7.363454,-5.897153 0,-3.256932 3.29674,-5.89719 7.363454,-5.89719 4.066761,0 7.363523,2.640258 7.363523,5.89719 z"
+     id="rect3325" />
+  <rect
+     style="fill:#34495e;fill-rule:evenodd"
+     y="-26.786436"
+     x="23.868078"
+     ry="2.7240036"
+     rx="2.1815631"
+     height="5.4480071"
+     width="4.3631263"
+     transform="matrix(0,1,-1,0,0,0)"
+     id="rect3329" />
+  <rect
+     style="fill:#34495e;fill-rule:evenodd"
+     y="-25.424419"
+     x="26.049116"
+     height="2.7240067"
+     width="7.2196312"
+     transform="matrix(0,1,-1,0,0,0)"
+     id="rect3331" />
+</svg>

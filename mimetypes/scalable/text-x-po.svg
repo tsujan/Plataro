@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="text-x-po.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="13.906433"
+     inkscape:cx="39.206728"
+     inkscape:cy="21.167843"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <g
+     id="layer1"
+     transform="matrix(1.1422276,0,0,0.91864444,-3.4236888,1.9525339)">
+    <path
+       id="rect4090"
+       transform="translate(7,4)"
+       d="M 0,0 0,40 34,40 34.143818,0.06980703 23,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ecf0f1"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       id="rect4099"
+       transform="matrix(3.06859,-1.77165,1.77165,3.06859,15.2877,22.63)"
+       width="0.42396379"
+       height="4.1612043"
+       x="0"
+       y="0"
+       style="fill:#3498db" />
+    <path
+       id="rect4101"
+       transform="translate(16.5645,15.1741)"
+       d="M 0,7.06903 C 6.72711,5.08963 1.22784,4.35434 11.1498,0 l 3.9339,7.48239 C 6.4789,8.92669 10.021,13.4272 3.93393,14.5514 z"
+       inkscape:connector-curvature="0"
+       style="fill:#3498db" />
+  </g>
+</svg>

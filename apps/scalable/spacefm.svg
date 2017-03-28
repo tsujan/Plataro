@@ -1,0 +1,13 @@
+<svg width="96" version="1.0" xmlns="http://www.w3.org/2000/svg" height="96">
+<g style="stroke:none">
+<path style="fill:#1f7ec5" id="rect2419" d="m 12,6 72,0 c 3.324,0 6,2.676 6,6 v 72 c 0,3.324 -2.676,6 -6,6 h -72 c -3.324,0 -6,-2.676 -6,-6 v -72 c 0,-3.324 2.676,-6 6,-6 Z "/>
+<g style="fill-rule:evenodd">
+<path style="fill:#fafafa" id="path4163" d="m 47.983,18.6707 -29.983,29.3464 l 4.1471,4.1471 1.6505,-1.6085 v 26.7737 h 48.3369 v -5.86562 -20.9737 l 1.7185,1.674 4.1471,-4.1471 -29.983,-29.3464 -.0157,.0184 -.0184,-.0184 z "/>
+<path style="fill:#1f7ec5" id="path4158" d="m 48.0013,26.9831 20.0122,19.4935 0,26.8289 -40.0926,0 0,-26.766 20.0803,-19.5564 z "/>
+<g style="fill:#fafafa;stroke-linecap:round;stroke-linejoin:round;stroke-width:2">
+<rect width="16.095716" x="39.94302" y="57.209732" height="17.437025" id="rect4151"/>
+<path id="rect4153" d="m 64.0866,25.0183 8.0479,0 0,18.6442 -8.0479,-2.5485 z "/>
+</g>
+</g>
+</g>
+</svg>

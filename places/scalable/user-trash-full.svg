@@ -1,0 +1,29 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<g style="stroke:none" id="layer1" transform="translate(0,-1004.3622)">
+<g style="fill-rule:evenodd">
+<rect width="29.999998" x="9" y="1015.362" height="29.999998" style="fill:#c0392b" id="rect3280"/>
+<g style="fill:#800000">
+<rect width="4" x="33" y="1019.362" height="20" id="rect3340"/>
+<rect width="4" x="22" y="1019.362" height="20" id="rect3330"/>
+<rect width="4" x="11" y="1019.362" height="20" id="rect3334"/>
+</g>
+</g>
+<rect width="2.9024241" x="25.494261" y="1022.3965" rx="0" height="10.982065" ry="3.4123089" style="fill:#ccc" id="rect3028"/>
+<g style="fill-rule:evenodd">
+<g style="fill:#c0392b">
+<rect width="36" x="5.9999995" y="1015.3622" height="7" id="rect3282"/>
+<path id="path3376" d="m 17,4 l -2,5 v 2 h 2 v -2 -5 z  m 14,0 v 5 2 h 2 v -2 l -2,-5 z " transform="translate(0,1004.3622)"/>
+</g>
+<path style="fill:#800000" id="path3381" d="m 17,4 v 5 h 14 v -5 h -14 z " transform="translate(0,1004.3622)"/>
+</g>
+<g style="fill:none">
+<path id="path3332" d="m 1045.3619,-24 a 3.00208,3.00009 0 1,1 0,0 z " transform="matrix(0,1,-1,0,0,0)"/>
+<path id="path3336" d="m 1045.3619,-18 a 3.00208,3.00009 0 1,1 0,0 z " transform="matrix(0,1,-1,0,0,0)"/>
+<path id="path3338" d="m 1045.3619,-30 a 3.00208,3.00009 0 1,1 0,0 z " transform="matrix(0,1,-1,0,0,0)"/>
+</g>
+<g style="fill-rule:evenodd;fill:#fff">
+<path id="path3423" d="M 30.5,18 29.823342,32.216182 35,29 35,18 z" transform="translate(0,1004.3622)"/>
+<path id="rect3405" d="m 26,18 0,11 5.284439,0.07908 L 30.5,18 z" transform="translate(0,1004.3622)"/>
+</g>
+</g>
+</svg>

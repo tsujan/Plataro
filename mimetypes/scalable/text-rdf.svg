@@ -1,0 +1,21 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<g id="layer1" transform="matrix(1.1470591,0,0,0.91694783,-3.5294177,1.9901786)">
+<path style="fill:#ecf0f1" id="rect4090" d="M 0,0 0,40 34,40 33.928091,-0.07401129 23,0 z" transform="translate(7,4)"/>
+<g style="stroke:#003bc3;stroke-width:0;fill-rule:evenodd;stroke-linecap:square">
+<rect width="6.7608314" x="0" y="0" height="1.3750844" style="fill:#4d4d4d;stroke-miterlimit:2.013" id="shape0" transform="translate(21.0402,25.5045)"/>
+<g style="stroke-miterlimit:2">
+<g style="fill:#4d4d4d">
+<rect width="4.1198306" x="0" y="0" height="1.3750844" id="shape01" transform="translate(23.8912,17.5879)"/>
+<rect width="4.1198306" x="0" y="0" height="1.3750844" id="shape02" transform="translate(23.8827,33.4125)"/>
+</g>
+<g style="fill:#3498db">
+<rect width="7.4458194" x="0" y="0" height="5.4813366" id="line26" transform="translate(13.7172,23.4408)"/>
+<rect width="7.4405341" x="0" y="0" height="5.4813366" id="line241" transform="translate(27.5781,15.5653)"/>
+<rect width="7.4405341" x="0" y="0" height="5.4813366" id="line271" transform="translate(27.5781,23.4408)"/>
+<rect width="7.4405341" x="0" y="0" height="5.4813366" id="line2101" transform="translate(27.5781,31.3163)"/>
+</g>
+<rect width="17.174698" x="0" y="0" height="1.3750844" style="fill:#4d4d4d" id="shape03" transform="matrix(0,1,-1,0,25.2687,17.6075)"/>
+</g>
+</g>
+</g>
+</svg>

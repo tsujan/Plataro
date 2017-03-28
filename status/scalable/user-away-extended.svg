@@ -1,0 +1,16 @@
+<svg width="24" version="1.1" xmlns="http://www.w3.org/2000/svg" height="24" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs2818">
+<linearGradient id="linearGradient3669">
+<stop offset="0" style="stop-color:#fadd9e" id="stop3671"/>
+<stop offset="0.56897527" style="stop-color:#e2af40" id="stop3673"/>
+<stop offset="1" style="stop-color:#a7770d" id="stop3675"/>
+</linearGradient>
+<radialGradient fx="7.0000005" fy="7" cx="7.0000005" cy="7" gradientTransform="matrix(1.4703912,-0.0046094,0.0032895,1.0493421,-3.3157652,-0.31312891)" xlink:href="#linearGradient3669" id="radialGradient3773" r="9.5" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:#e2af40;stroke:url(#radialGradient3773)" id="path2819" d="m 7.3,16.5 c -1.83333,-0.0375 -4.8,-0.999999 -4.8,-4.6 v -3.6 c 0,-3.6 3,-4.7 4.8,-4.8 h 8.4 c 1.8,0.1375 4.8,1.2 4.8,4.8 v 3.6 c 0,3.6 -1.81667,4.6 -3.6,4.6 -2.8754,-0.01699 -0.619386,3.46918 0,5 h -0.799999 l -5.2,-5 h -3.6 z "/>
+<g style="stroke:none">
+<path style="fill:#bf8407" id="path2831" d="m 18.5,9.5 a 4,4 0 0,1 -8,0 4,4 0 1,1 8,0 z "/>
+<path style="fill:#fff" id="path3605" d="m 15.2956,10.4161 a 3.41606,3.41606 0 1,1 -6.83212,0 3.41606,3.41606 0 1,1 6.83212,0 z " transform="matrix(1.0245726,0,0,1.0245726,2.3285259,-1.1720083)"/>
+</g>
+<path style="fill:none;stroke:#606060;stroke-linejoin:round;stroke-linecap:round" id="path2817" d="m 16.25,9.5 -1.75,0 0,-2.6"/>
+</svg>

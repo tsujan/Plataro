@@ -1,0 +1,22 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<defs id="defs7386">
+<clipPath id="clipPath6279-3">
+<rect width="3.8250003" x="26.85" y="220.75" height="6.3750005" style="fill:#bebebe;stroke:none;color:#bebebe;stroke-width:2" id="rect6281-9"/>
+</clipPath>
+<clipPath id="clipPath6265-334">
+<rect width="2.8977277" x="26.96591" y="221.32954" height="5.21591" style="fill:#bebebe;stroke:none;color:#bebebe;stroke-width:2" id="rect6267-61"/>
+</clipPath>
+<clipPath id="clipPath6259-5">
+<rect width="1.8762827" x="26.998718" y="221.50153" height="4.8734746" style="fill:#bebebe;stroke:none;color:#bebebe;stroke-width:2" id="rect6261-61"/>
+</clipPath>
+</defs>
+<g style="stroke:none;color:#bebebe">
+<path style="opacity:.7" id="path4149" d="m .9978,37.302 5.3155,-5.3155 -.0668,-12.7707 1.2035,-1.1367 23.5355,23.5355 -1.0152,1.0188 -12.959,.0511 -5.3155,5.3155 -10.6979,-10.6979 Z "/>
+<g style="font-family:Sans;fill:#429cd6;text-align:start;line-height:normal;color:#000;text-indent:0;text-decoration-line:none;text-transform:none" id="g13" transform="matrix(0.784151,-0.784151,0.784151,0.784151,-15.21009,25.583189)">
+<path style="stroke-width:2.55;clip-path:url(#clipPath6279-3)" id="path3718" d="m 26.9375,220.4062 a 1.27513,1.27513 0 0,0 -0.65625,2.1875 c 0.757556,0.75756 0.757556,1.92994 0,2.6875 a 1.28163,1.28163 0 1,0 1.8125,1.8125 c 1.73204,-1.73204 1.73204,-4.58046 0,-6.3125 a 1.27513,1.27513 0 0,0 -1.15625,-0.375 z " transform="matrix(2.1400398,0,0,2.1400398,-34.86019,-455.24422)"/>
+<path style="stroke-width:1.159;clip-path:url(#clipPath6265-334)" id="path3726" d="m 27.125,221.0938 a 0.579603,0.579603 0 0 0 -0.34375,1 c 1.02332,1.02332 1.02332,2.66418 0,3.6875 a 0.579603,0.579603 0 1 0 0.8125,0.8125 c 1.46627,-1.46627 1.46627,-3.84623 0,-5.3125 A 0.579603,0.579603 0 0 0 27.125,221.0938 Z" transform="matrix(4.7080854,0,0,4.7080854,-98.900833,-1030.3264)"/>
+<path style="stroke-width:.75;clip-path:url(#clipPath6259-5)" id="path3728" d="m 27.0625,221.3125 a 0.375038,0.375038 0 0,0 -0.125,0.625 c 1.10149,1.10149 1.10149,2.89851 0,4 a 0.37565,0.37565 0 1,0 0.53125,0.53125 c 1.3881,-1.3881 1.3881,-3.6744 0,-5.0625 a 0.375038,0.375038 0 0,0 -0.40625,-0.0937 z " transform="matrix(7.2761416,0,0,7.2761416,-162.94153,-1605.4065)"/>
+</g>
+<path style="fill:#aaa" id="path5491" d="m .9978,36.302 5.3155,-5.3155 -.0668,-12.7707 1.2035,-1.1367 23.5355,23.5355 -1.0152,1.0188 -12.959,.0511 -5.3155,5.3155 -10.6979,-10.6979 Z "/>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="16" version="1.1" xmlns="http://www.w3.org/2000/svg" height="16">
+<g style="stroke:none">
+<g style="stroke-linecap:square;fill-rule:evenodd">
+<rect width="15.999997" x="3.2519531e-06" y="9.7127151" height="5.2872844" style="fill:#c8c8c8" id="rect4158"/>
+<rect width="15.999997" x="3.2519531e-06" y="7.8710937e-06" height="5.3093591" style="fill:#f0f0f0" id="rect4156"/>
+<rect width="7.115262" x="4.4857211" y="5.0000081" height="4.9741821" style="fill:#323232" id="rect4172"/>
+</g>
+<g style="color-interpolation:sRGB;color:#000">
+<path style="fill:#dcdcdc;color-interpolation-filters:linearRGB" id="path4170" d="m 0,4.9742 0,5 5.25,0 0,-5 z "/>
+<path style="fill:#323232;color-interpolation-filters:linearRGB" id="rect18279" d="m 2,6.9375 1,-.9375 0,3 -1,0 z "/>
+<path style="fill:#5a5a5a;color-interpolation-filters:linearRGB" id="rect18283" d="m 1.97112,0.97399 -1.0001,0 10e-5,1.0001 1,0 z m 0,1.0002 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z m 0,1 -1,0 0,1 1,0 z m -2,0 -1.0001,0 10e-5,1 1,0 z"/>
+<path style="fill:#dcdcdc;color-interpolation-filters:linearRGB" id="path4166" d="m 5.75,4.9742 0,5 4.5,0 0,-5 z "/>
+<path style="fill:#323232;color-interpolation-filters:linearRGB" id="path18348" d="m 7.0307,6 1.0309,0 c 0.76611,0 0.93833,0.38933 0.93833,0.97268 0,0.0748 -0.0227,0.11467 -0.0616,0.2212 l -.4,.7653 h 0.46154 v 1.04082 h -1.2 -0.8 l 1.0123,-1.867 c 0.0462,-0.0918 -0.0008,-0.1496 -0.0584,-0.15343 h -0.92309 z "/>
+<path style="fill:#dcdcdc;color-interpolation-filters:linearRGB" id="path4162" d="m 10.75,4.9742 0,5 5.25,0 0,-5 z "/>
+<path style="fill:#323232;color-interpolation-filters:linearRGB" id="path18350" d="m 12,6.0001 2,0 0,1 -.2461,.5 .2461,.5 0,1 -1.9999,0 0,-1 .8923,0 -.2461,-.4688 .2769,-.5312 -.923,0 z "/>
+<g style="fill:#5a5a5a">
+<path style="color-interpolation-filters:linearRGB" id="path18386" d="m 13.97112,13.97399 0.9999,0 1e-4,-0.9998 -1,0 z m 0,-0.9998 0,-1 -1,0 0,1 z m -1,0 -1,0 0,1 1,0 z m -1,0 0,-1 -1,0 0,1 z m 0,-1 1,0 0,-1 -1,0 z m 2,0 0.9999,0 1e-4,-1 -1,0 z"/>
+<path style="color-interpolation-filters:linearRGB" id="path4206" d="m 8.8774,13.974 .9999,0 .0001,-.9998 -1,0 z  m 0,-.9998 0,-1 -1,0 0,1 z  m -1,0 -1,0 0,1 1,0 z  m -1,0 0,-1 -1,0 0,1 z  m 0,-1 1,0 0,-1 -1,0 z  m 2,0 .9999,0 .0001,-1 -1,0 z "/>
+<path style="color-interpolation-filters:linearRGB" id="path4208" d="m 3.8608,13.974 .9999,0 .0001,-.9998 -1,0 z  m 0,-.9998 0,-1 -1,0 0,1 z  m -1,0 -1,0 0,1 1,0 z  m -1,0 0,-1 -1,0 0,1 z  m 0,-1 1,0 0,-1 -1,0 z  m 2,0 .9999,0 .0001,-1 -1,0 z "/>
+<path style="color-interpolation-filters:linearRGB" id="path4212" d="m 7.03372,0.97409 -1.0001,0 10e-5,1.0001 1,0 z m 0,1.0002 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z m 0,1 -1,0 0,1 1,0 z m -2,0 -1.0001,0 10e-5,1 1,0 z"/>
+<path style="color-interpolation-filters:linearRGB" id="path4214" d="m 12.059123,0.97419 -1.0001,0 10e-5,1.0001 1,0 z m 0,1.0002 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z m 0,1 -1,0 0,1 1,0 z m -2,0 -1.0001,0 10e-5,1 1,0 z"/>
+</g>
+</g>
+</g>
+</svg>

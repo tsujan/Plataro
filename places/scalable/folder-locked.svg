@@ -1,0 +1,12 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.65;fill:#fff;stroke:none" id="rect4154" d="m 3,1.959 0,9.342 42,0 0,-6.9866 -22,0 0,-2.3555 z"/>
+<g id="folderLayer">
+<g style="stroke:none" id="g3053" transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
+<rect width="18" x="4" y="6.9996953" height="10" id="folderTab"/>
+<rect width="40" x="4" y="9" height="30" id="folderBackground"/>
+<rect width="35.999992" x="6" y="10.9998" height="27.999756" style="fill:#fff" id="folderPaper"/>
+<rect width="43.999996" x="2" y="12.999983" height="28.000008" style="fill:#5e87b2" id="folderFront"/>
+</g>
+<path style="fill:#fff;fill-rule:evenodd;stroke:none" id="rect3272" d="m 23.6625,15.125 c -3.42788,0 -6.1875,2.62025 -6.1875,5.875 v 5.875 h -2.475 v 11.75 h 18.15 v -11.75 h -2.475 v -5.875 c 0,-3.25475 -2.75962,-5.875 -6.1875,-5.875 h -0.825 z  m .4125,3.1333 c 1.8282,0 3.3,1.39747 3.3,3.13333 0,0.0052 -0.0016,0.01006 -0.0017,0.0153 h 0.0017 v 5.46804 h -6.6 v -5.46803 h 0.0017 c -6.5e-05,-0.0052 -0.0017,-0.01005 -0.0017,-0.0153 0,-1.73587 1.4718,-3.13333 3.3,-3.13333 z "/>
+</g>
+</svg>

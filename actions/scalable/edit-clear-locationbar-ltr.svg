@@ -1,0 +1,16 @@
+<svg width="128" version="1.0" xmlns="http://www.w3.org/2000/svg" height="128" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs4">
+<clipPath id="clipPath3405" clipPathUnits="userSpaceOnUse">
+<path style="fill:url(#linearGradient3409);stroke:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:8;stroke-dashoffset:4" id="path3407" d="m 185.5,28 c -0.99276,-0.001631 -1.95066,0.365936 -2.6875,1.03125 l -40,36 c -0.83978,0.758484 -1.31903,1.83715 -1.31903,2.96875 0,1.1316 0.47925,2.21027 1.31903,2.96875 l 40,36 c 0.73684,0.66531 1.69474,1.03288 2.6875,1.03125 h 56 c 2.20905,-0.00022 3.99978,-1.79095 4,-4 v -72 c -0.00022,-2.20905 -1.79095,-3.99978 -4,-4 h -56 z "/>
+</clipPath>
+<linearGradient gradientTransform="matrix(0,1,-1,0,-39.9985,140.0029)" id="linearGradient26907" y1="-383.9971" y2="-383.9971" x1="-84.002403" x2="-12.0029" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#888a85" id="stop26909"/>
+<stop offset="1" id="stop26911"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(129.5,0)" xlink:href="#linearGradient26907" id="linearGradient3409" y1="-16" x1="72" y2="64" gradientUnits="userSpaceOnUse" x2="72"/>
+</defs>
+<g style="stroke:none" id="layer1" transform="matrix(-1,0,0,1,128,0)">
+<path style="fill:#505050" id="path2941" d="m 56,24 c -1.98431,-0.0033 -3.90222,0.732684 -5.375,2.0625 l -40,36 C 8.94709,63.57798 8,65.73901 8,68 c -8e-7,2.26099 0.947089,4.42202 2.625,5.9375 l 40,36 c 1.47277,1.3298 3.39068,2.06576 5.375,2.0625 h 56 c 4.37052,-4.4e-4 7.99956,-3.62948 8,-8 V 32 c -4.4e-4,-4.37052 -3.62948,-7.99956 -8,-8 H 56 z"/>
+<path style="fill:#fff" id="rect3376" d="M 59.1782,37.8643 47.3657,49.6455 64.4282,66.708 47.3657,83.7392 59.1782,95.5517 76.2094,78.4892 93.2719,95.5517 105.0531,83.7392 88.0219,66.708 105.0531,49.6455 93.2719,37.8643 76.2094,54.8955 59.1782,37.8643 z"/>
+</g>
+</svg>

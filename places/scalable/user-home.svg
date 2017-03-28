@@ -1,0 +1,12 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.65;fill:#fff;stroke:none" id="rect4154" d="m 3,1.959 0,9.342 42,0 0,-6.9866 -22,0 0,-2.3555 z"/>
+<g id="folderLayer">
+<g style="stroke:none" id="g3053" transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
+<rect width="18" x="4" y="6.9996953" height="10" id="folderTab"/>
+<rect width="40" x="4" y="9" height="30" id="folderBackground"/>
+<rect width="35.999992" x="6" y="10.9998" height="27.999756" style="fill:#fff" id="folderPaper"/>
+<rect width="43.999996" x="2" y="12.999983" height="28.000008" style="fill:#5e87b2" id="folderFront"/>
+</g>
+<path style="fill:#fff;fill-rule:evenodd;stroke:none" id="folderGlyph" d="m 24.0192,16.8852 -1.4141,1.4141 .0059,.0059 -8.5859,8.5859 1.4141,1.4141 8.5859,-8.5859 8.5859,8.5859 1.4141,-1.4141 -2.0059,-2.0059 .0059,0 0,-8 -2,0 0,6.0059 -4.5859,-4.5859 .0059,-.0059 -1.4141,-1.4141 -.0059,.0059 -.0059,-.0059 z  m -7.9941,13 0,7 2,0 14,0 0,-2 0,-5 -2,0 0,5 -12,0 0,-5 z "/>
+</g>
+</svg>

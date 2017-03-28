@@ -1,0 +1,24 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#a0892c" id="rect4090" d="m 4.5,5.6271 0,36.7458 39,0 0,-36.8005 -12.6176,.0547 z "/>
+<g style="stroke:#003bc3;stroke-width:0;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:2">
+<rect width="10.45095" x="18.989187" y="19.586189" height="8.3698444" style="fill:#2c3e50" id="shape0"/>
+<g style="fill:#ffcf0f">
+<rect width="1.1826" x="20.383324" y="15.755718" height="3.3673282" id="rect11"/>
+<rect width="1.1826" x="22.566635" y="15.766925" height="3.3595202" id="shape1"/>
+<rect width="1.1826" x="24.690416" y="15.766925" height="3.3530655" id="shape2"/>
+<rect width="1.1826" x="26.923855" y="15.771702" height="3.3530655" id="shape3"/>
+<rect width="0.94710809" x="20.689573" y="-34.343719" height="4.2045913" id="shape4" transform="matrix(0,1,-1,0,0,0)"/>
+<rect width="0.94710809" x="22.438122" y="-34.329727" height="4.1948419" id="shape5" transform="matrix(0,1,-1,0,0,0)"/>
+<rect width="0.94710809" x="24.13899" y="-34.329727" height="4.1867824" id="shape6" transform="matrix(0,1,-1,0,0,0)"/>
+<rect width="0.94710809" x="25.927685" y="-34.323761" height="4.1867824" id="shape7" transform="matrix(0,1,-1,0,0,0)"/>
+<rect width="1.1826" x="-28.275549" y="-31.788452" height="3.3673282" id="shape8" transform="scale(-1,-1)"/>
+<rect width="1.1826" x="-26.092236" y="-31.777245" height="3.3595202" id="shape9" transform="scale(-1,-1)"/>
+<rect width="1.1826" x="-23.968571" y="-31.777245" height="3.3530655" id="shape10" transform="scale(-1,-1)"/>
+<rect width="1.1826" x="-21.735018" y="-31.772558" height="3.3530655" id="shape11" transform="scale(-1,-1)"/>
+<rect width="0.94710809" x="-26.854689" y="14.315266" height="4.2045913" id="shape12" transform="matrix(0,-1,1,0,0,0)"/>
+<rect width="0.94710809" x="-25.10614" y="14.32926" height="4.1948419" id="shape13" transform="matrix(0,-1,1,0,0,0)"/>
+<rect width="0.94710809" x="-23.40527" y="14.32926" height="4.1867824" id="shape14" transform="matrix(0,-1,1,0,0,0)"/>
+<rect width="0.94710809" x="-21.616486" y="14.33511" height="4.1867824" id="shape15" transform="matrix(0,-1,1,0,0,0)"/>
+</g>
+</g>
+</svg>

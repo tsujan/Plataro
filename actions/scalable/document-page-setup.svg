@@ -1,0 +1,26 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#ecf0f1" id="rect4090-8" d="m 4.572,5.6282 0,36.7438 38.8357,0 .1643,-36.7458 -12.7288,.0019 z "/>
+<g style="fill-rule:evenodd">
+<g style="stroke-width:0;stroke:#003bc3;stroke-linecap:square">
+<rect width="26.684752" x="10.630147" y="16.781471" height="2.9221342" style="fill:#b4bcbc;stroke-miterlimit:2.013" id="line2"/>
+<g style="stroke-miterlimit:2">
+<g style="fill:#b4bcbc">
+<rect width="20.151466" x="13.914136" y="10.937217" height="2.9221342" id="line"/>
+<rect width="16.36001" x="10.620436" y="22.625763" height="2.9221363" id="line21"/>
+<rect width="9.8099051" x="10.67058" y="28.470057" height="2.922138" id="line22"/>
+</g>
+<rect width="26.684752" x="10.660873" y="34.314259" height="2.9221342" style="fill:#7f8c8d" id="line23"/>
+</g>
+</g>
+<g style="stroke:#a38503" id="g4165" transform="matrix(-1,0,0,1,48.48503,-5.2458449)">
+<path style="fill:#9fd36d;stroke:#59852f;stroke-width:1.024" id="path4319" d="m 3.9652,13.1036 0,30.7126 39.9263,0 l -39.9263,-30.7126 Z  m 6.1425,13.3088 15.3563,11.2613 -15.3563,0 0,-11.2613 z "/>
+<g style="fill:none;fill-opacity:.75;stroke-linecap:round" id="g4168">
+<path style="stroke:#59852f" id="path4326" d="m 8.5,43.5 0,-3"/>
+<path style="stroke:#59852f" id="path4328" d="m 14.5,43.5 0,-3"/>
+<path style="stroke:#59852f" id="path4330" d="m 20.5,43.5 0,-2.9643"/>
+<path style="stroke:#59852f" id="path4332" d="m 26.5,43.5 0,-3"/>
+<path style="stroke:#59852f" id="path4334" d="m 32.5,43.5 0,-3"/>
+</g>
+</g>
+</g>
+</svg>

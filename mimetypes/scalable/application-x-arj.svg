@@ -1,0 +1,26 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#f95" id="path3001" d="m 4.5323,5.6497 0,36.6961 38.926,0 .074,-36.7458 -12.6677,.0497 z "/>
+<g id="g3018" transform="matrix(1.1035756,0,0,0.88043476,-2.4851693,0.4048375)">
+<rect width="5.4171777" x="21.276451" y="5.6516771" height="19.768995" style="fill:#34495e;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2.013" id="shape0"/>
+<rect width="3.2502258" x="21.302784" y="5.6575394" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2.013" id="shape1"/>
+<rect width="3.2502258" x="23.462261" y="7.1211071" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape2"/>
+<rect width="3.2502258" x="21.302898" y="8.5871429" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape3"/>
+<rect width="3.2502258" x="23.46249" y="10.05072" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape4"/>
+<rect width="3.2502258" x="21.299692" y="11.51816" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape5"/>
+<rect width="3.2502258" x="23.459169" y="12.981691" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape6"/>
+<rect width="3.2502258" x="21.299692" y="14.4477" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape7"/>
+<rect width="3.2502258" x="23.459169" y="15.911323" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape8"/>
+<rect width="3.2502258" x="21.278053" y="17.377422" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape9"/>
+<rect width="3.2502258" x="23.437416" y="18.840956" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape10"/>
+<rect width="3.2502258" x="21.278053" y="20.307055" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape11"/>
+<rect width="3.2502258" x="23.437647" y="21.770586" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape12"/>
+<rect width="3.2502258" x="21.274849" y="23.238062" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape13"/>
+<rect width="5.4090157" x="21.286068" y="24.821316" height="9.7533731" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape17"/>
+<rect width="3.1705625" x="22.425798" y="25.795046" height="2.3073425" style="fill:#2c3e50;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape18"/>
+</g>
+<g style="fill:#233241">
+<path id="path4157" d="m 22.1484,38.4731 -2.3516,0 -.3711,1.0625 -1.5117,0 2.1602,-5.832 1.793,0 2.1602,5.832 -1.5117,0 -.3672,-1.0625 z  m -1.9766,-1.082 1.5977,0 -.7969,-2.3203 -.8008,2.3203 z "/>
+<path id="path4159" d="m 27.9844,36.352 q -0.183594,-0.08594 -0.367188,-0.125 -0.179687,-0.04297 -0.363281,-0.04297 -0.539062,0 -0.832031,0.347656 -0.289063,0.34375 -0.289063,0.988281 v 2.01562 h -1.39844 v -4.375 h 1.39844 v 0.71875 q 0.269532,-0.429687 0.617188,-0.625 0.351562,-0.199219 0.839844,-0.199219 0.07031,0 0.152343,0.0078 0.08203,0.0039 0.238282,0.02344 l .0039,1.2656 z "/>
+<path id="path4161" d="m 28.6875,35.1606 1.3984,0 0,4.2969 q 0,0.878906 -0.421875,1.33984 -0.421875,0.464844 -1.22266,0.464844 h -0.691406 v -0.917969 h 0.242187 q 0.398438,0 0.546875,-0.179688 0.148438,-0.179687 0.148438,-0.707031 v -4.29688 z  m 0,-1.7031 1.3984,0 0,1.1406 -1.3984,0 0,-1.1406 z "/>
+</g>
+</svg>

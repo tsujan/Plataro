@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="text-x-haskell.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="13.906433"
+     inkscape:cx="29.806769"
+     inkscape:cy="23.998002"
+     inkscape:current-layer="svg2"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4" />
+  <g
+     id="layer1"
+     transform="matrix(1.1470591,0,0,0.91859617,-3.5294177,1.9536064)">
+    <path
+       id="rect4090"
+       transform="translate(7,4)"
+       d="M 0,0 0,40 34,40 34.106942,-0.08038372 23,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:#b3b3b3"
+       sodipodi:nodetypes="cccccc" />
+    <g
+       id="group0"
+       transform="translate(11.6722,13.957)"
+       style="fill:none">
+      <path
+         id="shape0"
+         transform="translate(1.07605,3.34609)"
+         d="M 0,17.8025 5.49455,8.90123 0,0 4.12086,0 9.61544,8.90123 4.12086,17.8025 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#34495e" />
+      <path
+         id="shape1"
+         transform="translate(6.58005,3.34609)"
+         d="M 0,17.8025 5.51341,8.90123 0,0 l 4.135,0 11.0266,17.8025 -4.135,0 L 7.58091,12.2394 4.135,17.8025 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#34495e" />
+      <path
+         id="shape2"
+         transform="translate(18.0451,12.9851)"
+         d="M 1.83136,2.98934 0,2.05949e-4 6.41002,0 l 0,2.98934 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#34495e" />
+      <path
+         id="shape3"
+         transform="translate(15.2941,8.53609)"
+         d="M 1.83677,2.98934 0,2.05949e-4 9.18348,0 l 0,2.98934 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#34495e" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.65;fill:#fff;stroke:none" id="rect4154" d="m 3,1.959 0,9.342 42,0 0,-6.9866 -22,0 0,-2.3555 z"/>
+<g id="folderLayer">
+<g id="g3053" transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
+<rect width="18" x="4" y="6.9996953" height="10" style="stroke:none" id="folderTab"/>
+<rect width="40" x="4" y="9" height="30" style="stroke:none" id="folderBackground"/>
+<rect width="35.999992" x="6" y="10.9998" height="27.999756" style="fill:#fff;stroke:none" id="folderPaper"/>
+<rect width="43.999996" x="2" y="12.999983" height="28.000008" style="fill:#5e87b2;stroke:none" id="folderFront"/>
+</g>
+<g style="fill:#fff" id="layer1" transform="matrix(0.52745067,0,0,0.66563062,3.3627467,11.009307)">
+<path style="fill-rule:evenodd" id="path4127" d="M 0,0 0,30 13.334,15.0012 z" transform="translate(5,9)"/>
+<path style="fill-rule:evenodd" id="path4125" d="M 0,0 17.6439,17 19,18.3 20.3561,17 38,0 z" transform="translate(5,9)"/>
+<path style="fill-rule:evenodd" id="path4123" d="M 13.334,0 0,15.0012 13.334,30 z" transform="translate(29.666,9)"/>
+<path style="fill-rule:evenodd" id="rect3260" d="M 15.2227,0 0,12.6309 l 37.5547,0 L 22.332,0 18.7773,3.36719 z" transform="translate(5.22266,26.3691)"/>
+</g>
+<g style="fill:#ff0505" id="g4280" transform="matrix(1.2694179,0,0,-1.4174352,-7.797978,72.146292)">
+<path style="fill-rule:evenodd;stroke:none" id="path4149" d="m 31.3611,17.0352 0,12.802 7,0 0,-12.802 z "/>
+<path style="stroke:none" id="path3766" d="m 34.8611,36.5711 -7.5,-9 15,0 z "/>
+</g>
+</g>
+</svg>

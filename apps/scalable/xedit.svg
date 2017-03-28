@@ -1,0 +1,19 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs3444">
+<linearGradient id="linearGradient3784">
+<stop offset="0" style="stop-color:#f55" id="stop3786"/>
+<stop offset="1" style="stop-color:#c80000" id="stop3788"/>
+</linearGradient>
+<linearGradient id="linearGradient4142">
+<stop offset="0" style="stop-color:#feb203" id="stop4144"/>
+<stop offset="1" style="stop-color:#fee703" id="stop4146"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(0,-552)" xlink:href="#linearGradient4142" id="linearGradient4148" y1="572.14105" x1="13.743014" y2="568.56665" x2="16.43556" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(1.0323636,0,0.04244133,1.0323636,-25.221812,-570.33724)" xlink:href="#linearGradient3784" id="linearGradient3772" y1="572.31714" x1="14.176106" y2="582.62915" gradientUnits="userSpaceOnUse" x2="29.993732"/>
+</defs>
+<g style="stroke:none;fill-rule:evenodd">
+<path style="fill:#efa701;stroke-width:1.633" id="path4497" d="m 6.5401,43.1632 c -3.09026,2.61371 1.64957,6.55956 3.67672,2.82806 0.712037,-1.31069 -2.16962,-4.10275 -3.67672,-2.82806 z "/>
+<path style="fill:url(#linearGradient3772)" id="path2478" d="m 33.0086,1.5 c -5.08722,-0.006 -6.60804,1.85454 -12.8412,10.9714 -1.44242,2.10974 -2.77726,3.5011 -3.89822,4.19459 l 16.6188,11.2075 c 0.0286,0.0183 0.05625,0.0385 0.08223,0.0591 -0.0027,-1.07461 1.58146,-4.22385 4.14017,-7.86789 5.49835,-7.8306 6.12282,-11.6254 2.56984,-15.6295 -2.49676,-2.16685 -4.56052,-2.93248 -6.67156,-2.93519 Z  m -19.2177,18.606 c -0.293392,1.23053 -1.52375,3.33273 -3.18607,5.8919 -5.15693,7.93919 -5.58721,14.8118 -3.02276,17.9487 0.796406,0.974196 1.43629,1.30301 2.21823,1.61389 2.55423,1.01548 6.53356,0.196156 10.8412,-3.58304 2.41426,-2.11809 5.14618,-5.83182 6.48156,-7.82245 1.04639,-1.55985 1.97756,-2.30006 3.06269,-2.98884 z "/>
+<path style="fill:url(#linearGradient4148)" id="rect2482" d="m 16.7134,16.2894 16.5412,11.6012 c 0.553567,0.38825 -0.146563,1.76689 -0.687547,2.45313 -0.540983,0.68624 -1.91565,1.83095 -2.46922,1.44271 l -16.5412,-11.6012 c -0.553575,-0.38826 -0.07021,-2.15809 0.470773,-2.84433 0.540984,-0.68625 2.13242,-1.43976 2.686,-1.05152 z"/>
+</g>
+</svg>

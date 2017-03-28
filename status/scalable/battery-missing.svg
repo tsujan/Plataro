@@ -1,0 +1,25 @@
+<svg width="48" version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47.25 43.407375" height="48" style="overflow:visible;enable-background:new 0 0 126 115.753">
+<defs id="defs15">
+<clipPath id="clipPath6279-3">
+<rect width="3.8250003" x="26.85" y="220.75" height="6.3750005" style="fill:#bebebe;stroke:none;color:#bebebe;stroke-width:2" id="rect6281-9"/>
+</clipPath>
+<clipPath id="clipPath6265-334">
+<rect width="2.8977277" x="26.96591" y="221.32954" height="5.21591" style="fill:#bebebe;stroke:none;color:#bebebe;stroke-width:2" id="rect6267-61"/>
+</clipPath>
+<clipPath id="clipPath6259-5">
+<rect width="1.8762827" x="26.998718" y="221.50153" height="4.8734746" style="fill:#bebebe;stroke:none;color:#bebebe;stroke-width:2" id="rect6261-61"/>
+</clipPath>
+</defs>
+<g style="stroke:none;color:#bebebe">
+<path style="fill:#00a200" id="path4179" d="m 14.8887,3.4312 c -0.64421,0 -1.16895,0.434301 -1.16895,0.953613 v 36.2681 c 0,0.519308 0.52474,0.953614 1.16895,0.953614 5.94839,1.05656 11.744,0.714753 17.4727,0 0.64421,0 1.16895,-0.434306 1.16895,-0.953614 v -36.2681 c 4e-06,-0.519316 -0.524734,-0.953613 -1.16895,-0.953613 h -1.32275 -14.8271 z "/>
+<path style="fill:#d2d2d2" id="path3485" d="m 18.5031,-.051 10.2439,0 c 0.641628,-6.85e-06 1.15816,0.652672 1.15815,1.46341 v 4.8574 c -4.02263,0.499083 -8.16242,0.641838 -12.5602,9e-07 v -4.8574 c 2e-06,-0.810729 0.516535,-1.46341 1.15816,-1.46341 z "/>
+<g style="fill:#fff" id="g9">
+<rect width="0.46697369" x="109.50977" y="152.06654" height="0" style="opacity:.578" id="rect1327"/>
+<rect width="0.46697369" x="93.106468" y="140.782" height="0" style="opacity:.578" id="rect2482"/>
+</g>
+<g style="text-indent:0;stroke-width:2">
+<path style="opacity:.9;fill:#fff" id="path4196" d="m 23.8984,23.8984 0,8.6386 4.3026,4.3028 -4.3026,4.3032 0,3.7496 c 3.01762,-0.03466 6.00597,-0.303196 8.97656,-0.673828 0.654436,0 1.1875,-0.441199 1.1875,-0.96875 v -16.9707 l -2.4492,-2.3809 z " transform="matrix(0.98437494,0,0,0.98437494,0,-1.9213118)"/>
+<path style="fill:#ff3219" id="path3761-2-3-5-4-8-9-8-0-1-7" d="m 25.0013,23.08 6.1184,0 5.0059,4.8669 4.8669,-4.8669 6.2575,0 0,6.5356 -4.8669,4.7279 4.8669,4.7279 0,6.2575 -6.3965,0 -4.7279,-4.7279 -4.7279,4.7279 -6.3965,0 0,-6.2575 4.7279,-4.7279 -4.7279,-4.7279 0,-6.5356 z "/>
+</g>
+</g>
+</svg>

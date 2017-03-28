@@ -1,0 +1,11 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs8">
+<linearGradient id="linearGradient3779">
+<stop offset="0" style="stop-color:#b2b9be" id="stop3781"/>
+<stop offset="1" style="stop-color:#bdc3c7;stop-opacity:.51" id="stop3783"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.1501703,0,0,0.88442076,-3.5224377,3.8785863)" xlink:href="#linearGradient3779" id="linearGradient3073" y1="2.1564658" x1="7.1517768" y2="43.522217" gradientUnits="userSpaceOnUse" x2="35.66811"/>
+</defs>
+<path style="fill:#ecf0f1" id="rect4090" d="m 4.5,5.627 0,36.746 39,-.0001 0,-36.6848 -12.6176,-.0609 z "/>
+<path style="fill:url(#linearGradient3073);fill-rule:evenodd;stroke:none;color:#000" id="rect4691" d="m 4.5,5.625 v 5.25 h 6.5 v -5.25 h -6.5 z  m 6.5,5.25 v 5.25 h 6.5 v -5.25 h -6.5 z  m 6.5,0 h 6.5 v -5.25 h -6.5 v 5.25 z  m 0,5.25 v 5.25 h 6.5 6.5 v -5.25 h -6.5 -6.5 z  m 13,0 h 6.5 v -5.25 h -6.5 v 5.25 z  m 6.5,0 v 5.25 h 6.5 v -5.25 h -6.5 z  m 0,5.25 h -6.5 v 5.25 h 6.5 v -5.25 z  m 0,5.25 v 5.25 h 6.5 v -5.25 h -6.5 z  m -6.5,0 h -6.5 v 5.25 h 6.5 v -5.25 z  m -6.5,5.25 h -6.5 v 5.25 h 6.5 v -5.25 z  m -6.5,5.25 h -6.5 v 5.25 h 6.5 v -5.25 z  m -6.5,0 v -5.25 h -6.5 v 5.25 h 6.5 z  m 0,-5.25 h 6.5 v -5.25 -5.25 h -6.5 v 5.25 5.25 z  m 0,-10.5 v -5.25 h -6.5 v 5.25 h 6.5 z  m 19.5,15.75 v 5.25 h 6.5 v -5.25 h -6.5 z "/>
+</svg>

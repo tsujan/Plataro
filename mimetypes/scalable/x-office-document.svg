@@ -1,0 +1,15 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<g id="layer1" transform="matrix(1.1470591,0,0,0.91855768,-3.5294177,1.9544618)">
+<path style="fill:#2980b9" id="rect4090" d="m 0,-.004 -0,40.004 h 34 v -40.004 z " transform="translate(7,4)"/>
+<g style="stroke:#003bc3;stroke-width:0;fill-rule:evenodd;stroke-linecap:square;fill:#ecf0f1">
+<rect width="23.362026" x="0" y="0" height="3.1810868" style="stroke-miterlimit:2.013" id="line2" transform="translate(12.3038,16.1417)"/>
+<g style="stroke-miterlimit:2">
+<rect width="11.115499" x="0" y="0" height="3.1810868" id="line" transform="translate(18.861,9.77954)"/>
+<rect width="13.562757" x="0" y="0" height="3.1810868" id="line21" transform="translate(12.2953,22.5039)"/>
+<rect width="13.562757" x="0" y="0" height="3.1810868" id="line22" transform="translate(12.3208,28.8661)"/>
+<rect width="23.362026" x="0" y="0" height="3.1810868" id="line23" transform="translate(12.3307,35.2282)"/>
+</g>
+<rect width="6.5734076" x="0" y="0" height="9.5378857" style="stroke-miterlimit:2.013" id="shape0" transform="translate(29.0863,22.4914)"/>
+</g>
+</g>
+</svg>

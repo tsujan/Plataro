@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="text-x-vcard.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="12.951622"
+     inkscape:cx="27.254237"
+     inkscape:cy="22.208097"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <g
+     id="layer1"
+     transform="matrix(1.1470591,0,0,0.91770178,-3.5294177,1.9734667)">
+    <path
+       id="rect4090"
+       transform="translate(7,4)"
+       d="M 0,0 0,40 34,40 33.92279,-0.0410882 23,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ecf0f1"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="path3286"
+       transform="translate(16.0326,16.9639)"
+       d="M 8.34614,0 C 6.01471,1.53553e-4 3.89589,2.35486 3.89589,4.94258 c 0,1.14528 0.41566,2.24436 1.0805,3.11446 l 0,0.65761 C 4.03686,9.1751 3.1686,9.81588 2.44255,10.6225 0.898134,12.3381 0,14.7499 0,17.1759 l 0,1.3588 0.103268,0 1.495752,0 0.75547,0 3.21105,0 1.11313,0 3.33933,0 1.1131,0 3.2111,0 0.7554,0 1.4958,0 0.1033,0 0,-1.3588 c 0,-2.4261 -0.9006,-4.8378 -2.447,-6.5534 C 13.5242,9.81744 12.6574,9.1773 11.7192,8.71709 l 0,-0.66127 C 12.3844,7.18597 12.8007,6.08741 12.8007,4.94258 12.8007,2.35457 10.6777,-1.53148e-4 8.34614,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:#34495e;fill-rule:evenodd" />
+  </g>
+</svg>

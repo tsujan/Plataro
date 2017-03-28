@@ -1,0 +1,19 @@
+<svg width="24" version="1.0" xmlns="http://www.w3.org/2000/svg" height="24" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs4">
+<linearGradient id="ButtonColor-6" y1="21" x1="10.31979" y2="0.99929649" x2="10.31979" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#c8c8c8" id="stop3189-4"/>
+<stop offset="1" style="stop-color:#e6e6e6" id="stop3191-0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.2570698,0,0,0.2570698,-0.33949467,-0.7525833)" xlink:href="#ButtonColor-6" id="linearGradient3023" y1="90" x1="48" y2="5.9877172" gradientUnits="userSpaceOnUse" x2="48"/>
+</defs>
+<rect width="21.593863" x="1.2029241" y="0.78983551" rx="1.5424188" height="21.593863" ry="1.5424188" style="opacity:.75;fill:url(#linearGradient3023);stroke:none" id="rect2419"/>
+<g style="stroke:#003bc3;stroke-width:0;fill-rule:evenodd;stroke-linecap:square;fill:#333">
+<rect width="13.99999" x="5.0000048" y="8.0000048" height="1.4999901" style="stroke-miterlimit:2.013" id="line2"/>
+<g style="stroke-miterlimit:2">
+<rect width="10.669648" x="6.6651759" y="5" height="1.4999901" id="line"/>
+<rect width="14.064417" x="4.9677916" y="11.000005" height="1.4999901" id="line21"/>
+<rect width="13.99999" x="5.0000048" y="14.000005" height="1.4999901" id="line22"/>
+<rect width="13.99999" x="5.0000048" y="17.000006" height="1.4999901" id="line23"/>
+</g>
+</g>
+</svg>

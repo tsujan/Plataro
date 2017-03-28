@@ -1,0 +1,12 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<g id="layer1" transform="matrix(1.14144,0,0,0.91757116,-3.4063981,1.976364)">
+<path style="fill:#2980b9" id="rect4090" d="M 0,0 0,40 34,40 34.167376,-0.0467883 23,0 z" transform="translate(7,4)"/>
+<g style="stroke-linecap:square;fill-rule:evenodd;stroke:#003bc3;stroke-width:0">
+<path style="fill:#e74c3c;stroke-miterlimit:2.013" id="shape0" d="M 0,2.24493 C 0.772615,6.44255 3.64946,9.94791 7.61573,11.5245 11.582,13.1011 16.0803,12.5273 19.5238,10.0057 L 12.1967,0 z" transform="translate(12.053,26.9839)"/>
+<g style="stroke-miterlimit:2">
+<path style="fill:#8bc941" id="shape1" d="m 5.277,0 c -4.48008,3.14507 -6.36835,8.85536 -4.64648,14.0513 1.72187,5.1959 6.64661,8.6485 12.1183,8.4956 l -.3463,-12.3967 z " transform="matrix(-1,0,0,-1,36.6306,37.1265)"/>
+<path style="fill:#f1c40f" id="shape2" d="M 0.235555,14.6679 C 3.87998,14.5987 7.30941,12.9297 9.6125,10.1043 11.9156,7.27904 12.8591,3.58358 12.1923,0 L 0,2.26857 z" transform="matrix(-1,0,0,-1,24.2377,29.2423)"/>
+</g>
+</g>
+</g>
+</svg>

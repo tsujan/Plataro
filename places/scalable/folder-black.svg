@@ -1,0 +1,11 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<g style="stroke:none">
+<path style="opacity:.65;fill:#fff" id="rect4159" d="m 3,1.959 v 7.06445 h -2 v 34.9648 h 46 v -34.9648 h -2 v -4.70898 h -22 v -2.35547 l -20,-0 z "/>
+<g style="fill:#1a1a1a">
+<rect width="18" x="4" y="2.9586298" height="11.773318" id="folderTab"/>
+<rect width="40" x="4" y="5.313652" height="35.319954" id="folderBackground"/>
+</g>
+<rect width="35.999992" x="6" y="7.6680799" height="32.965004" style="fill:#fff" id="folderPaper"/>
+<rect width="43.999996" x="2" y="10.022959" height="32.965298" style="fill:#1a1a1a" id="folderFront"/>
+</g>
+</svg>

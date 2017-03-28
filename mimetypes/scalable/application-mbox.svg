@@ -1,0 +1,18 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#ecf0f1" id="rect4090" d="m 4.5351,5.6271 0,36.7458 38.9196,0 .0804,-36.7031 -12.672,-.0427 z "/>
+<g style="fill-rule:evenodd">
+<g style="stroke-linecap:square;stroke-width:10;stroke-linejoin:bevel;stroke:none">
+<path style="opacity:.3" id="path4171" d="m 10.34,15.358 26.977,0 0,20.254 -26.977,0 z"/>
+<path style="opacity:.4" id="rect4168" d="m 10.64,15.658 26.177,0 0,19.354 -26.177,0 z"/>
+<rect width="25.576384" x="10.940131" y="15.958463" height="18.553623" style="fill:#ecf0f1" id="rect4166"/>
+</g>
+<g style="fill:#bbc9d5">
+<path id="path4254" d="m 19.8047,25.4672 -8.8645,6.8967 0,1.922 25.5764,0 0,-1.922 -8.8645,-6.8967 -3.9237,3.0527 z "/>
+<path id="path4251" d="m 10.9401,15.9585 0,2.5511 12.7882,10.2045 12.7882,-10.2045 0,-2.5511 z "/>
+</g>
+<g style="fill:#fff">
+<path id="path4238" d="m 20.0953,25.8151 -9.1552,7.3055 0,1.3915 25.5764,0 0,-1.3915 -9.1552,-7.3055 -3.633,2.899 z "/>
+<path id="path4219" d="m 10.9401,15.9585 0,1.3915 12.7882,10.2045 12.7882,-10.2045 0,-1.3915 z "/>
+</g>
+</g>
+</svg>

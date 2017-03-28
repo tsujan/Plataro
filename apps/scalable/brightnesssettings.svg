@@ -1,0 +1,26 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs4">
+<linearGradient id="linearGradient4150">
+<stop offset="0" id="stop4152"/>
+<stop offset="1" style="stop-color:#f0f0f0" id="stop4154"/>
+</linearGradient>
+<linearGradient xlink:href="#linearGradient4150" id="linearGradient4156" y1="1028.9692" x1="10.571428" y2="1028.9692" x2="36.571429" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g style="fill-rule:evenodd" id="layer1" transform="translate(0,-1004.3622)">
+<circle cx="23.571428" cy="1028.9692" style="fill:url(#linearGradient4156);stroke:#000;stroke-width:1.217" id="path3344" r="12.391305"/>
+<g style="stroke-width:.5">
+<g style="stroke:#fff">
+<circle cx="23.392857" cy="1009.6837" id="path3344-6" r="2.5191119"/>
+<circle cx="24.464287" cy="1048.3622" style="fill:#999" id="path3344-6-4" r="2.5191119"/>
+<circle cx="41.42857" cy="1029.005" style="fill:#333" id="path3344-6-5" r="2.5191119"/>
+</g>
+<circle cx="4.3214302" cy="1029.7194" style="fill:#f2f2f2;stroke:#000" id="path3344-6-40" r="2.5191119"/>
+<circle cx="37.42857" cy="1041.2908" style="fill:#4d4d4d;stroke:#fff" id="path3344-6-1" r="2.5191119"/>
+</g>
+<circle cx="9.4642859" cy="1042.7194" style="fill:#ccc;stroke:#000;stroke-width:.247" id="path3344-6-8" r="2.5191119"/>
+<g style="stroke-width:.5">
+<circle cx="38.535713" cy="1014.3622" style="fill:#1a1a1a;stroke:#fff" id="path3344-6-2" r="2.5191119"/>
+<circle cx="8.8214302" cy="1015.9694" style="fill:#fff;stroke:#000" id="path3344-6-14" r="2.5191119"/>
+</g>
+</g>
+</svg>

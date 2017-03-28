@@ -1,0 +1,27 @@
+<svg width="48" version="1.0" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="stroke:none">
+<g style="fill-rule:evenodd" id="g9">
+<g style="stroke-linejoin:round;stroke-linecap:round;stroke-miterlimit:0" id="g11">
+<path style="opacity:.05" id="path4169" d="m 1,5.2593 46,0 0,37.4815 -46,0 z "/>
+<path style="opacity:.15" id="path4167" d="m 1.327,5.586 45.132,0 .0001,36.4733 -45.132,0 z "/>
+<path style="opacity:.25" id="path4165" d="m 1.6815,5.9407 44.1965,0 0,35.4233 -44.1965,0 z "/>
+<path style="fill:#5c656c" id="rect4162" d="m 2.1358,6.3951 43.1605,0 0,34.0741 -43.1605,0 z "/>
+</g>
+<path style="fill:#f3f6f7" id="path4127" d="m 2.1358,6.3951 0,34.0741 l 15.1448,-17.0357 -15.1448,-17.0384 Z "/>
+<path style="fill:#f5fbfe" id="path4125" d="m 2.1358,6.3951 21.5802,20.1037 21.5802,-20.1037 Z "/>
+<path style="fill:#e7ecef" id="path4123" d="m 45.2963,6.3951 -15.1448,17.0384 15.1448,17.0357 0,-34.0741 z "/>
+<path style="fill:#dbe4e7" id="rect3260-9" d="m 19.6785,26.123 -17.2899,14.3461 42.6546,0 -17.2899,-14.3461 -4.0373,3.8245 z "/>
+</g>
+<g>
+<g style="fill-rule:evenodd">
+<g style="fill:#f04d3c">
+<rect width="25.916828" x="19.491488" y="22.083164" height="25.916828" id="rect3280"/>
+<rect width="31.100195" x="16.899805" y="22.083323" height="6.0472603" id="rect3282"/>
+<path id="path3376" d="m 26.4026,16.0361 -1.7278,4.3195 0,1.7278 1.7278,0 0,-1.7278 0,-4.3195 z  m 12.0945,0 0,4.3195 0,1.7278 1.7278,0 0,-1.7278 -1.7278,-4.3195 z "/>
+</g>
+<path style="fill:#800000" id="path3381" d="m 26.4026,16.0361 0,4.3195 12.0945,0 0,-4.3195 -12.0945,0 z "/>
+</g>
+<path style="font-family:'Bitstream Vera Sans';fill:#fff;font-weight:bold;stroke-width:2.3" id="text1928" d="m 42.4433,30.4515 -5.1098,5.1011 5.0778,5.0864 -4.7576,4.7495 -5.0778,-5.0864 -5.1098,5.1011 -4.7728,-4.7809 5.1098,-5.1011 -5.0778,-5.0864 4.7576,-4.7495 5.0778,5.0864 5.1098,-5.1011 4.7728,4.7809"/>
+</g>
+</g>
+</svg>

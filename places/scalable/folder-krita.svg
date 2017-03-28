@@ -1,0 +1,28 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.65;fill:#fff;stroke:none" id="rect4154" d="m 3,1.959 0,9.342 42,0 0,-6.9866 -22,0 0,-2.3555 z"/>
+<defs id="defs867">
+<clipPath id="clipPath3613">
+<rect width="84" x="6" y="6" rx="6" ry="6" height="84" style="fill:#fff;stroke:none" id="rect3615"/>
+</clipPath>
+</defs>
+<g id="folderLayer">
+<g style="stroke:none">
+<g id="g3053" transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
+<rect width="18" x="4" y="6.9996953" height="10" id="folderTab"/>
+<rect width="40" x="4" y="9" height="30" id="folderBackground"/>
+<rect width="35.999992" x="6" y="10.9998" height="27.999756" style="fill:#fff" id="folderPaper"/>
+<rect width="43.999996" x="2" y="12.999983" height="28.000008" style="fill:#5e87b2" id="folderFront"/>
+</g>
+<rect width="35.999992" x="6" y="7.6680799" height="32.965004" style="fill:#fff" id="rect3849"/>
+<rect width="43.999996" x="2" y="10.022959" height="32.965298" style="fill:#5e87b2" id="rect3851"/>
+<rect width="30" x="9.380971" y="11.101083" height="30" style="fill:none" id="rect3265"/>
+</g>
+<g style="stroke:none;fill:#fff;fill-rule:evenodd">
+<g style="stroke-miterlimit:2">
+<path id="path3159" d="m 11.2638,12.6746 1.5309,-1.3575 14.0454,13.7109 -2.096,1.9291 Z "/>
+<path id="path3161" d="m 24.7165,26.9298 2.0961,-1.9291 3.5881,3.9474 -1.629,1.9142 z "/>
+</g>
+<path id="path3163" d="m 30.5828,29.8825 c 4.86479,-4.7355 3.6546,4.48104 10.5383,9.59364 -7.26991,2.4505 -16.3185,-3.96699 -10.5383,-9.59364 z "/>
+</g>
+</g>
+</svg>

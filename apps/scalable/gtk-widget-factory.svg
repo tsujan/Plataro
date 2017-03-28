@@ -1,0 +1,20 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<g style="stroke:none">
+<g style="mix-blend-mode:normal;font-family:sans-serif;text-decoration-style:solid;solid-color:#000000;white-space:normal;text-transform:none;text-decoration-color:#000000;text-indent:0;text-align:start;color:#000;text-decoration-line:none;image-rendering:auto;color-rendering:auto;fill-rule:evenodd;isolation:auto;color-interpolation:sRGB;text-rendering:auto;solid-opacity:1;line-height:normal;shape-rendering:auto" id="layer1" transform="translate(0,-1004.3622)">
+<path style="fill:#729fcf;color-interpolation-filters:linearRGB" id="path4176" d="M 24,1005.3622 43.548534,1016.6476 24,1027.9348 4.4514662,1016.6476 24,1005.3622 Z"/>
+<path style="fill:#e40000;color-interpolation-filters:linearRGB" id="path4174" d="m 3.9574,1017.5044 19.5485,11.2853 0,22.5725 -19.5485,-11.2853 0,-22.5725 z "/>
+<path style="fill:#68be14;color-interpolation-filters:linearRGB" id="path4133" d="m 44.0426,1017.5044 0,22.5725 -19.5485,11.2853 0,-22.5725 19.5485,-11.2854 z "/>
+</g>
+<g style="fill:#fff;line-height:125%;word-spacing:0;font-family:'Bitstream Vera Sans';letter-spacing:0">
+<g style="font-size:19.96281624px" id="text4140" transform="matrix(0.90950243,0.5446929,-0.97887364,0.51326359,0,0)">
+<path style="text-align:start;font-weight:bold" id="path4156" d="m 30.4672,4.4269 q -1.40364,0.682323 -2.91449,1.02348 -1.51086,0.341161 -3.11919,0.341161 -3.63581,0 -5.76075,-2.02747 -2.12495,-2.03722 -2.12495,-5.51707 0,-3.51884 2.16394,-5.53656 2.16394,-2.01773 5.92646,-2.01773 1.45237,0 2.77803,0.272929 1.3354,0.272929 2.51485,0.80904 v 3.01197 q -1.21843,-0.69207 -2.42712,-1.03323 -1.19894,-0.341161 -2.40762,-0.341161 -2.24192,0 -3.46035,1.25742 -1.20869,1.24768 -1.20869,3.57732 0,2.31015 1.1697,3.56757 1.1697,1.25742 3.32389,1.25742 0.584848,0 1.08197,-0.068232 0.506869,-0.07798 0.906515,-0.233939 v -2.82677 h -2.29066 v -2.51485 h 5.84848 v 6.99868 z "/>
+</g>
+<g style="font-size:18.36520386px" id="text4144" transform="matrix(1,0.59719337,0,1,0,0)">
+<path style="text-align:start;font-weight:bold" id="path4153" d="m 6.4737,15.8899 12.3391,0 0,2.6095 -4.4389,0 0,10.7788 -3.4524,0 0,-10.7788 -4.4478,0 0,-2.6095 z "/>
+</g>
+<g style="font-size:17.38427162px" id="text4148" transform="matrix(0.9104348,-0.5282679,0,1.0983763,0,0)">
+<path style="text-align:start;font-weight:bold" id="path4159" d="m 32.4423,38.9063 3.268,0 0,4.6262 4.7111,-4.6262 3.7943,0 -6.1032,6.0013 6.7313,6.6719 -4.0914,0 -5.0421,-4.9912 0,4.9912 -3.268,0 0,-12.6732 z "/>
+</g>
+</g>
+</g>
+</svg>

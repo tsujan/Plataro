@@ -1,0 +1,23 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<defs id="defs4">
+<clipPath id="clipPath4200">
+<rect width="37.780914" x="134.06201" y="60.829136" height="37.780914" style="fill:#fff;stroke:none" id="rect4202"/>
+</clipPath>
+<clipPath id="clipPath4196">
+<rect width="37.780914" x="154.06203" y="60.829136" height="37.780914" style="fill:#fff;stroke:none" id="rect4198"/>
+</clipPath>
+</defs>
+<g id="layer1" transform="matrix(1.1470591,0,0,0.91864444,-3.5294177,1.9525339)">
+<path style="fill:#d40000" id="rect4090" d="M 0,0 0,40 34,40 33.79661,0.01694915 23,0 z" transform="translate(7,4)"/>
+</g>
+<g id="layer3" transform="matrix(0.32247528,0,0,0.27605595,8.6038591,14.933223)">
+<rect width="63.999855" x="16.00013" y="16.000145" rx="2.118166" height="63.999855" ry="2.118166" style="fill:#f6d49f;stroke:none" id="rect2411"/>
+<g style="clip-path:url(#clipPath4200)" id="g3938" transform="matrix(1.6939731,0,0,1.6939731,-211.09731,-87.042774)">
+<path style="fill:#340000;stroke:none" id="path171" d="m 171.9803,71.8124 -19.3937,12.7755 -18.7565,-12.7755 -.089,2.2127 18.8094,10.6543 19.6704,-10.5954 z "/>
+</g>
+</g>
+<g style="color:#000;stroke:none;stroke-width:1.191">
+<rect width="23.06419" x="12.422605" y="11.338688" height="2.1491115" style="fill:#f6d49f" id="rect3001"/>
+<rect width="23.06419" x="12.422605" y="-11.338688" height="0.3160457" style="fill:#fff" id="rect3003" transform="scale(1,-1)"/>
+</g>
+</svg>

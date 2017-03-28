@@ -1,0 +1,14 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs5455">
+<linearGradient id="linearGradient4198">
+<stop offset="0" style="stop-color:#208dff" id="stop4200"/>
+<stop offset="1" style="stop-color:#51a6ff" id="stop4202"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,0.99924452,384.57143,499.82444)" xlink:href="#linearGradient4198" id="linearGradient4220" y1="35" x1="24.000042" y2="4" x2="24.000042" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g style="stroke:none;fill-rule:evenodd" id="layer1" transform="translate(-384.57143,-499.798)">
+<path style="fill:#5fadff" id="path4185" d="m 408.5715,543.798 0,-17 -13,-7 0,16 z "/>
+<path style="fill:#1675da" id="path4187" d="m 408.5715,543.798 0,-17 13,-7 0,16 z "/>
+<path style="fill:url(#linearGradient4220)" id="path4189" d="m 400.5714,503.798 -14,8.9932 9.0352,6.5068 -9.0352,6.5068 14,8.9932 8,-7.994 -12.3262,-7.506 12.3262,-7.506 -8,-7.994 z  m 8,7.994 12.3262,7.506 -12.3262,7.506 8,7.994 14,-8.9932 -9.0352,-6.5068 9.0352,-6.5068 -14,-8.9932 -8,7.994 z "/>
+</g>
+</svg>

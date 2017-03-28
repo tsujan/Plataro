@@ -1,0 +1,24 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs3815">
+<linearGradient id="linearGradient7473">
+<stop offset="0" style="stop-color:#fff" id="stop7475"/>
+<stop offset="0.5" style="stop-color:#fffc9d;stop-opacity:.973" id="stop7481"/>
+<stop offset="0.75" style="stop-color:#fff409;stop-opacity:.677" id="stop7483"/>
+<stop offset="1" style="stop-color:#fff409;stop-opacity:0" id="stop7477"/>
+</linearGradient>
+<linearGradient id="linearGradient3755">
+<stop offset="0" style="stop-color:#00448c" id="stop3757"/>
+<stop offset="1" style="stop-color:#006ebf" id="stop3759"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-378.85714,-514.07647)" xlink:href="#linearGradient3755" id="linearGradient3761" y1="559.57648" x1="402.87729" y2="516.57672" x2="402.75009" gradientUnits="userSpaceOnUse"/>
+<radialGradient fx="27.930717" fy="18.124739" cx="27.930717" cy="18.124739" gradientTransform="matrix(1.4204143,0,0,1.4204143,-26.616191,9.1983617)" r="9.1923885" id="radialGradient4130-6" xlink:href="#linearGradient7473" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g style="stroke:none">
+<g style="fill-rule:evenodd">
+<path style="fill:url(#linearGradient3761)" id="path4153" d="m 23.9916,2.5 c -5.62908,0.00033 -11.221,2.3187 -15.1984,6.29883 -3.97742,3.98012 -6.29323,9.57294 -6.29323,15.2012 0,5.62823 2.31581,11.221 6.29323,15.2012 3.97742,3.98013 9.56929,6.2985 15.1984,6.29883 5.62908,0.00033 11.2243,-2.31589 15.2068,-6.29603 3.9825,-3.98014 6.30163,-9.57511 6.30163,-15.204 0,-5.62886 -2.31913,-11.2238 -6.30163,-15.204 -3.98249,-3.98014 -9.57769,-6.29636 -15.2068,-6.29603 Z "/>
+<path style="fill:#fff" id="path4151" d="m 23.99156,8.23333 c 4.12799,-2.4e-4 8.23263,1.69757 11.1531,4.61634 2.92049,2.91878 4.62194,7.0225 4.62194,11.1503 0,4.12783 -1.70145,8.23155 -4.62194,11.1503 -2.9205,2.91877 -7.02514,4.61658 -11.1531,4.61634 -4.12799,-2.5e-4 -8.22795,-1.70039 -11.1447,-4.61914 -2.91678,-2.91876 -4.61355,-7.02016 -4.61355,-11.1475 0,-4.12737 1.69677,-8.22877 4.61355,-11.1475 2.91677,-2.91875 7.01673,-4.61889 11.1447,-4.61914 z"/>
+<path style="fill:url(#linearGradient3761)" id="path3272" d="m 21.1333,11.1 0,15.7667 2.8667,0 2.8667,0 10.0333,0 0,-5.7333 -10.0333,0 0,-10.0333 -5.7333,0 z "/>
+</g>
+<circle cx="13.057" cy="34.943001" style="opacity:.941;fill:url(#radialGradient4130-6);stroke-linejoin:round;stroke-linecap:round" r="13.057" id="path6598-7"/>
+</g>
+</svg>

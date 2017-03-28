@@ -1,0 +1,29 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#27ae60" id="rect4090" d="m 4.5,5.6271 0,36.7458 39,0 -.0981,-36.6945 -12.5196,-.0513 z "/>
+<g style="fill:#ecf0f1" id="g2989" transform="matrix(1.0427247,0,0,0.83446686,-1.0253928,3.9851822)">
+<path id="path2991" d="M 0,0 0,40 34,40 34,-0.02968801 23,0 z" transform="translate(7,4)"/>
+<g style="stroke-linecap:square;stroke-width:0;stroke:#003bc3;fill-rule:evenodd">
+<rect width="23.362026" x="0" y="0" height="3.1810868" style="stroke-miterlimit:2.013" id="rect2993" transform="translate(12.3038,16.1417)"/>
+<g style="stroke-miterlimit:2">
+<rect width="11.115499" x="0" y="0" height="3.1810868" id="rect2995" transform="translate(18.861,9.77954)"/>
+<rect width="13.562757" x="0" y="0" height="3.1810868" id="rect2997" transform="translate(12.2953,22.5039)"/>
+<rect width="13.562757" x="0" y="0" height="3.1810868" id="rect2999" transform="translate(12.3208,28.8661)"/>
+<rect width="23.362026" x="0" y="0" height="3.1810868" id="rect3001" transform="translate(12.3307,35.2282)"/>
+</g>
+<rect width="6.5734076" x="0" y="0" height="9.5378857" style="stroke-miterlimit:2.013" id="rect3003" transform="translate(29.0863,22.4914)"/>
+</g>
+</g>
+<g style="fill:#27ae60;stroke-width:0;stroke-linecap:square;stroke:#003bc3;fill-rule:evenodd;stroke-miterlimit:2">
+<rect width="6.909462" x="20.582912" y="16.709179" height="2.9295406" id="line2"/>
+<rect width="6.909462" x="30.482145" y="16.699259" height="2.9295406" id="line21"/>
+<rect width="6.909462" x="10.620703" y="22.624605" height="2.9295406" id="line22"/>
+<rect width="6.909462" x="20.619846" y="22.636457" height="2.9295406" id="line23"/>
+<rect width="6.909462" x="30.519081" y="22.626627" height="2.9295406" id="line24"/>
+<rect width="6.909462" x="10.590421" y="28.484455" height="2.9295406" id="line25"/>
+<rect width="6.909462" x="20.589565" y="28.496305" height="2.9295406" id="line26"/>
+<rect width="6.909462" x="30.488798" y="28.486477" height="2.9295406" id="line27"/>
+<rect width="6.909462" x="10.565759" y="34.345497" height="2.9295406" id="line28"/>
+<rect width="6.909462" x="20.564903" y="34.357349" height="2.9295406" id="line29"/>
+<rect width="6.909462" x="30.464252" y="34.347519" height="2.9295406" id="line210"/>
+</g>
+</svg>

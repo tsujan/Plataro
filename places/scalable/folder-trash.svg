@@ -1,0 +1,31 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.65;fill:#fff;stroke:none" id="rect4154" d="m 3,1.959 0,9.342 42,0 0,-6.9866 -22,0 0,-2.3555 z"/>
+<g id="folderLayer">
+<g style="stroke:none">
+<g id="g3053" transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
+<rect width="18" x="4" y="6.9996953" height="10" id="folderTab"/>
+<rect width="40" x="4" y="9" height="30" id="folderBackground"/>
+<rect width="35.999992" x="6" y="10.9998" height="27.999756" style="fill:#fff" id="folderPaper"/>
+<rect width="43.999996" x="2" y="12.999983" height="28.000008" style="fill:#5e87b2" id="folderFront"/>
+</g>
+<rect width="35.999992" x="6" y="7.6680799" height="32.965004" style="fill:#fff" id="rect3849"/>
+<rect width="43.999996" x="2" y="10.022959" height="32.965298" style="fill:#5e87b2" id="rect3851"/>
+<rect width="30" x="9.380971" y="11.101083" height="30" style="fill:none" id="rect3265"/>
+<g style="fill-rule:evenodd" id="g4211" transform="matrix(0.84753522,0,0,0.84753522,3.3885167,4.3291577)">
+<rect width="22.00351" x="13.317569" y="18.196974" height="22.00351" style="fill:#fff" id="rect3280"/>
+<g style="fill:#5e87b2" id="g4176" transform="matrix(0.73345034,0,0,0.73345034,6.7165158,-726.52063)">
+<rect width="4" x="32.035389" y="1019.362" height="20" id="rect3340"/>
+<rect width="4" x="22" y="1019.362" height="20" id="rect3330"/>
+<rect width="4" x="11.965413" y="1019.362" height="20" id="rect3334"/>
+</g>
+<g style="fill:#fff">
+<g id="g4181" transform="matrix(0.73345034,0,0,0.73345034,6.7165158,-726.52063)">
+<rect width="36" x="5.9999995" y="1015.3622" height="7" id="rect3282"/>
+<path id="path3376" d="m 17,4 -2,5 0,2 2,0 0,-2 0,-5 z m 14,0 0,5 0,2 2,0 0,-2 -2,-5 z" transform="translate(0,1004.3622)"/>
+</g>
+<path id="path3381" d="m 19.1852,13.063 0,3.6673 10.2683,0 0,-3.6673 -10.2683,0 z "/>
+</g>
+</g>
+</g>
+</g>
+</svg>

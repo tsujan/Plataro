@@ -1,0 +1,12 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path style="opacity:.65;fill:#fff" id="rect4154" d="m 3,1.959 0,9.342 h 42 v -6.98655 h -22 v -2.35547 z "/>
+<g style="stroke:none" id="g3053" transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
+<rect width="18" x="4" y="6.9996953" height="10" id="folderTab"/>
+<rect width="40" x="4" y="9" height="30" id="folderBackground"/>
+<rect width="35.999992" x="6" y="10.9998" height="27.999756" style="fill:#fff" id="folderPaper"/>
+<rect width="43.999996" x="2" y="12.999983" height="28.000008" style="fill:#5e87b2" id="folderFront"/>
+</g>
+<circle cx="-29.623329" cy="-22.741995" style="fill:#007800" r="13" id="circle4220" transform="matrix(-0.96592582,0.25881907,-0.25881907,-0.96592582,0,0)"/>
+<circle cx="-30.442753" cy="-21.615704" style="fill:#0a0" id="circle3581_2_" r="13" transform="matrix(-0.96592582,0.25881907,-0.25881907,-0.96592582,0,0)"/>
+<path style="fill:#fff;fill-rule:evenodd;stroke:none" id="rect3232" d="m 32.9683,4.8733 0,6.095 -6.095,0 0,4.0633 6.095,0 0,6.095 4.0633,0 0,-6.095 6.095,0 0,-4.0633 -6.095,0 0,-6.095 -4.0633,0 z "/>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs4">
+<linearGradient xlink:href="#linearGradient4187" id="linearGradient4166" y1="31.852037" x1="31.912178" y2="16.166664" x2="31.884832" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="linearGradient4187">
+<stop offset="0" style="stop-color:#fff" id="stop4189"/>
+<stop offset="1" style="stop-color:#d2d2d2" id="stop4191"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.1093787,0,0,1.1093787,-2.62509,-2.6250889)" xlink:href="#linearGradient4187" id="linearGradient4193" y1="12.28173" x1="35.718269" y2="35.218269" x2="35.218269" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:#ecf0f1" id="rect4090" d="m 4.5719,5.628 0,36.7438 38.8357,0 .1643,-36.7458 -12.7288,.0019 z "/>
+<g style="stroke-linecap:square;fill-rule:evenodd;stroke-linejoin:bevel">
+<g style="stroke:#899497">
+<rect width="24.890621" x="11.55469" y="11.55469" rx="1.9665978" height="24.890621" ry="1.9665978" style="fill:url(#linearGradient4193)" id="rect4144"/>
+<circle cx="24" cy="24.000048" style="fill:url(#linearGradient4166)" id="path4146" r="7.1727266"/>
+</g>
+<g style="fill:#7a878a;stroke:none;stroke-width:2" id="g20">
+<circle cx="21.599859" cy="24" r="1.5" id="path4148"/>
+<circle cx="26.400141" cy="24" id="circle4150" r="1.5"/>
+</g>
+</g>
+</svg>

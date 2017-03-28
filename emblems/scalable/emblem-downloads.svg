@@ -1,0 +1,16 @@
+<svg width="24" version="1.0" xmlns="http://www.w3.org/2000/svg" height="24" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs4">
+<linearGradient id="ButtonColor-6" y1="21" x1="10.31979" y2="0.99929649" x2="10.31979" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#c8c8c8" id="stop3189-4"/>
+<stop offset="1" style="stop-color:#e6e6e6" id="stop3191-0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.2570698,0,0,0.2570698,-0.33949467,-0.7525833)" xlink:href="#ButtonColor-6" id="linearGradient3023" y1="90" x1="48" y2="5.9877172" gradientUnits="userSpaceOnUse" x2="48"/>
+</defs>
+<g style="stroke:none">
+<rect width="21.593863" x="1.2029241" y="0.78983551" rx="1.5424188" height="21.593863" ry="1.5424188" style="opacity:.75;fill:url(#linearGradient3023)" id="rect2419"/>
+<g style="fill:#333;fill-rule:evenodd" id="g16" transform="matrix(1.1333333,0,0,1.1333333,-1.5828976,-1.1062127)">
+<path id="path3276" d="m 11.981,3.7996 c -3.92726,2.328e-4 -7.49609,3.57333 -7.49609,7.5 0,3.92667 3.56883,7.49977 7.49609,7.5 3.92726,2.33e-4 7.50391,-3.57289 7.50391,-7.5 0,-3.92711 -3.57664,-7.50023 -7.50391,-7.5 z m 0.002,2 c 2.87995,-1.707e-4 5.50191,2.62012 5.50191,5.5 0,2.87988 -2.62196,5.50017 -5.50195,5.5 -2.87999,-1.71e-4 -5.49805,-2.62044 -5.49805,-5.5 0,-2.87956 2.61805,-5.49983 5.49805,-5.5 z"/>
+<path id="rect3281" d="m 10.9849,7.7996 0,3 -3.3235,0 4.3235,4 4.3235,-4 -3.3235,0 0,-3 z "/>
+</g>
+</g>
+</svg>

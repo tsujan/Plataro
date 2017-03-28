@@ -1,0 +1,25 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#bb5cde" id="path3001" d="m 4.5323,5.6497 0,36.6961 38.926,0 .074,-36.7458 -12.6677,.0497 z "/>
+<g id="g3018" transform="matrix(1.1035756,0,0,0.88043476,-2.4851693,0.4048375)">
+<rect width="5.4171777" x="21.276451" y="5.6516771" height="19.768995" style="fill:#34495e;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2.013" id="shape0"/>
+<rect width="3.2502258" x="21.302784" y="5.6575394" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2.013" id="shape1"/>
+<rect width="3.2502258" x="23.462261" y="7.1211071" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape2"/>
+<rect width="3.2502258" x="21.302898" y="8.5871429" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape3"/>
+<rect width="3.2502258" x="23.46249" y="10.05072" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape4"/>
+<rect width="3.2502258" x="21.299692" y="11.51816" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape5"/>
+<rect width="3.2502258" x="23.459169" y="12.981691" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape6"/>
+<rect width="3.2502258" x="21.299692" y="14.4477" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape7"/>
+<rect width="3.2502258" x="23.459169" y="15.911323" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape8"/>
+<rect width="3.2502258" x="21.278053" y="17.377422" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape9"/>
+<rect width="3.2502258" x="23.437416" y="18.840956" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape10"/>
+<rect width="3.2502258" x="21.278053" y="20.307055" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape11"/>
+<rect width="3.2502258" x="23.437647" y="21.770586" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape12"/>
+<rect width="3.2502258" x="21.274849" y="23.238062" height="1.4634197" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape13"/>
+<rect width="5.4090157" x="21.286068" y="24.821316" height="9.7533731" style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape17"/>
+<rect width="3.1705625" x="22.425798" y="25.795046" height="2.3073425" style="fill:#2c3e50;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape18"/>
+</g>
+<g style="fill:#fff">
+<path id="path4157" d="m 24.3594,41.102 q -0.5625,0.273438 -1.16797,0.410157 -0.605469,0.136718 -1.25,0.136718 -1.45703,0 -2.30859,-0.8125 -0.851562,-0.816406 -0.851562,-2.21094 0,-1.41016 0.867187,-2.21875 0.867188,-0.808594 2.375,-0.808594 0.582032,0 1.11328,0.109375 0.535156,0.109375 1.00781,0.324219 v 1.20703 q -0.488281,-0.277344 -0.972656,-0.414062 -0.480469,-0.136719 -0.964844,-0.136719 -0.898437,0 -1.38672,0.503906 -0.484375,0.5 -0.484375,1.43359 0,0.925781 0.46875,1.42969 0.46875,0.503907 1.33203,0.503907 0.234375,0 0.433593,-0.02734 0.203125,-0.03125 0.363282,-0.09375 v -1.13281 h -0.917969 v -1.00781 h 2.34375 v 2.80469 z "/>
+<path id="path4159" d="m 25.4023,37.1606 3.8164,0 0,.9766 -2.3047,2.3984 2.3047,0 0,1 -3.9141,0 0,-.9766 2.3047,-2.3984 -2.207,0 0,-1 z "/>
+</g>
+</svg>

@@ -1,0 +1,30 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs4">
+<linearGradient id="linearGradient4376" xlink:href="#linearGradient4370" y1="38.127232" x1="8" y2="71.877235" x2="8" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="linearGradient4370">
+<stop offset="0" style="stop-color:#8a5b30" id="stop4372"/>
+<stop offset="1" style="stop-color:#8a5b30;stop-opacity:0" id="stop4374"/>
+</linearGradient>
+</defs>
+<g id="layer1" transform="matrix(1.1470591,0,0,0.91864444,-3.5294177,1.9525339)">
+<path style="fill:#ecf0f1" id="rect4090" d="M 0,0 0,40 34,40 34,0.06980703 23,0 z" transform="translate(7,4)"/>
+</g>
+<g id="layer1-9" transform="matrix(0.32786727,0,0,0.32786727,8.262371,8.6402274)">
+<g style="stroke:none">
+<path style="fill:url(#linearGradient4376)" id="rect5138" d="m 6,36 0,48 c 0,1.781762 0.7745675,3.371709 2,4.46875 L 8,36 6,36 z"/>
+<rect width="84" x="6" y="6" rx="6" height="84" ry="0" style="fill:#ccaa7d" id="rect2419"/>
+<rect width="82.104904" x="6.8614073" y="18" rx="5.8646359" height="24" ry="6" style="fill:#3c2510" id="rect2483"/>
+<g style="fill:#ccaa7d">
+<path id="rect2481" d="m 12.7691,6.0816 c -6.15068,0.120679 -6.16613,0.0149974 -6.16613,5.98641 v 23.9456 c 0,6.01234 0.250969,5.85162 6.16613,5.98641 l 36.9968,-1.9955 v -35.9185 z "/>
+<path id="path3262" d="m 83.6616,6.0816 c 5.52125,0.120679 5.64928,0.135676 5.64928,5.98641 v 23.9456 c 0,6.14714 -0.484337,6.12121 -5.64928,5.98641 l -33.8957,-1.9955 v -35.9185 z "/>
+</g>
+</g>
+<path style="opacity:.5;fill:#3a240f" id="path5008" d="m 54.1204,4.2666 -12.1204,0 .0602,25.3032 l .1347,30.4302 5.6868,-.5202 6.0439,-.5524 .0326,-5.8375 .102,-23.5201 .0602,-25.3032 z "/>
+<path style="fill:#d8cab2" id="polygon120" d="m 54.0602,4.1389 -6.0602,-.4438 -6.0602,.4438 .0602,25.8016 .1346,29.0595 l 5.6868,-.4968 6.0439,-.5275 .0326,-5.5745 .102,-22.4606 .0602,-25.8016 z "/>
+<g style="stroke:none">
+<rect width="1" x="47" y="4.1250005" height="35.714287" style="opacity:.2;fill:#8d6137" id="rect4363"/>
+<rect width="1" x="48" y="4.1250005" height="35.714287" style="opacity:.2;fill:#fff" id="rect4365"/>
+</g>
+</g>
+<path style="fill:#3c2510;stroke:none" id="rect3261" d="m 26.9802,27.8489 0,8.3745 8.8883,0 0,-1.1166 0,-7.2579 -8.8883,0 z  m 1.1851,1.1166 6.5181,0 0,4.4664 -2.3702,-3.3498 -1.6596,2.3444 -.4143,-.6695 -2.0739,3.3498 0,-6.1413 z "/>
+</svg>

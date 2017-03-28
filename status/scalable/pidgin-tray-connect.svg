@@ -1,0 +1,22 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs6">
+<linearGradient id="linearGradient4166-3">
+<stop offset="0" style="stop-color:#fafafa" id="stop4145"/>
+<stop offset="1" style="stop-color:#aaa" id="stop4147"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-0.5,0)" xlink:href="#linearGradient4166-3" id="linearGradient4172" y1="8.441144" x1="17.75" y2="71" x2="17.84375" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(-1,0,0,1,48.5,0)" xlink:href="#linearGradient4166-3" id="linearGradient4176" y1="8.441144" x1="17.75" y2="71" gradientUnits="userSpaceOnUse" x2="17.743069"/>
+<linearGradient gradientTransform="translate(0.2166338,0)" xlink:href="#linearGradient4166-3" id="linearGradient4184" y1="12.193008" x1="27.320847" y2="19.193008" x2="27.442455" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="translate(0.2166338,0)" xlink:href="#linearGradient4166-3" id="linearGradient4192" y1="28.393068" x1="27.442455" y2="35.393066" x2="27.442455" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g style="stroke-linecap:round;fill-rule:evenodd">
+<g style="stroke-width:3;stroke:none;stroke-linejoin:round">
+<rect width="17.65909" x="10" y="12.193008" rx="4" height="7" ry="3.5" style="fill:url(#linearGradient4184)" id="rect4154"/>
+<rect width="17.65909" x="10" y="28.393068" rx="4" ry="3.5" height="7" style="fill:url(#linearGradient4192)" id="rect4156"/>
+</g>
+<g style="stroke:#899497">
+<path style="fill:url(#linearGradient4172)" id="path4147" d="M 16.75,7.75 A 16.25,16.25 0 0 0 0.5,24 16.25,16.25 0 0 0 16.75,40.25 l 0,-32.5 z"/>
+<path style="fill:url(#linearGradient4176)" id="path4174" d="M 31.25,7.75 A 16.25,16.25 0 0 1 47.5,24 16.25,16.25 0 0 1 31.25,40.25 l 0,-32.5 z"/>
+</g>
+</g>
+</svg>

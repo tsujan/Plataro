@@ -1,0 +1,18 @@
+<svg width="48" version="1.0" xmlns="http://www.w3.org/2000/svg" height="48">
+<g style="stroke:none;color:#000">
+<rect width="24" x="-27" y="7.25" rx="1.5045455" ry="1.4583334" height="3.5" id="rect3072" transform="scale(-1,1)"/>
+<rect width="30" x="-45" y="16" rx="1.3677686" ry="1.6588541" height="3.5" id="rect3074" transform="scale(-1,1)"/>
+<rect width="21" x="-45" y="24.75" rx="1.3164773" ry="1.4583334" height="3.5" id="rect3076" transform="scale(-1,1)"/>
+<rect width="25" x="-45" y="33.5" rx="1.3433442" ry="1.4583334" height="3.5" id="rect3078" transform="scale(-1,1)"/>
+<rect width="24" x="-27" y="42.25" rx="1.5045455" ry="1.4583334" height="3.5" id="rect3080" transform="scale(-1,1)"/>
+<path id="path3082" d="m 4.125,18.1003 12.2892,8.4488 -12.2892,8.4488 0,-16.8977 z"/>
+<g style="fill:#dcdcdc">
+<rect width="24" x="-27" y="4.75" rx="1.5045455" ry="1.4583334" height="3.5" id="rect5736" transform="scale(-1,1)"/>
+<rect width="30" x="-45" y="13.5" rx="1.3677686" ry="1.6588541" height="3.5" id="rect5738" transform="scale(-1,1)"/>
+<rect width="21" x="-45" y="22.25" rx="1.3164773" ry="1.4583334" height="3.5" id="rect5740" transform="scale(-1,1)"/>
+<rect width="25" x="-45" y="31" rx="1.3433442" ry="1.4583334" height="3.5" id="rect5742" transform="scale(-1,1)"/>
+<rect width="24" x="-27" y="39.75" rx="1.5045455" ry="1.4583334" height="3.5" id="rect5827" transform="scale(-1,1)"/>
+<path id="rect5837" d="m 4.125,15.6003 12.2892,8.4488 -12.2892,8.4488 0,-16.8977 z"/>
+</g>
+</g>
+</svg>

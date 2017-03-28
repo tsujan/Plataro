@@ -1,0 +1,27 @@
+<svg width="96" version="1.0" xmlns="http://www.w3.org/2000/svg" height="96" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs2410">
+<linearGradient xlink:href="#linearGradient3678" id="linearGradient3684" y1="24" y2="80" x1="48" gradientUnits="userSpaceOnUse" x2="48"/>
+<linearGradient id="linearGradient3678">
+<stop offset="0" style="stop-color:#888" id="stop3680"/>
+<stop offset="1" style="stop-color:#acacac" id="stop3682"/>
+</linearGradient>
+</defs>
+<g style="stroke:none;color:#000" id="g24" transform="matrix(0.78571429,0,0,0.78571429,10.285714,10.285714)">
+<path style="fill:#c8c8c8" id="rect2419" d="m 12,6 72,0 c 3.324,0 6,2.676 6,6 v 72 c 0,3.324 -2.676,6 -6,6 h -72 c -3.324,0 -6,-2.676 -6,-6 v -72 c 0,-3.324 2.676,-6 6,-6 Z "/>
+<g style="stroke-width:1.5" id="g27">
+<g id="g26">
+<rect width="74" x="11" y="23" height="60" style="opacity:.99;fill:url(#linearGradient3684)" id="rect3674"/>
+<rect width="72" x="12" y="24" height="58" style="opacity:.99;fill:#fff" id="rect3676"/>
+</g>
+<g style="fill:#c8c8c8" id="g58">
+<path style="opacity:.2" id="path3769" d="m 12,6 0,1 6,0 0,-1 -6,0 z"/>
+<path style="opacity:.2" id="path3783" d="M 67,6 67,7 85,7 85,6 67,6 Z"/>
+</g>
+</g>
+<g style="fill:#1a1a1a" id="g62">
+<path id="path3811" d="m 14,7.4806265 2,0 L 15,9 14,7.4806265 Z"/>
+</g>
+</g>
+<circle cx="-60.885513" cy="-43.231407" style="fill:#0a0" r="26" id="circle3581_2_" transform="matrix(-0.96592582,0.25881907,-0.25881907,-0.96592582,0,0)"/>
+<path style="fill:#fff;fill-rule:evenodd;stroke:none" id="rect3232" d="m 65.9367,9.7467 0,12.19 -12.19,0 0,8.1267 12.19,0 0,12.19 8.1267,0 0,-12.19 12.19,0 0,-8.1267 -12.19,0 0,-12.19 -8.1267,0 z "/>
+</svg>

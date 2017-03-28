@@ -1,0 +1,18 @@
+<svg width="24" version="1.0" xmlns="http://www.w3.org/2000/svg" height="24" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs4">
+<linearGradient id="ButtonColor-6" y1="21" x1="10.31979" y2="0.99929649" x2="10.31979" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#c8c8c8" id="stop3189-4"/>
+<stop offset="1" style="stop-color:#e6e6e6" id="stop3191-0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.2570698,0,0,0.2570698,-0.33949467,-0.7525833)" xlink:href="#ButtonColor-6" id="linearGradient3025" y1="90" x1="48" y2="5.9877172" gradientUnits="userSpaceOnUse" x2="48"/>
+</defs>
+<g style="stroke:none" id="g13">
+<rect width="21.593863" x="1.2029241" y="0.78983551" rx="1.5424188" ry="1.5424188" height="21.593863" style="opacity:.75;fill:url(#linearGradient3025)" id="rect2419"/>
+<g style="fill:#333;fill-rule:evenodd" id="g16">
+<path id="path4127" d="m 2.604,3.7261 0,15 6.667,-7.4994 -6.667,-7.5006 z "/>
+<path id="path4125" d="m 2.604,3.7261 9.5,8.5499 9.5,-8.5499 z"/>
+<path id="path4123" d="m 21.604,3.7261 -6.667,7.5006 6.667,7.4994 0,-15 z "/>
+<path id="rect3260-9" d="m 10.3266,12.4107 -7.6113,6.3154 18.7773,0 -7.6113,-6.3154 -1.7773,1.6836 z "/>
+</g>
+</g>
+</svg>

@@ -12,6 +12,7 @@ Plataro was made based on FaenzaFlattr, when the latter disappeared from Interne
 The following lines are quoted from the text files of FaenzaFlattr:
 
 --------- Start ---------
+
 Icons are designed and developed by Uri Herrera <kaisergreymon99@gmail.com>.
 
 Many icons are designed and developed by Tago <tago73@gmail.com>.
@@ -19,4 +20,5 @@ Many icons are designed and developed by Tago <tago73@gmail.com>.
 Merge Flattr with FaenzaFlattr-Green and fixed missing symlinks FadeMind <fademind@gmail.com>
 
 Icons are licensed under the [Creative Commons License (CC BY-NC-SA 4.0)] (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 --------- End  ---------

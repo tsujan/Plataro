@@ -1,24 +1,15 @@
-<svg width="128" version="1.0" xmlns="http://www.w3.org/2000/svg" height="128" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs id="defs1309">
-<linearGradient gradientTransform="matrix(-3.9299,0,0,3.9299,2273.809,2297.625)" id="polygon3477_1_" y1="-568.40808" x1="557.27148" y2="-568.40808" gradientUnits="userSpaceOnUse" x2="567.27148">
-<stop offset="0" style="stop-color:#fff" id="stop7328"/>
-<stop offset="0.5413" style="stop-color:#fcfcfc" id="stop7330"/>
-<stop offset="0.8664" style="stop-color:#f4f4f4" id="stop7332"/>
-<stop offset="1" style="stop-color:#eee" id="stop7334"/>
-</linearGradient>
-<linearGradient gradientTransform="matrix(-3.9299,0,0,3.9299,2273.809,2297.625)" xlink:href="#polygon3477_1_" id="linearGradient14244" y1="-568.40808" x1="557.27148" y2="-568.40808" gradientUnits="userSpaceOnUse" x2="567.27148"/>
-</defs>
+<svg width="128" version="1.0" xmlns="http://www.w3.org/2000/svg" height="128">
 <g style="stroke-dashoffset:4" id="g11">
-<path style="fill:#5a5a5a;stroke:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:1.957" id="path2041" d="m 59.4465,13.0938 c -34.0907,0 -59.2151,35.1292 -59.2151,78.4062 0,10.6283 -0.856823,20.7547 2.16595,30 h 114.132 c 3.02276,-9.24526 2.16595,-19.3717 2.16595,-30 0,-43.2771 -25.1585,-78.4062 -59.2491,-78.4062 z "/>
+<path style="fill:#5a5a5a;stroke:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:1.957" id="path2041" d="M 59.4465,13.0938 C 25.3558,13.0938 0.2314,48.223 0.2314,91.5 c 0,10.6283 2.16595,30 2.16595,30 h 114.132 c 3.02276,-9.24526 2.16595,-19.3717 2.16595,-30 0,-43.2771 -25.1585,-78.4062 -59.2491,-78.4062 z"/>
 <path style="fill:#c2c2c2;stroke:#5a5a5a;stroke-linecap:square;stroke-width:3" id="path2311" d="m 110.5458,53.5375 c 0,28.1777 -22.5014,51.0201 -50.2584,51.0201 -27.757,0 -50.2584,-22.8425 -50.2584,-51.0201 0,-28.1777 22.5014,-51.0201 50.2584,-51.0201 27.757,0 50.2584,22.8425 50.2584,51.0201 z "/>
 </g>
-<path style="fill:none;fill-rule:evenodd;stroke:#646464;fill-opacity:.75;stroke-width:1.019" id="path2893" d="m 60.2874,2.5818 0,101.5647"/>
+<path style="fill:none;fill-rule:evenodd;stroke:#5a5a5a;fill-opacity:.75;stroke-width:1.019" id="path2893" d="m 60.2874,2.5818 0,101.5647"/>
 <g style="stroke-linejoin:round;stroke-linecap:round;stroke-dashoffset:4" id="g16">
 <path style="stroke:#fff;stroke-width:4.652" id="path1977" d="m 85.8439,52.9971 c 0,13.8987 -11.4421,25.1659 -25.5566,25.1659 -14.1145,0 -25.5566,-11.2672 -25.5566,-25.1659 0,-13.8987 11.4421,-25.1659 25.5566,-25.1659 14.1145,0 25.5566,11.2672 25.5566,25.1659 z "/>
 <path style="fill:none;stroke:#a3a3a3;stroke-width:4.123" id="path2928" d="m 78.4214,53.0977 c 0,9.59018 -7.89507,17.3646 -17.6342,17.3646 -9.73906,0 -17.6342,-7.77439 -17.6342,-17.3646 0,-9.59018 7.89507,-17.3646 17.6342,-17.3646 9.73906,0 17.6342,7.77439 17.6342,17.3646 z "/>
 </g>
 <g id="g14238" transform="matrix(1,0,0,-1,-0.2772,188.23825)">
 <circle cx="65" cy="62.605999" style="fill:#12990e" id="circle3581" r="31.302999" transform="translate(31.97416,28.93525)"/>
-<polygon points="84.785,60.565 81.512,57.287 68.409,68.629 68.409,44.19 61.862,44.19 61.862,68.9 48.76,57.287 48.76,57.287 45.486,60.565 65.136,83.487 " style="fill:url(#linearGradient14244)" id="polygon3477" transform="translate(31.97416,28.93525)"/>
+<polygon points="84.785,60.565 81.512,57.287 68.409,68.629 68.409,44.19 61.862,44.19 61.862,68.9 48.76,57.287 48.76,57.287 45.486,60.565 65.136,83.487 " style="fill:#fff" id="polygon3477" transform="translate(31.97416,28.93525)"/>
 </g>
 </svg>

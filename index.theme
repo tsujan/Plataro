@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Plataro
 Comment=A colorful flat icon set for KDE and LXQt
-Inherits=oxygen,gnome,hicolor
+Inherits=breeze,oxygen,gnome,hicolor
 
 Example=x-directory-normal
 

@@ -6,5 +6,5 @@ color:#4d4d4d;
 }
 </style>
 </defs>
-<path style="fill:currentColor;fill-opacity:1;stroke:none" id="path4127" d="m 0,2 l 8,6 8,-6 h -16 z  v 12 l 5,-6 -5,-6 z  m 16,0 l -5,6 5,6 v -12 z  m -9.5,7.5 l -6.4062,4.5 h 15.8125 l -6.4062,-4.5 -1.5,1.5 -1.5,-1.5 z " class="ColorScheme-Text"/>
+<path style="fill:currentColor;fill-opacity:1;stroke:none" id="path4127" d="M 0.91691992,2 8.0026406,8 15.088361,2 Z m 0,0 V 14 L 5.5,8 Z M 15.088361,2 10.5,8 15.088361,14 Z M 6.5,9.5 1,14 H 15.00537 L 9.5,9.5 8,11 Z" class="ColorScheme-Text"/>
 </svg>

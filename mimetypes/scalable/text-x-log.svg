@@ -1,5 +1,5 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="fill:#7f8c8d" id="rect4090" d="m 4.5719,5.628 0,36.7438 38.8357,0 .1643,-36.7458 -12.7288,.0019 z "/>
+<path style="fill:#7f8c8d" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
 <rect width="30.937841" x="8.5208521" y="8.2853584" height="6.3558888" style="fill:#fff;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="line"/>
 <g style="fill:#f00">
 <path id="path4149" d="m 19.2091,9.6979 .8551,0 0,2.6698 1.5015,0 0,.6463 -2.3566,0 0,-3.3161 z "/>

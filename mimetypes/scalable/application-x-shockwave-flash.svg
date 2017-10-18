@@ -1,6 +1,7 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="fill:#ee1010" id="rect4090" d="m 4.5,5.66 0,36.7129 39,0 0,-36.7129 z "/>
-<g style="stroke:none;stroke-width:0;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:2">
+<g style="stroke:none;fill-rule:evenodd">
+<rect width="42" x="3" y="3" height="42" style="fill:#ee1010" id="rect830"/>
+<g style="stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="g15">
 <g style="fill:#500" id="g7">
 <rect width="28.28273" x="5.7474723" y="20.281109" height="3.5640233" id="shape0" transform="matrix(0.99346039,-0.11417728,0.17637754,0.98432259,0,0)"/>
 <rect width="28.385601" x="9.9097557" y="22.837088" height="15.764563" id="shape01"/>
@@ -14,6 +15,7 @@
 <rect width="3.5505111" x="-8.0813074" y="23.208456" height="4.0955153" id="shape5" transform="matrix(-0.99346039,0.11417728,0.58579055,0.81046248,0,0)"/>
 <rect width="3.5505111" x="-15.128776" y="23.205193" height="4.0955153" id="shape6" transform="matrix(-0.99346039,0.11417728,0.58579055,0.81046248,0,0)"/>
 <rect width="3.5505111" x="-22.22987" y="23.204386" height="4.0955153" id="shape7" transform="matrix(-0.99346039,0.11417728,0.58579055,0.81046248,0,0)"/>
+</g>
 </g>
 </g>
 </svg>

@@ -1,10 +1,9 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="fill:#b99337" id="rect4090" d="m 4.5,5.6271 0,36.7458 39,0 0,-36.7459 z"/>
-<g style="stroke:#003bc3;fill-rule:evenodd;stroke-linecap:square;stroke-width:0" id="g3018" transform="matrix(1.1014812,0,0,0.87924401,-2.4353929,0.4284223)">
-<rect width="5.4274774" x="21.275965" y="5.6290684" height="19.795769" style="fill:#34495e;stroke-miterlimit:2.013" id="shape0"/>
-<g style="fill:#ecf0f1" id="g7">
-<rect width="3.2564054" x="21.302347" y="5.6349387" height="1.4654016" style="stroke-miterlimit:2.013" id="shape1"/>
-<g style="stroke-miterlimit:2" id="g10">
+<path style="fill:#b99337" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
+<g style="stroke:#003bc3;stroke-linecap:square;fill-rule:evenodd;stroke-width:0" id="g888" transform="translate(0,-1.507)">
+<rect width="7.9695606" x="20.002359" y="4.5075564" height="18.793396" style="fill:#34495e;stroke-miterlimit:2.013" id="shape0"/>
+<g style="stroke-miterlimit:2">
+<g style="fill:#ecf0f1" id="g10" transform="matrix(1.4683729,0,0,1.025597,-11.238691,-2.7746832)">
 <rect width="3.2564054" x="23.465931" y="7.1004887" height="1.4654016" id="shape2"/>
 <rect width="3.2564054" x="21.302462" y="8.5685101" height="1.4654016" id="shape3"/>
 <rect width="3.2564054" x="23.46616" y="10.03407" height="1.4654016" id="shape4"/>
@@ -19,7 +18,7 @@
 <rect width="3.2564054" x="21.274359" y="23.239271" height="1.4654016" id="shape13"/>
 <rect width="5.4192996" x="21.285601" y="24.824669" height="9.7665815" id="shape17"/>
 </g>
+<rect width="4.6644192" x="21.693239" y="23.685429" height="2.3696082" style="fill:#2c3e50" id="shape18"/>
 </g>
-<rect width="3.1765904" x="22.427498" y="25.799717" height="2.3104672" style="fill:#2c3e50;stroke-miterlimit:2" id="shape18"/>
 </g>
 </svg>

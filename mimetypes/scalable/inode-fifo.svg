@@ -7,7 +7,7 @@
 <stop offset="1" style="stop-color:#d2d2d2" id="stop4191"/>
 </linearGradient>
 </defs>
-<path style="fill:#ecf0f1" id="rect4090" d="m 4.5719,5.628 0,36.7438 38.8357,0 .1643,-36.7458 -12.7288,.0019 z "/>
+<path style="fill:#ecf0f1" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
 <g style="stroke-linecap:square;fill-rule:evenodd;stroke-linejoin:bevel">
 <g style="stroke:#899497">
 <rect width="24.890621" x="11.55469" y="11.55469" rx="1.9665978" ry="1.9665978" height="24.890621" style="fill:url(#linearGradient4193)" id="rect4144"/>

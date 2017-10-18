@@ -1,6 +1,6 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
 <g id="layer1" transform="matrix(1.1445733,0,0,0.91858742,-3.4750981,1.9538008)">
-<path style="fill:#ecf0f1" id="rect4090" d="M 0,0 0,40 34,40 34.073842,-0.002483 23,0 z" transform="translate(7,4)"/>
+<path style="fill:#ecf0f1" id="rect4090" d="m 5.6572,1.1389 v 45.7224 h 36.6949 v -45.7224 Z "/>
 <g style="stroke:#003bc3;stroke-linecap:square;fill-rule:evenodd;stroke-width:0;stroke-miterlimit:2">
 <g style="fill:#4d4d4d">
 <rect width="15.857059" x="0" y="0" height="2.0802369" id="shape1" transform="translate(16.1569,34.1783)"/>

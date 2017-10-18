@@ -1,104 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="38.4pt"
-   height="38.4pt"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="application-vnd.sun.xml.impress.svg">
-  <metadata
-     id="metadata18">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview16"
-     showgrid="false"
-     inkscape:zoom="12.613017"
-     inkscape:cx="29.79661"
-     inkscape:cy="23.389831"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4" />
-  <g
-     id="layer1"
-     transform="matrix(1.1443906,0,0,0.91817708,-3.4710974,1.9629171)">
-    <path
-       id="rect4090"
-       transform="translate(7,4)"
-       d="M 0,0 0,40 34,40 34.079283,-0.02036057 23,0 z"
-       inkscape:connector-curvature="0"
-       style="fill:#d35400"
-       sodipodi:nodetypes="cccccc" />
-    <rect
-       id="shape0"
-       transform="translate(12.3342,9.81266)"
-       stroke-miterlimit="2.00000000000"
-       width="21.022785"
-       height="26.065823"
-       x="0"
-       y="0"
-       style="fill:#bdc3c7;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2" />
-    <rect
-       id="shape01"
-       transform="translate(14.643,12.2734)"
-       stroke-miterlimit="2.01260185242"
-       width="21.022785"
-       height="26.065823"
-       x="0"
-       y="0"
-       style="fill:#ecf0f1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185" />
-    <rect
-       id="rect12"
-       transform="translate(18.3494,23.2709)"
-       stroke-miterlimit="2.01260191180"
-       width="3.6455698"
-       height="12.09114"
-       x="0"
-       y="0"
-       style="fill:#f1c40f;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185" />
-    <rect
-       id="shape1"
-       transform="translate(23.681,16.1316)"
-       stroke-miterlimit="2.00000000000"
-       width="3.6455698"
-       height="19.230381"
-       x="0"
-       y="0"
-       style="fill:#e74c3c;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2" />
-    <rect
-       id="shape2"
-       transform="translate(29.0278,26.8101)"
-       stroke-miterlimit="2.00000000000"
-       width="3.6455698"
-       height="8.5215187"
-       x="0"
-       y="0"
-       style="fill:#2ecc71;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2" />
-  </g>
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#d35400" id="rect4090" d="m 3,3 v 42 h 42 v -42 Z "/>
+<g style="stroke-linecap:square;fill-rule:evenodd;stroke:#003bc3;stroke-width:0">
+<rect width="26" x="9" y="9" height="24" style="fill:#bdc3c7;stroke-miterlimit:2" id="shape0"/>
+<g style="stroke-miterlimit:2.013">
+<rect width="27" x="12" y="12" height="24" style="fill:#ecf0f1" id="shape01"/>
+<rect width="4.1719556" x="17.933516" y="23.26083" height="11.101808" style="fill:#f1c40f" id="rect12"/>
+</g>
+<g style="stroke-miterlimit:2">
+<rect width="4.1719556" x="23.934948" y="16.705688" height="17.656895" style="fill:#e74c3c" id="shape1"/>
+<rect width="4.1719556" x="29.953775" y="26.510443" height="7.8242631" style="fill:#2ecc71" id="shape2"/>
+</g>
+</g>
 </svg>

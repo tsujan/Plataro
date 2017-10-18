@@ -1,6 +1,6 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
 <g id="layer1" transform="matrix(1.1446382,0,0,0.91864444,-3.4765175,1.9525339)">
-<path style="fill:#ecf0f1" id="rect4090" d="m 0,-.0001 0,40.0001 l 34.0719,.0001 v -40.0002 z " transform="translate(7,4)"/>
+<path style="fill:#ecf0f1" id="rect4090" d="m 5.6581,1.1402 v 45.7194 l 36.6928,.0001 v -45.7195 Z "/>
 <g style="fill:none" id="Icon" transform="translate(32.3053,15.5492)">
 <path style="fill:#7f8c8d;fill-rule:evenodd" id="Podcast" d="m 4.57427,5.30864 c 1.64435,0 2.97748,-1.18831 2.97748,-2.65432 C 7.55175,1.18842 6.21873,0 4.57427,0 2.93001,0 1.5971,1.18842 1.5971,2.65432 c 0,1.46601 1.333,2.65432 2.97717,2.65432 z m 0,1.32718 c -6.64264,0 -4.093688,6.35658 -4.093688,8.37218 l 8.187588,0 c 0,-2.0156 2.54893,-8.37218 -4.0939,-8.37218 z m 0,0" transform="translate(-6.20449,4.82705)"/>
 </g>

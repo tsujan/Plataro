@@ -1,8 +1,8 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="fill:#ecf0f1" id="rect4090" d="m 4.5719,5.628 v 36.7438 h 38.8357 l .1643,-36.7458 -12.7288,.0019 z "/>
-<g id="layer1-4" transform="matrix(0.53889228,0,0,0.51045853,15.398095,14.785445)">
-<path style="fill:#e67e22" id="rect4090-7" d="m 0,0 0,40 34,0 .0026,-39.9979 z " transform="translate(7,4)"/>
-<rect width="9" x="0" y="0" height="40" style="fill:#2c3e50;fill-rule:evenodd;stroke:none" id="shape0" transform="translate(7.01576,4.00394)"/>
-<path style="fill:#c0392b" id="rect4153" d="m 0,0 9,0 0,10.9843 l -4.5,-2.9957 -4.5,2.9957 z " transform="translate(31.834,4.249)"/>
+<rect width="42" x="3" y="3" height="42" style="fill:#ecf0f1;fill-rule:evenodd;stroke:none" id="rect820"/>
+<g id="layer1-4" transform="matrix(0.53889228,0,0,0.51045853,16.905417,16.539825)">
+<path style="fill:#e67e22;stroke-width:1.014" id="rect4090-7" d="m 7,2.8565 v 41.1434 h 34 l .0026,-41.1413 Z "/>
+<rect width="6.149363" x="7.0157599" y="2.8605163" height="41.143425" style="fill:#2c3e50;fill-rule:evenodd;stroke:none;stroke-width:.838" id="shape0"/>
+<path style="fill:#c0392b;stroke-width:1.409" id="rect4153" d="m 29.866,2.8605 h 11.134 v 17.6312 l -5.567,-4.8085 -5.567,4.8085 z "/>
 </g>
 </svg>

@@ -1,9 +1,9 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
 <g id="layer1" transform="matrix(1.1418383,0,0,0.91864444,-3.4151432,1.9525344)">
-<path style="fill:#ecf0f1" id="rect4090" d="m 0,-.0001 0,40.0001 l 34.1557,.0001 v -40.0002 z " transform="translate(7,4)"/>
-<g style="stroke:#003bc3;fill-rule:evenodd;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="g6">
+<path style="fill:#ecf0f1" id="rect4090" d="m 5.6183,1.1402 v 45.7195 h 36.7828 v -45.7195 Z "/>
+<g style="stroke-miterlimit:2;stroke-width:0;stroke:#003bc3;fill-rule:evenodd;stroke-linecap:square">
 <rect width="23.362026" x="0" y="0" height="3.1810868" style="fill:#f1c40f" id="line2" transform="translate(12.3094,16.5316)"/>
-<g style="fill:#7f8c8d" id="g9">
+<g style="fill:#7f8c8d">
 <rect width="23.270403" x="12.3398" y="10.1695" height="3.1810868" id="line"/>
 <rect width="23.362026" x="0" y="0" height="3.1810868" id="line21" transform="translate(12.3009,22.8938)"/>
 </g>

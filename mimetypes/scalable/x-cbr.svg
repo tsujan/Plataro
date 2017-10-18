@@ -6,8 +6,8 @@
 <stop offset="1" style="stop-color:#8a5b30;stop-opacity:0" id="stop4374"/>
 </linearGradient>
 </defs>
-<g id="layer1" transform="matrix(1.1470591,0,0,0.91864444,-3.5294177,1.9525339)">
-<path style="fill:#ecf0f1" id="rect4090" d="M 0,0 0,40 34,40 34,0.06980703 23,0 z" transform="translate(7,4)"/>
+<g id="layer1" transform="matrix(1.2352941,0,0,1.05,-5.6470589,-1.2)">
+<path style="fill:#ecf0f1" id="rect4090" d="M 0,0 V 40 H 34 V 0.06980703 L 23,0 Z" transform="translate(7,4)"/>
 </g>
 <g id="layer1-9" transform="matrix(0.32786727,0,0,0.32786727,8.262371,8.6402274)">
 <g style="stroke:none">

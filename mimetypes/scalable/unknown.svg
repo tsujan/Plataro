@@ -4,8 +4,10 @@
 <stop offset="0" style="stop-color:#b2b9be" id="stop3781"/>
 <stop offset="1" style="stop-color:#bdc3c7;stop-opacity:.51" id="stop3783"/>
 </linearGradient>
-<linearGradient gradientTransform="matrix(1.1501703,0,0,0.88442076,-3.5224377,3.8785863)" xlink:href="#linearGradient3779" id="linearGradient3073" y1="2.1564658" x1="7.1517768" y2="43.522217" gradientUnits="userSpaceOnUse" x2="35.66811"/>
+<linearGradient gradientTransform="matrix(1.2386449,0,0,1.0107666,-5.6395479,1.0040988)" xlink:href="#linearGradient3779" id="linearGradient852" y1="2.1564658" x1="7.1517768" y2="43.522217" gradientUnits="userSpaceOnUse" x2="35.66811"/>
 </defs>
-<path style="fill:#ecf0f1" id="rect4090" d="m 4.5,5.627 0,36.746 39,-.0001 0,-36.6848 -12.6176,-.0609 z "/>
-<path style="fill:url(#linearGradient3073);fill-rule:evenodd;stroke:none;color:#000" id="rect4691" d="m 4.5,5.625 v 5.25 h 6.5 v -5.25 h -6.5 z  m 6.5,5.25 v 5.25 h 6.5 v -5.25 h -6.5 z  m 6.5,0 h 6.5 v -5.25 h -6.5 v 5.25 z  m 0,5.25 v 5.25 h 6.5 6.5 v -5.25 h -6.5 -6.5 z  m 13,0 h 6.5 v -5.25 h -6.5 v 5.25 z  m 6.5,0 v 5.25 h 6.5 v -5.25 h -6.5 z  m 0,5.25 h -6.5 v 5.25 h 6.5 v -5.25 z  m 0,5.25 v 5.25 h 6.5 v -5.25 h -6.5 z  m -6.5,0 h -6.5 v 5.25 h 6.5 v -5.25 z  m -6.5,5.25 h -6.5 v 5.25 h 6.5 v -5.25 z  m -6.5,5.25 h -6.5 v 5.25 h 6.5 v -5.25 z  m -6.5,0 v -5.25 h -6.5 v 5.25 h 6.5 z  m 0,-5.25 h 6.5 v -5.25 -5.25 h -6.5 v 5.25 5.25 z  m 0,-10.5 v -5.25 h -6.5 v 5.25 h 6.5 z  m 19.5,15.75 v 5.25 h 6.5 v -5.25 h -6.5 z "/>
+<g>
+<path style="fill:#ecf0f1" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
+<path style="fill:url(#linearGradient852);fill-rule:evenodd;stroke:none;color:#000" id="path850" d="m 3,3 v 6 h 7 v -6 h -7 z  m 7,6 v 6 h 7 v -6 h -7 z  m 7,0 h 7 v -6 h -7 v 6 z  m 0,6 v 6 h 7 7 v -6 h -7 -7 z  m 14,0 h 7 v -6 h -7 v 6 z  m 7,0 v 6 h 7 v -6 h -7 z  m 0,6 h -7 v 6 h 7 v -6 z  m 0,6 v 6 h 7 v -6 h -7 z  m -7,0 h -7 v 6 h 7 v -6 z  m -7,6 h -7 v 6 h 7 v -6 z  m -7,6 h -7 v 6 h 7 v -6 z  m -7,0 v -6 h -7 v 6 h 7 z  m 0,-6 h 7 v -6 -6 h -7 v 6 6 z  m 0,-12 v -6 h -7 v 6 h 7 z  m 21,18 v 6 h 7 v -6 h -7 z "/>
+</g>
 </svg>

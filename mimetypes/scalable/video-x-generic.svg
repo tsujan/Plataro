@@ -1,14 +1,12 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="fill:#e6e6e6;stroke-width:1.052" id="path3756" d="m 6,6 v 37 h 36 l -.1511,-36.9368 -11.5571,-.0632 Z "/>
-<g style="fill-rule:evenodd;stroke:none">
-<g style="stroke-width:1.087">
-<path id="rect2988" d="m 12,9 h 24 v 3 H 12 Z"/>
-<path id="rect2990" d="m 12,37 h 24 v 3 H 12 Z"/>
+<rect width="40" x="4" y="3" height="42" style="fill:#e6e6e6;fill-rule:evenodd;stroke:none" id="rect867"/>
+<g style="fill-rule:evenodd;stroke:none" id="g854">
+<path id="rect2988" d="m 10.7368,7 h 26.5263 v 3.5 h -26.5263 Z "/>
+<path id="rect2990" d="m 10.7368,37 h 26.5263 v 3.5 h -26.5263 Z "/>
+<g>
+<path id="path841" d="m 3,3 v 42 h 9 v -42 h -9 z  m 2,3 h 5 v 5 h -5 v -5 z  m 0,15 h 5 v 5 h -5 v -5 z  m 0,15 h 5 v 5 h -5 v -5 z "/>
+<path id="path833" d="m 36,3 v 42 h 9 v -42 h -9 z  m 2,3 h 5 v 5 h -5 v -5 z  m 0,15 h 5 v 5 h -5 v -5 z  m 0,15 h 5 v 5 h -5 v -5 z "/>
 </g>
-<g style="stroke-width:3.704;stroke-linecap:round;stroke-linejoin:round">
-<path id="path4506" d="m 5,6 v 37 h 8 V 6 Z m 2,3 h 4 v 4 H 7 Z m 0,13 h 4 v 4 H 7 Z m 0,13 h 4 v 4 H 7 Z"/>
-<path id="path4516" d="m 35,6 v 37 h 8 V 6 Z m 2,3 h 4 v 4 h -4 z m 0,13 h 4 v 4 h -4 z m 0,13 h 4 v 4 h -4 z"/>
-</g>
-<path style="stroke-width:1.087" id="path4511" d="m 12,23 h 24 v 3 H 12 Z"/>
+<path id="path4511" d="m 10.7368,22 h 26.5263 v 3.5 h -26.5263 Z "/>
 </g>
 </svg>

@@ -1,16 +1,35 @@
-<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48">
-<path style="fill:#eef1f2;stroke:#506970" id="path4304" d="m 2.5,9.5507 v 28.9493 h 43 v -28.9493 Z "/>
-<g style="fill:#506970">
-<path style="stroke:none" id="path4141" d="M 26,39 V 11 h 1 v 28 z"/>
-<rect width="44" x="2" y="9" height="6" id="rect26"/>
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs20">
+<linearGradient id="linearGradient888">
+<stop offset="0" id="stop884"/>
+<stop offset="1" style="stop-opacity:0" id="stop886"/>
+</linearGradient>
+<linearGradient xlink:href="#linearGradient888" id="linearGradient890" y1="43" x1="44" y2="0" x2="44" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient888" id="linearGradient898" y1="44" x1="45" y2="0" x2="45" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g style="stroke:none;text-transform:none">
+<g style="font-variant-numeric:normal;font-variant-alternates:normal;fill-rule:evenodd;text-decoration-color:#000000;solid-color:#000000;color:#000;color-rendering:auto;color-interpolation:sRGB;text-orientation:mixed;text-indent:0;font-variant-position:normal;vector-effect:none;shape-padding:0;line-height:normal;text-rendering:auto;mix-blend-mode:normal;white-space:normal;shape-rendering:auto;text-align:start;font-variant-ligatures:normal;font-variant-caps:normal;isolation:auto;text-decoration-style:solid;solid-opacity:1;image-rendering:auto;font-feature-settings:normal;text-decoration-line:none;font-family:sans-serif">
+<path style="color-interpolation-filters:linearRGB;opacity:.3;fill:url(#linearGradient890)" id="path854" d="M 2.173426,10.119422 2.0474261,39.565 C 2.2289286,41.288361 3,43 6.223,43 H 43.451 C 45.316973,43 47,41.280272 47,39.565 V 7 H 45 Z M 45,9 45.595,39.964844 43.550694,41.6 6.2227985,42 C 4.8237019,42.014993 3.0478902,40.659569 3.0525739,39.565 L 4,12 Z"/>
+<path style="color-interpolation-filters:linearRGB;fill:#f9fbfb;stroke-width:1.015" id="path844" d="m 45.3595,9.119 v 30.2157 c 0,1.10816 -1.05654,2.0604 -2.47119,2.0604 h -37.7408 c -1.41465,0 -2.47119,-0.952245 -2.47119,-2.0604 v -30.2157 Z "/>
+<path style="color-interpolation-filters:linearRGB;fill:#506970" id="path906" d="m 2,9.1191 v 29.8457 c 0,1.71527 1.57522,3.03516 3.43164,3.03516 h 37.1367 c 1.85642,0 3.43164,-1.31988 3.43164,-3.03516 v -29.8457 l -44,-0 z  m 1,.6992 h 42 v 29.1465 c 0,1.09458 -1.03963,2.03516 -2.43164,2.03516 h -37.1367 c -1.39201,0 -2.43164,-0.940577 -2.43164,-2.03516 v -29.1465 z "/>
 </g>
-<rect width="3" x="39" y="10.5" rx="1.5" height="3" ry="1.5" style="fill:#fff;stroke-width:.1" id="rect28"/>
-<g style="stroke-width:1.5;fill:#1d99f3">
+<path style="fill:#506970;stroke-width:1.044" id="path4141" d="M 26,41.539319 V 11 h 1 v 30.539319 z"/>
+</g>
+<rect width="44" x="2" y="6" height="6" style="fill:#506970" id="rect26"/>
+<rect width="3" x="39" y="7.5" rx="1.5" height="3" ry="1.5" style="fill:#fff;stroke-width:.1" id="rect28"/>
+<g>
+<g style="fill:#0bc2d1">
 <path id="f" d="m 6,19 h 3 l 1,1.5 h 2 V 25 H 6 Z"/>
 <path id="path969" d="m 6,28 h 3 l 1,1.5 h 2 V 34 H 6 Z"/>
+</g>
+<g style="fill:#f3991d">
 <path id="path971" d="m 33,19 h 3 l 1,1.5 h 2 V 25 h -6 z"/>
 <path id="path973" d="m 33,28 h 3 l 1,1.5 h 2 V 34 h -6 z"/>
-<path id="path825" d="m 15.1,19 h 3 l 0.9,1.5 h 2.1 V 25 h -6 z"/>
-<path id="path827" d="m 15.1,28 h 3 l 0.9,1.5 h 2.1 V 34 h -6 z"/>
 </g>
+<g style="fill:#0bc2d1">
+<path id="path825" d="m 15,19 h 3 l 0.9,1.5 H 21 V 25 h -6 z"/>
+<path id="path827" d="m 15,28 h 3 l 0.9,1.5 H 21 V 34 h -6 z"/>
+</g>
+</g>
+<path style="font-variant-ligatures:normal;text-align:start;font-variant-caps:normal;shape-rendering:auto;mix-blend-mode:normal;isolation:auto;color-interpolation-filters:linearRGB;white-space:normal;font-feature-settings:normal;font-family:sans-serif;text-decoration-line:none;opacity:.1;fill:url(#linearGradient898);solid-opacity:1;image-rendering:auto;text-decoration-style:solid;text-rendering:auto;font-variant-alternates:normal;solid-color:#000000;stroke:none;line-height:normal;text-decoration-color:#000000;color:#000;fill-rule:evenodd;text-transform:none;font-variant-numeric:normal;stroke-width:1.003;color-rendering:auto;text-orientation:mixed;vector-effect:none;font-variant-position:normal;shape-padding:0;text-indent:0;color-interpolation:sRGB" id="path860" d="M 47,8 V 39.564453 C 47,41.279725 45.317145,43 43.451172,43 H 6.2226562 C 5.0141068,43 4.1504395,42.758942 3.5332031,42.367188 3.3269689,42.236292 3.1489837,42.089013 2.9941406,41.927734 2.6855554,41.606324 2.4702764,41.23046 2.3222656,40.828125 c -2.157e-4,-5.86e-4 2.155e-4,-0.0014 0,-0.002 -0.073835,-0.200711 -0.1311901,-0.408363 -0.1757812,-0.619141 -1.329e-4,-6.28e-4 1.326e-4,-0.0013 0,-0.002 -0.044646,-0.211413 -0.07711,-0.425791 -0.099609,-0.640625 0,2 1.9529823,4.435547 5.1757812,4.435547 H 44.251 C 46.11697,44 48,41.879272 48,40.164 V 8 Z"/>
 </svg>

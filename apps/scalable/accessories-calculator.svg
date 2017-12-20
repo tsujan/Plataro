@@ -1,5 +1,12 @@
 <svg width="48" version="1.0" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs id="defs5">
+<linearGradient gradientTransform="matrix(0.96428571,0,0,0.88888888,0.85714284,1.1666667)" xlink:href="#linearGradient960" id="linearGradient949" y1="6" x1="10" y2="15" gradientUnits="userSpaceOnUse" x2="10"/>
+<linearGradient gradientTransform="matrix(1.1111111,0,0,1.25,-3.666671,-5.5)" xlink:href="#linearGradient875" id="linearGradient1078" y1="18" x1="33" y2="18" gradientUnits="userSpaceOnUse" x2="37.5"/>
+<linearGradient gradientTransform="matrix(0.41380804,0,0,3.0674537,22.44773,-88.630698)" xlink:href="#linearGradient875" id="linearGradient963" y1="39" x1="25.500399" y2="39" x2="37.583298" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(1.1111111,0,0,1.25,-10,-7.25)" xlink:href="#linearGradient851" id="linearGradient2353" y1="25" x1="18" y2="29" gradientUnits="userSpaceOnUse" x2="18"/>
+<linearGradient xlink:href="#linearGradient2768" id="linearGradient943" y1="46" x1="6" y2="2" x2="6" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(1.1111111,0,0,1.25,-1.667106,-10.75)" xlink:href="#linearGradient895" id="linearGradient2361" y1="43" x1="10.500396" y2="39" gradientUnits="userSpaceOnUse" x2="10.500396"/>
+<linearGradient xlink:href="#linearGradient3310" id="linearGradient939" y1="15" x1="10" y2="6" x2="10" gradientUnits="userSpaceOnUse"/>
 <linearGradient id="linearGradient895">
 <stop offset="0" style="stop-color:#1b6271" id="stop891"/>
 <stop offset="1" style="stop-color:#268ca2" id="stop893"/>
@@ -24,41 +31,30 @@
 <stop offset="0" style="stop-color:#638bb5" id="stop847"/>
 <stop offset="1" style="stop-color:#41648a" id="stop849"/>
 </linearGradient>
-<linearGradient xlink:href="#linearGradient3310" id="linearGradient939" y1="15" x1="10" y2="6" x2="10" gradientUnits="userSpaceOnUse"/>
-<linearGradient gradientTransform="matrix(0.4590474,0,0,0.38533506,-6.6644931,0.02386136)" xlink:href="#linearGradient2768" id="linearGradient3226" y1="119.3147" x1="34.396217" y2="5.1283655" gradientUnits="userSpaceOnUse" x2="34.396217"/>
-<linearGradient xlink:href="#linearGradient895" id="linearGradient907" y1="42.912041" x1="25.500397" y2="39" x2="25.500397" gradientUnits="userSpaceOnUse"/>
-<linearGradient gradientTransform="matrix(0.96428571,0,0,0.88888888,0.85714284,1.1666667)" xlink:href="#linearGradient960" id="linearGradient949" y1="6" x1="10" y2="15" gradientUnits="userSpaceOnUse" x2="10"/>
-<linearGradient xlink:href="#linearGradient875" id="linearGradient877" y1="17" x1="33" y2="21" x2="33" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient895" id="linearGradient897" y1="43" x1="10.500396" y2="39" x2="10.500396" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient851" id="linearGradient853" y1="22.5" x1="18" y2="26.5" x2="18" gradientUnits="userSpaceOnUse"/>
 </defs>
 <g style="stroke:none;stroke-linejoin:round">
 <g style="stroke-linecap:round">
-<rect width="38" x="5.5" y="1.5" rx="2.432" height="46" ry="2.432" style="opacity:.2;stroke-width:.883" id="rect881"/>
-<rect width="37.5" x="5.5" y="1.5" rx="2.4" ry="2.4" height="45.5" style="opacity:.2;stroke-width:.873" id="rect879"/>
-<rect width="37" x="5.5" y="1.5" rx="2.368" height="45" ry="2.3736265" style="opacity:.2;stroke-width:.862" id="rect961"/>
-<rect width="36" x="6" y="2" rx="1.8" height="44" ry="1.8" style="fill:url(#linearGradient3226);stroke-width:.429" id="rect2778"/>
-<rect width="12.082898" x="25.500397" y="39" rx="0.5" height="3.9120395" ry="0.5" style="fill:url(#linearGradient907);stroke-width:.145" id="rect3169"/>
+<rect width="38" x="5.5" y="1.5" rx="2.432" height="46" ry="2.432" style="opacity:.2" id="rect881"/>
+<rect width="37.5" x="5.5" y="1.5" rx="2.4" ry="2.4" height="45.5" style="opacity:.2" id="rect879"/>
+<rect width="37" x="5.5" y="1.5" rx="2.368" height="45" ry="2.3736265" style="opacity:.2" id="rect961"/>
+<rect width="36" x="6" y="2" rx="1.8" height="44" ry="1.8" style="fill:url(#linearGradient943)" id="rect2778"/>
+<rect width="5" x="33" y="31" rx="0.6" height="12" ry="0.6" style="fill:url(#linearGradient963)" id="rect3169"/>
 </g>
-<rect width="28" x="10" y="6" rx="0.8" height="9" ry="0.8" style="fill:url(#linearGradient939);fill-rule:evenodd;stroke-linecap:square;stroke-width:2.683" id="rect931"/>
+<rect width="28" x="10" y="6" rx="0.8" ry="0.8" height="9" style="fill:url(#linearGradient939);fill-rule:evenodd;stroke-linecap:square" id="rect931"/>
 </g>
-<rect width="4.5" x="33" y="17" rx="0.5" ry="0.5" height="4" style="fill:url(#linearGradient877);stroke:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:.09" id="use945"/>
-<rect width="4.5" x="18" y="22.5" rx="0.5" ry="0.5" height="4" style="fill:url(#linearGradient853);stroke:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:.09" id="use951"/>
-<rect width="4.5" x="10.500396" y="39" rx="0.5" ry="0.5" height="4" style="fill:url(#linearGradient897);stroke:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:.09" id="use939"/>
-<rect width="27" x="10.5" y="6.5" rx="0.5" ry="0.5" height="8" style="fill:url(#linearGradient949);fill-rule:evenodd;stroke:none;stroke-linejoin:round;stroke-linecap:square;stroke-width:2.484" id="rect941"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use855" transform="translate(7.4996033)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use857" transform="translate(15)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use859" transform="translate(0,5.5)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use861" transform="translate(0,11)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use863" transform="translate(7.4996033,5.5)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use865" transform="translate(15,5.5)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use867" transform="translate(7.4996033,11)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use869" transform="translate(15,11)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use945" id="use879" transform="translate(-7.5003967)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use945" id="use881" transform="translate(-15)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use945" id="use883" transform="translate(-22.500397)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use945" id="use885" transform="translate(-22.500397,11)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use945" id="use887" transform="translate(-22.500397,5.5)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use945" id="use889" transform="translate(-22.500397,16.5)"/>
-<use width="100%" x="0" y="0" height="100%" xlink:href="#use939" id="use899" transform="translate(7.4996042)"/>
+<rect width="5" x="33" y="17" rx="0.6" ry="0.6" height="5" style="fill:url(#linearGradient1078);stroke:none;stroke-linejoin:round;stroke-linecap:round" id="use945"/>
+<rect width="5" x="10" y="24" rx="0.6" ry="0.6" height="5" style="fill:url(#linearGradient2353);stroke:none;stroke-linejoin:round;stroke-linecap:round" id="use951"/>
+<rect width="5" x="10" y="38" rx="0.6" ry="0.6" height="5" style="fill:url(#linearGradient2361);stroke:none;stroke-linejoin:round;stroke-linecap:round" id="use939"/>
+<rect width="27" x="10.5" y="6.5" rx="0.5" ry="0.5" height="8" style="fill:url(#linearGradient949);fill-rule:evenodd;stroke:none;stroke-linejoin:round;stroke-linecap:square" id="rect941"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use855" transform="translate(7)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use857" transform="translate(14)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use859" transform="translate(0,7)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use863" transform="translate(7,7)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use865" transform="translate(14,7)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use945" id="use887" transform="translate(0,7)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use939" id="use899" transform="translate(7)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use2133" transform="translate(0,-7)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use2135" transform="translate(7,-7)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use951" id="use2137" transform="translate(14,-7)"/>
+<use width="100%" x="0" y="0" height="100%" xlink:href="#use939" id="use878" transform="translate(14)"/>
 </svg>

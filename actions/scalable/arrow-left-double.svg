@@ -1,8 +1,12 @@
-<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<g style="mix-blend-mode:normal;font-family:sans-serif;text-decoration-style:solid;solid-color:#000000;white-space:normal;text-transform:none;text-decoration-color:#000000;text-indent:0;text-align:start;text-decoration-line:none;color:#000;image-rendering:auto;color-rendering:auto;fill-rule:evenodd;stroke-width:12;isolation:auto;stroke-linecap:round;color-interpolation:sRGB;solid-opacity:1;text-rendering:auto;line-height:normal;stroke:none;shape-rendering:auto" id="g4">
-<path style="opacity:.6;fill:#fff;color-interpolation-filters:linearRGB" id="path4140" d="m 42.4933,7.0953 c -1.67777,-0.085026 -3.30576,0.613169 -4.44938,1.9082 l -14.992,16.4961 14.992,16.4961 c 5.32234,5.85632 13.5539,-2.44593 8.23824,-8.29492 l -7.4534,-8.2012 7.4534,-8.2012 c 3.4558,-3.69562 1.13178,-9.95407 -3.78884,-10.2031 z "/>
-<path style="fill:#919191;color-interpolation-filters:linearRGB" id="path4137" d="m 41.0965,5.5957 c -1.68666,-0.0850289 -3.32328,0.613167 -4.47296,1.9082 l -15.0715,16.4961 15.0715,16.4961 c 5.35004,5.85574 13.6259,-2.44573 8.28189,-8.29492 l -7.4929,-8.2012 7.4929,-8.2012 c 3.47411,-3.69562 1.13777,-9.95408 -3.80892,-10.2031 z "/>
-<path style="opacity:.6;fill:#fff;color-interpolation-filters:linearRGB" id="path4156" d="m 20.9412,7.0953 c -1.67777,-0.085026 -3.30576,0.613169 -4.44938,1.9082 l -14.992,16.4961 14.992,16.4961 c 5.32234,5.85632 13.5539,-2.44593 8.23824,-8.29492 l -7.4534,-8.2012 7.4534,-8.2012 c 3.4558,-3.69562 1.13178,-9.95407 -3.78884,-10.2031 z "/>
-<path style="fill:#919191;color-interpolation-filters:linearRGB" id="path4158" d="m 19.5445,5.5957 c -1.68666,-0.0850289 -3.32328,0.613167 -4.47296,1.9082 l -15.0715,16.4961 15.0715,16.4961 c 5.35004,5.85574 13.6259,-2.44573 8.28189,-8.29492 l -7.4929,-8.2012 7.4929,-8.2012 c 3.47411,-3.69562 1.13777,-9.95408 -3.80892,-10.2031 z "/>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<g style="color-rendering:auto;shape-rendering:auto;font-variant-caps:normal;text-decoration-line:none;color:#4d4d4d;image-rendering:auto;isolation:auto;font-variant-ligatures:normal;stroke:none;color-interpolation:sRGB;line-height:normal;solid-opacity:1;font-variant-alternates:normal;text-rendering:auto;text-align:start;font-variant-position:normal;vector-effect:none;solid-color:#000000;font-family:sans-serif;mix-blend-mode:normal;text-decoration-style:solid;white-space:normal;shape-padding:0;text-orientation:mixed;font-feature-settings:normal;text-indent:0;font-variant-numeric:normal;text-transform:none;text-decoration-color:#000000" id="g834" transform="matrix(-0.93321668,0,0,1,18.171875,0)">
+<g id="g4">
+<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path837" d="M 3.798,1.3066 2.3273,2.7187 7.8527,7.9999 2.3273,13.2811 3.798,14.6932 10.7726,7.9998 Z"/>
+<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path829" d="M 6.698,1.3066 5.2273,2.7187 10.7527,7.9999 5.2273,13.2811 6.698,14.6932 13.6726,7.9998 Z"/>
+</g>
+<g id="g826" transform="translate(5.7997)">
+<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path822" d="M 3.798,1.3066 2.3273,2.7187 7.8527,7.9999 2.3273,13.2811 3.798,14.6932 10.7726,7.9998 Z"/>
+<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path824" d="M 6.698,1.3066 5.2273,2.7187 10.7527,7.9999 5.2273,13.2811 6.698,14.6932 13.6726,7.9998 Z"/>
+</g>
 </g>
 </svg>

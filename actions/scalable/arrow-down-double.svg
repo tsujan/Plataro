@@ -1,12 +1,12 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g style="color-rendering:auto;shape-rendering:auto;font-variant-caps:normal;text-decoration-line:none;color:#4d4d4d;image-rendering:auto;isolation:auto;font-variant-ligatures:normal;stroke:none;color-interpolation:sRGB;line-height:normal;solid-opacity:1;font-variant-alternates:normal;text-rendering:auto;text-align:start;font-variant-position:normal;vector-effect:none;solid-color:#000000;font-family:sans-serif;mix-blend-mode:normal;text-decoration-style:solid;white-space:normal;shape-padding:0;text-orientation:mixed;font-feature-settings:normal;text-indent:0;font-variant-numeric:normal;text-transform:none;text-decoration-color:#000000" id="g834" transform="matrix(0,0.93321668,-1,0,16,-2.1718752)">
+<g id="g834" transform="matrix(0,0.93321668,-1,0,16,-2.1718752)">
 <g id="g4">
-<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path837" d="M 3.798,1.3066 2.3273,2.7187 7.8527,7.9999 2.3273,13.2811 3.798,14.6932 10.7726,7.9998 Z"/>
-<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path829" d="M 6.698,1.3066 5.2273,2.7187 10.7527,7.9999 5.2273,13.2811 6.698,14.6932 13.6726,7.9998 Z"/>
+<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path837" d="M 3.798,1.3066 2.3273,2.7187 7.8527,8 2.3273,13.2811 3.798,14.6932 10.7726,8 Z"/>
+<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path829" d="M 6.698,1.3066 5.2273,2.7187 10.7527,8 5.2273,13.2811 6.698,14.6932 13.6726,8 Z"/>
 </g>
 <g id="g826" transform="translate(5.7997)">
-<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path822" d="M 3.798,1.3066 2.3273,2.7187 7.8527,7.9999 2.3273,13.2811 3.798,14.6932 10.7726,7.9998 Z"/>
-<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path824" d="M 6.698,1.3066 5.2273,2.7187 10.7527,7.9999 5.2273,13.2811 6.698,14.6932 13.6726,7.9998 Z"/>
+<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path822" d="M 3.798,1.3066 2.3273,2.7187 7.8527,8 2.3273,13.2811 3.798,14.6932 10.7726,8 Z"/>
+<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path824" d="M 6.698,1.3066 5.2273,2.7187 10.7527,8 5.2273,13.2811 6.698,14.6932 13.6726,8 Z"/>
 </g>
 </g>
 </svg>

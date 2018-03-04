@@ -1,12 +1,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g id="g834" transform="matrix(-0.93321668,0,0,1,18.171875,0)">
-<g id="g4">
-<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path837" d="M 3.798,1.3066 2.3273,2.7187 7.8527,8 2.3273,13.2811 3.798,14.6932 10.7726,8 Z"/>
-<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path829" d="M 6.698,1.3066 5.2273,2.7187 10.7527,8 5.2273,13.2811 6.698,14.6932 13.6726,8 Z"/>
-</g>
-<g id="g826" transform="translate(5.7997)">
-<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path822" d="M 3.798,1.3066 2.3273,2.7187 7.8527,8 2.3273,13.2811 3.798,14.6932 10.7726,8 Z"/>
-<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path824" d="M 6.698,1.3066 5.2273,2.7187 10.7527,8 5.2273,13.2811 6.698,14.6932 13.6726,8 Z"/>
-</g>
+<g style="stroke-width:.966" id="g853" transform="matrix(-1,0,0,1.0021295,16,-0.72448932)">
+<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path837" d="m 2.706,2.719 -2.706,-.0003 5.1564,5.9872 -5.1564,5.987 2.706,.0002 5.1753,-5.9872 Z "/>
+<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path829" d="m 5.412,2.719 h -2.706 l 5.1567,5.987 -5.1567,5.987 2.706,.0002 5.1756,-5.9873 z "/>
+<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path822" d="m 8.119,2.719 -2.707,-.0003 5.1568,5.9872 -5.1568,5.987 l 2.707,.0002 5.1747,-5.9873 z "/>
+<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path824" d="m 10.819,2.719 -2.7,-3e-4 5.156101,5.98725 L 8.119,14.693 h 2.7 L 16,8.70595 Z"/>
 </g>
 </svg>

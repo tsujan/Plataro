@@ -1,12 +1,12 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g style="stroke:none" id="g819" transform="matrix(0,1,1,0,-1e-7,0.9)">
-<g>
-<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path837" d="m 1.3725,1.3066 -1.3725,1.4121 5.1564,5.2812 -5.1564,5.2812 1.3725,1.4121 6.5088,-6.6934 Z "/>
-<path style="opacity:.4;color-interpolation-filters:linearRGB;fill:#fff" id="path829" d="m 4.0788,1.3066 -1.3725,1.4121 5.1564,5.2812 -5.1564,5.2812 1.3725,1.4121 6.5088,-6.6934 Z "/>
+<g style="stroke:none" id="g835" transform="matrix(0,1,1,0,0,0)">
+<g style="stroke-width:1.135">
+<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path837" d="m 3.067,2.0003 -3.067,-.0003 5.8443,6.0001 -5.8443,5.9999 3.067,-.0001 5.8657,-5.9998 Z "/>
+<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path829" d="m 6.143,2.0003 h -3.07605 l 5.8446,5.9998 -5.8446,5.9998 h 3.07605 l 5.857,-6 Z "/>
 </g>
-<g style="fill-rule:evenodd;stroke-width:1.213">
-<rect width="2" x="11.100004" y="1.3065" height="13.387" style="opacity:.4" id="rect835"/>
-<rect width="2" x="13.100002" y="1.3065" height="13.387" style="opacity:.4;fill:#fff" id="rect837"/>
+<g style="fill-rule:evenodd;stroke-width:.947">
+<rect width="2" x="12" y="2" height="12" style="opacity:.4" id="rect835"/>
+<rect width="2" x="14" y="2" height="12" style="opacity:.4;fill:#fff" id="rect837"/>
 </g>
 </g>
 </svg>

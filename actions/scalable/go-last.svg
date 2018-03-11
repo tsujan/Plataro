@@ -1,10 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g style="stroke:none" id="g832" transform="matrix(1.1334013,0,0,1.1361054,0,-1.0887296)">
-<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path837" d="M 2.706,2.719 0,2.7187 5.1564,8 0,13.2811 2.706,13.281 7.8813,8 Z"/>
-<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path829" d="M 5.42,2.719 H 2.706 L 7.8627,8 2.706,13.281 H 5.42 l 5.1676,-5.2812 z"/>
-</g>
-<g style="fill-rule:evenodd;stroke:none" id="g836" transform="matrix(1,0,0,0.89639202,0.9,0.82886384)">
-<rect width="2" x="11.1" y="1.3065" height="13.387" style="opacity:.4" id="rect835"/>
-<rect width="2" x="13.1" y="1.3065" height="13.387" style="opacity:.4;fill:#fff" id="rect837"/>
+<g style="fill:#5e87b2;stroke:none">
+<path style="color-interpolation-filters:linearRGB;stroke-width:1.139" id="path829" d="m 4.5991,2 h -3.09912 l 5.8884,6 -5.8884,6 h 3.09912 l 5.9009,-6 Z "/>
+<rect width="2" x="12" y="2" height="12" style="fill-rule:evenodd;stroke-width:.947" id="rect837"/>
 </g>
 </svg>

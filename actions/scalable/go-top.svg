@@ -1,12 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g style="stroke:none" id="g835" transform="rotate(-90,8,8)">
-<g style="stroke-width:1.135">
-<path style="opacity:.4;fill:#fff;color-interpolation-filters:linearRGB" id="path837" d="m 3.067,2.0003 -3.067,-.0003 5.8443,6.0001 -5.8443,5.9999 3.067,-.0001 5.8657,-5.9998 Z "/>
-<path style="opacity:.4;color-interpolation-filters:linearRGB" id="path829" d="m 6.143,2.0003 h -3.07605 l 5.8446,5.9998 -5.8446,5.9998 h 3.07605 l 5.857,-6 Z "/>
-</g>
-<g style="fill-rule:evenodd;stroke-width:.947">
-<rect width="2" x="12" y="2" height="12" style="opacity:.4;fill:#fff" id="rect835"/>
-<rect width="2" x="14" y="2" height="12" style="opacity:.4" id="rect837"/>
-</g>
+<g style="fill:#5e87b2;stroke:none" id="g835" transform="rotate(-90,8,8)">
+<path style="color-interpolation-filters:linearRGB;stroke-width:1.139" id="path829" d="m 4.5991,2 h -3.09912 l 5.8884,6 -5.8884,6 h 3.09912 l 5.9009,-6 Z "/>
+<rect width="2" x="12" y="2" height="12" style="fill-rule:evenodd;stroke-width:.947" id="rect837"/>
 </g>
 </svg>

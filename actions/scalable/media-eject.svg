@@ -1,12 +1,12 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<g style="stroke:none" id="g4">
-<g style="opacity:.6;fill:#fff" id="g4138" transform="translate(0,1.0000014)">
-<rect width="29.952389" x="9.0238056" y="33.668968" rx="0.60153627" height="4.8310304" ry="0.61571634" style="display:block" id="rect4140"/>
-<path style="fill-rule:evenodd" id="path4142" d="m 38.8382,30.429 -29.6763,0 .0001,-1.5 29.676,0 .0003,1.5 z "/>
+<g style="stroke:none" id="g10">
+<g style="fill:#fff" id="g4">
+<rect width="29.952389" x="9.0238056" y="36.168968" rx="0.5" height="4.8310304" ry="0.5" style="opacity:.6;display:block" id="rect4140"/>
+<path style="opacity:.6;fill-rule:evenodd" id="path4142" d="M 38.8382,29 H 9.1619 l 1e-4,-1.5 h 29.676 l 3e-4,1.5 z"/>
 </g>
-<g style="fill:#919191" id="layer1">
-<rect width="29.952389" x="9.0238056" y="33.168968" rx="0.60153627" ry="0.61571634" height="4.8310304" style="display:block" id="rect4595"/>
-<path style="fill-rule:evenodd" id="path7812" d="M 38.838,29.9289 9.162,29.929 c 2.47303,-3.46311 10.7752,-15.1296 13.5486,-18.9325 0.99134,-1.35935 1.71707,-1.29755 2.61018,0 2.60299,3.78174 11.0443,15.4693 13.5173,18.9324 z"/>
+<g style="fill:#919191" id="g8">
+<rect width="29.952389" x="9.0238056" y="33.5" rx="0.5" ry="0.5" height="6" style="display:block;stroke-width:1.114" id="rect4595"/>
+<path style="fill-rule:evenodd" id="path7812" d="M 38.838,27.5 9.162,27.5 22.7106,8.5675 c 0.99134,-1.35935 1.71707,-1.29755 2.61018,0 z"/>
 </g>
 </g>
 </svg>

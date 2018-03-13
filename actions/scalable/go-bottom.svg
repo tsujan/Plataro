@@ -1,6 +1,6 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g style="fill:#5e87b2;stroke:none" id="g835" transform="matrix(0,1,1,0,0,0)">
-<path style="color-interpolation-filters:linearRGB;stroke-width:1.139" id="path829" d="m 4.5991,2 h -3.09912 l 5.8884,6 -5.8884,6 h 3.09912 l 5.9009,-6 Z "/>
-<rect width="2" x="12" y="2" height="12" style="fill-rule:evenodd;stroke-width:.947" id="rect837"/>
+<svg width="48" version="1.0" xmlns="http://www.w3.org/2000/svg" height="48">
+<g style="fill:#c76b00;stroke:none">
+<path style="stroke-width:1.526" id="path3591" d="m 6.3075,18.4533 c 0.186878,-1.67043 1.75971,-3.06849 3.44054,-3.05825 h 7.59902 v -14.3951 l 11.9432,2.6862 v 11.7089 h 8.95896 c 1.3324,-0.0081 2.64786,0.819774 3.18568,2.03883 0.537823,1.21907 0.267406,2.75951 -0.637135,3.73787 l -14.9514,14.7857 c -1.3228,1.44176 -3.93166,1.37757 -5.18203,-0.127433 l -13.5498,-14.7857 c -0.604229,-0.706808 -0.903039,-1.66611 -0.807041,-2.59102 Z "/>
+<path style="fill-rule:evenodd;stroke-linejoin:round;stroke-linecap:round;stroke-width:2.391" id="rect812" d="m 42,40 v 4 c 0,1.108 -0.892,2 -2,2 H 8 C 6.892,46 6,45.108 6,44 v -4 c 0,-1.108 0.892,-2 2,-2 h 32 c 1.108,0 2,0.892 2,2 z"/>
 </g>
 </svg>

@@ -7,7 +7,7 @@ Example=x-directory-normal
 
 FollowsColorScheme=true
 
-Directories=actions/16,actions/22,actions/scalable,apps/16,apps/22,apps/scalable,categories/16,categories/22,categories/scalable,emblems/scalable,devices/16,devices/22,devices/scalable,places/16,places/22,places/scalable,mimetypes/16,mimetypes/22,mimetypes/scalable,status/16,status/22,status/scalable
+Directories=actions/16,actions/22,actions/24,actions/scalable,apps/16,apps/22,apps/24,apps/scalable,categories/16,categories/22,categories/24,categories/scalable,emblems/scalable,devices/16,devices/22,devices/24,devices/scalable,places/16,places/22,places/24,places/scalable,mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/scalable,status/16,status/22,status/24,status/scalable
 
 [actions/16]
 Size=16
@@ -19,11 +19,16 @@ Size=22
 Context=Actions
 Type=Fixed
 
+[actions/24]
+Size=24
+Context=Actions
+Type=Fixed
+
 [actions/scalable]
 Size=96
 Context=Actions
 Type=Scalable
-MinSize=16
+MinSize=32
 MaxSize=512
 
 [apps/16]
@@ -36,11 +41,16 @@ Size=22
 Context=Applications
 Type=Fixed
 
+[apps/24]
+Size=24
+Context=Applications
+Type=Fixed
+
 [apps/scalable]
 Size=96
 Context=Applications
 Type=Scalable
-MinSize=16
+MinSize=32
 MaxSize=512
 
 [categories/16]
@@ -53,11 +63,16 @@ Size=22
 Context=Categories
 Type=Fixed
 
+[categories/24]
+Size=24
+Context=Categories
+Type=Fixed
+
 [categories/scalable]
 Size=96
 Context=Categories
 Type=Scalable
-MinSize=16
+MinSize=32
 MaxSize=512
 
 [devices/16]
@@ -70,11 +85,16 @@ Size=22
 Context=Devices
 Type=Fixed
 
+[devices/24]
+Size=24
+Context=Devices
+Type=Fixed
+
 [devices/scalable]
 Size=96
 Context=Devices
 Type=Scalable
-MinSize=16
+MinSize=32
 MaxSize=512
 
 [emblems/scalable]
@@ -92,11 +112,16 @@ Size=22
 Context=MimeTypes
 Type=Fixed
 
+[mimetypes/24]
+Size=24
+Context=MimeTypes
+Type=Fixed
+
 [mimetypes/scalable]
 Size=96
 Context=MimeTypes
 Type=Scalable
-MinSize=16
+MinSize=32
 MaxSize=512
 
 [places/16]
@@ -109,11 +134,16 @@ Size=22
 Context=Places
 Type=Fixed
 
+[places/24]
+Size=24
+Context=Places
+Type=Fixed
+
 [places/scalable]
 Size=96
 Context=Places
 Type=Scalable
-MinSize=16
+MinSize=32
 MaxSize=512
 
 [status/16]
@@ -126,9 +156,14 @@ Size=22
 Context=Status
 Type=Fixed
 
+[status/24]
+Size=24
+Context=Status
+Type=Fixed
+
 [status/scalable]
 Size=96
 Context=Status
 Type=Scalable
-MinSize=16
+MinSize=32
 MaxSize=512

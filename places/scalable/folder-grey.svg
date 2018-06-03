@@ -1,10 +1,9 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<g style="stroke:none">
-<path style="opacity:.65;fill:#fff" id="rect4154" d="m 3,1.959 0,9.342 42,0 0,-6.9866 -22,0 0,-2.3555 z"/>
-<rect width="18" x="4" y="2.9586298" height="11.773318" id="folderTab"/>
-<rect width="40" x="4" y="5.313652" height="35.319954" id="folderBackground"/>
-<rect width="35.999992" x="6" y="7.6680799" height="32.965004" style="fill:#fff" id="folderPaper"/>
-<path style="opacity:.65" id="rect4148" d="m 1,9.0234 v 34.9648 h 46 v -34.9648 h -2 v 2.27734 h -42 v -2.27734 h -2 z "/>
-<rect width="43.999996" x="2" y="10.022959" height="32.965298" style="fill:#bdc3c7" id="folderFront"/>
+<g id="g8">
+<path style="opacity:.65;fill:#fff" id="rect4154" d="M 3,2.00005 V 13.401 H 45 V 5 H 23 V 1.99995 Z"/>
+<path id="folderTab" d="M 4,3 V 40.632812 H 44 V 6 H 22 V 3 Z"/>
+<path style="fill:#fff" id="folderPaper" d="m 6,9 h 36 v 31.6331 h -36 Z "/>
+<path style="opacity:.65" id="rect4148" d="M 1,11 V 45 H 47 V 11 h -2 v 2 H 3 v -2 z"/>
+<path style="fill:#bdc3c7" id="folderFront" d="m 2,12 h 44 v 32 h -44 Z "/>
 </g>
 </svg>

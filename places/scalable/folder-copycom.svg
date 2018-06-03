@@ -1,16 +1,13 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="opacity:.65;fill:#fff;stroke:none" id="rect4154" d="m 3,1.959 0,9.342 42,0 0,-6.9866 -22,0 0,-2.3555 z"/>
-<g id="folderLayer">
-<g style="stroke:none" id="g3053" transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
-<rect width="18" x="4" y="6.9996953" height="10" id="folderTab"/>
-<rect width="40" x="4" y="9" height="30" id="folderBackground"/>
-<rect width="35.999992" x="6" y="10.9998" height="27.999756" style="fill:#fff" id="folderPaper"/>
-<rect width="43.999996" x="2" y="12.999983" height="28.000008" style="fill:#5e87b2" id="folderFront"/>
+<g id="g7" transform="translate(0,1)">
+<path style="opacity:.65;fill:#fff" id="rect4154" d="M 3,1 V 12 H 45 V 4 H 23 V 1 Z"/>
+<path id="folderTab" d="M 4,3 V 16 H 44 V 6 H 22 V 3 Z" transform="translate(0,-1)"/>
+<path style="fill:#fff" id="folderPaper" d="m 6,8 h 36 v 33 h -36 Z "/>
+<path style="fill:#5e87b2" id="folderFront" d="m 2,11 h 44 v 32 h -44 Z "/>
 </g>
-<g style="fill:#fff;stroke:none" id="g3814" transform="matrix(0.34988141,0,0,0.34988141,7.3036451,7.8910821)">
-<path id="path3028" d="m 38.1249,78.3449 -12.026,-38.6366 -16.7596,6.1409 -1.2794,-.7676 15.6082,-14.2009 l 7.2923,2.9425 11.898,29.6811 24.3078,-15.992 6.1409,2.4308 14.0729,25.4592 -2.3028,1.5352 -38.5087,-4.2219 z "/>
-<path id="path3030" d="m 43.6261,61.2015 -3.0705,-6.7806 8.3158,-8.8276 11.1304,-1.0235 4.9895,2.4308 z "/>
-<path id="path3032" d="m 60.7695,43.2905 9.7231,3.8381 9.0834,-33.3912 z "/>
-</g>
+<g style="fill:#fff" id="g3814" transform="matrix(0.34988141,0,0,0.34988141,7.3036451,9.5885759)">
+<path id="path3028" d="M 38.1249,78.3449 26.0989,39.7083 9.3393,45.8492 8.0599,45.0816 23.6681,30.8807 l 7.2923,2.9425 11.898,29.6811 24.3078,-15.992 6.1409,2.4308 14.0729,25.4592 -2.3028,1.5352 -38.5087,-4.2219 z"/>
+<path id="path3030" d="m 43.6261,61.2015 -3.0705,-6.7806 8.3158,-8.8276 11.1304,-1.0235 4.9895,2.4308 z"/>
+<path id="path3032" d="m 60.7695,43.2905 9.7231,3.8381 9.0834,-33.3912 z"/>
 </g>
 </svg>

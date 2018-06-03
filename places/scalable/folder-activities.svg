@@ -1,19 +1,14 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="opacity:.65;fill:#fff;stroke:none" id="rect4154" d="m 3,1.959 0,9.342 42,0 0,-6.9866 -22,0 0,-2.3555 z"/>
-<g id="folderLayer">
-<g style="stroke:none" id="g3053" transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
-<rect width="18" x="4" y="6.9996953" height="10" id="folderTab"/>
-<rect width="40" x="4" y="9" height="30" id="folderBackground"/>
-<rect width="35.999992" x="6" y="10.9998" height="27.999756" style="fill:#fff" id="folderPaper"/>
-<rect width="43.999996" x="2" y="12.999983" height="28.000008" style="fill:#5e87b2" id="folderFront"/>
+<g id="g7" transform="translate(0,1)">
+<path style="opacity:.65;fill:#fff" id="rect4154" d="M 3,1 V 12 H 45 V 4 H 23 V 1 Z"/>
+<path id="folderTab" d="M 4,3 V 16 H 44 V 6 H 22 V 3 Z" transform="translate(0,-1)"/>
+<path style="fill:#fff" id="folderPaper" d="m 6,8 h 36 v 33 h -36 Z "/>
+<path style="fill:#5e87b2" id="folderFront" d="m 2,11 h 44 v 32 h -44 Z "/>
 </g>
-<g id="g3778" transform="matrix(0.22113757,0,0,0.22113757,-30.726639,-85.988576)">
-<path style="font-family:Sans;text-transform:none;text-indent:0;text-align:start;color:#000;text-decoration-line:none;stroke-width:18.951;line-height:normal;fill:#fff;stroke:none" id="path3776" d="m 280.228,456.4898 -.0126,.0124 -84.0398,0 0,81.7707 .0815,0 -.006,.006 19.2286,18.2103 84.0381,0 0,-81.7393 .0439,-.0504 -19.3336,-18.2103 z  m -77.3555,4.9228 72.4836,0 0,13.3127 -56.2311,0 z  m 77.3429,.3075 13.9094,13.0052 -13.9118,0 z  m -79.1815,4.0062 14.4439,12.4063 0,.0314 0,55.1944 -14.4439,0 z  m 19.459,14.0727 54.8631,0 0,53.5594 -54.8631,0 z  m 59.7201,0 14.282,0 0,66.8724 -14.2797,-12.7981 z  m -78.558,58.0223 13.8226,.4518 .002,12.0661 z  m 18.8378,.4518 57.0719,0 15.079,13.151 -72.151,0 z "/>
-</g>
-<g style="fill:#fff;stroke:none">
-<circle cx="20.334999" cy="25.356001" id="path3754" r="1.5"/>
-<circle cx="24.315479" cy="25.356001" id="path3756" r="1.5"/>
-<circle cx="28.295958" cy="25.356001" id="path3758" r="1.5"/>
-</g>
+<g style="fill:#fff">
+<path style="font-family:Sans;text-align:start;line-height:normal;color:#000;text-indent:0;text-decoration-line:none;text-transform:none" id="path845" d="m 31.2422,16.3867 l -.002,.002 h -18.5859 v 18.082 h 0.019531 l -.002,.002 4.252,4.0273 h 18.584 v -18.0762 l .0098,-.0098 -4.2754,-4.0273 z  m -17.1055,1.0879 h 16.0273 v 2.94336 h -12.4336 l -3.5938,-2.9434 z  m 17.1035,.0684 l 3.0742,2.875 h -3.07617 l .002,-2.875 z  m -17.5098,.8867 l 3.1934,2.7422 v 0.007813 12.2051 h -3.19336 v -14.9551 z  m 4.3027,3.1113 h 12.1309 v 11.8438 h -12.1309 v -11.8438 z  m 13.2051,0 h 3.1582 v 14.7871 l -3.1562,-2.8301 -.002,-11.957 z  m -17.3711,12.8301 l 3.0566,.1016 v 2.66797 l -3.0566,-2.7695 z  m 4.166,.1016 h 12.6211 l 3.334,2.9082 h -15.9551 v -2.9082 z "/>
+<circle cx="20.334999" cy="26.783907" r="1.5" id="path3754"/>
+<circle cx="24.315479" cy="26.783907" r="1.5" id="path3756"/>
+<circle cx="28.295958" cy="26.783907" r="1.5" id="path3758"/>
 </g>
 </svg>

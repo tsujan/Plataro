@@ -3,7 +3,7 @@ Name=Plataro
 Comment=A colorful flat icon set for KDE and LXQt
 Inherits=breeze,oxygen,gnome,hicolor
 
-Example=x-directory-normal
+Example=folder
 
 FollowsColorScheme=true
 

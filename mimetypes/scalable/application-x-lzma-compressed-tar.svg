@@ -1,1 +1,25 @@
-./application-x-compressed-tar.svg
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#008c6f" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
+<g style="fill-rule:evenodd" id="g888" transform="translate(0,-1.507)">
+<rect width="7.9695606" x="20.002359" y="4.5075564" height="18.793396" style="fill:#34495e;stroke-miterlimit:2.013" id="shape0"/>
+<g style="stroke-miterlimit:2" id="g19">
+<g style="fill:#ecf0f1" id="g10" transform="matrix(1.4683729,0,0,1.025597,-11.238691,-2.7746832)">
+<rect width="3.2564054" x="23.465931" y="7.1004887" height="1.4654016" id="shape2"/>
+<rect width="3.2564054" x="21.302462" y="8.5685101" height="1.4654016" id="shape3"/>
+<rect width="3.2564054" x="23.46616" y="10.03407" height="1.4654016" id="shape4"/>
+<rect width="3.2564054" x="21.29925" y="11.503496" height="1.4654016" id="shape5"/>
+<rect width="3.2564054" x="23.462833" y="12.96901" height="1.4654016" id="shape6"/>
+<rect width="3.2564054" x="21.29925" y="14.437004" height="1.4654016" id="shape7"/>
+<rect width="3.2564054" x="23.462833" y="15.902609" height="1.4654016" id="shape8"/>
+<rect width="3.2564054" x="21.277571" y="17.370695" height="1.4654016" id="shape9"/>
+<rect width="3.2564054" x="23.441038" y="18.836208" height="1.4654016" id="shape10"/>
+<rect width="3.2564054" x="21.277571" y="20.304295" height="1.4654016" id="shape11"/>
+<rect width="3.2564054" x="23.441269" y="21.769808" height="1.4654016" id="shape12"/>
+<rect width="3.2564054" x="21.274359" y="23.239271" height="1.4654016" id="shape13"/>
+<rect width="5.4192996" x="21.285601" y="24.824669" height="9.7665815" id="shape17"/>
+</g>
+<rect width="4.6644192" x="21.693239" y="23.685429" height="2.3696082" style="fill:#2c3e50" id="shape18"/>
+</g>
+</g>
+<path style="fill:#fff" id="path842" d="m 9.7754,34.9219 v 6.07812 h 4.85547 v -1.18359 h -3.09375 v -4.89453 h -1.76172 z  m 5.6348,0 v 1.18555 h 3.56055 l -3.666,3.9434 v 0.949219 h 5.95508 v -1.18359 h -3.77148 l 3.666,-3.9453 v -0.949219 h -5.74414 z  m 7.127,0 v 6.07812 h 1.67188 v -4.44531 l 1.5742,3.2773 h 1.11719 l 1.5742,-3.2773 v 4.44531 h 1.66602 v -6.07812 h -2.23828 l -1.5645,3.2539 -1.5566,-3.2539 h -2.24414 z  m 11.0547,0 l -2.5312,6.0781 h 1.77148 l .4355,-1.1074 h 2.75586 l .4297,1.1074 h 1.77148 l -2.5312,-6.0781 h -2.10156 z  m 1.0547,1.4258 l .9336,2.418 h -1.87305 l .9395,-2.418 z "/>
+</svg>

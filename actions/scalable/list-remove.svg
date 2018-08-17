@@ -1,7 +1,6 @@
-<svg style="enable-background:new 0 0 256 256" viewBox="0 0 256 256" version="1.0" width="48" xmlns="http://www.w3.org/2000/svg" height="48">
-<defs id="defs185"/>
-<g style="fill-rule:evenodd;stroke:none;fill:#ff3219">
-<path style="color:#000;stroke-width:5.333" id="rect1332" d="m 60.8826,97.2545 c -40.4863,0 -36.392,-5.49846 -36.3981,30.7518 -0.0061,36.2503 -1.09246,30.7236 36.3981,30.7518 133.274,0.10054 0.000186,-0.22325 134.268,0 40.4676,0.0673 35.536,5.3638 36.3647,-30.7518 0.82873,-36.1156 1.11458,-30.7518 -36.3647,-30.7518 z "/>
-<rect width="208" x="24" y="96.944" rx="9" height="62.112" ry="9" style="stroke-linecap:round;stroke-width:10.667" id="rect4137"/>
+<svg width="48" version="1.0" xmlns="http://www.w3.org/2000/svg" height="48">
+<g id="g4289" transform="matrix(0.80769231,0,0,0.80769231,86.843968,-40.238869)">
+<circle cx="95.740486" cy="-56.685902" style="fill:#e64331" id="circle3581_2_" r="26" transform="rotate(165)"/>
+<path style="fill:#fff;fill-rule:evenodd" id="rect3232" d="m -93.9021,75.8196 v 7.42857 h 32.1905 v -7.42857 z "/>
 </g>
 </svg>

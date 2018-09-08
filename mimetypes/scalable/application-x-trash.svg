@@ -1,4 +1,5 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.2" d="M 4,4 V 46 H 46 V 4 Z"/>
 <path style="fill:#ecf0f1" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
 <g style="fill-rule:evenodd;stroke:none">
 <rect width="21.575832" x="13.188583" y="17.063412" height="19.146589" style="fill:#98a1a8" id="rect3280-4"/>

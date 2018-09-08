@@ -1,4 +1,5 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.2" d="M 4,4 V 46 H 46 V 4 Z"/>
 <g id="layer1" transform="matrix(1.2352941,0,0,1.05,-5.6470589,-1.2)">
 <path style="fill:#ecf0f1" id="rect4090" d="M 0,0 V 40 H 34 V 0.06980703 L 23,0 Z" transform="translate(7,4)"/>
 <g style="stroke:#003bc3;stroke-linecap:square;fill-rule:evenodd;stroke-width:0">

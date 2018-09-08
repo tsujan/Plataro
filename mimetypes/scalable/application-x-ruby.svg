@@ -1,4 +1,5 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.2" d="M 4,4 V 46 H 46 V 4 Z"/>
 <path style="fill:#ecf0f1" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
 <path style="fill:#c0392b;fill-rule:evenodd;stroke:#003bc3;stroke-linecap:square;stroke-width:0;stroke-miterlimit:2" id="shape0" d="m 31.6705,15.2649 -3.7621,3.7344 6.162,2.8251 6.5512,-6.5595 z  m 9.535,.5196 -6.4864,6.4946 6.4864,17.5677 z  m -13.8808,3.8318 -7.4918,7.4363 2.8216,6.1697 10.7997,-10.7809 z  m 6.7782,3.2797 -10.897,10.9433 17.2537,6.3971 z  m -14.8862,4.741 -3.6972,3.7019 0,9.0274 6.5512,-6.5594 z  m 3.3729,6.8194 -6.4864,6.4946 24.0969,0 z "/>
 </svg>

@@ -1,5 +1,6 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="fill:#ecf0f1;stroke-width:1.08" id="rect4090" d="M 3,3 V 44.999886 L 45,45 V 3 Z"/>
+<path style="opacity:.2" id="path825" d="M 4,4 V 46 H 46 V 4 Z"/>
+<path style="fill:#ecf0f1" d="M 3,3 V 44.999886 L 45,45 V 3 Z"/>
 <g style="fill-rule:evenodd" id="g16" transform="translate(0.1715,-1.485)">
 <g style="stroke:none;stroke-linejoin:bevel;stroke-linecap:square;stroke-width:10" id="g6">
 <path style="opacity:.3" id="path4171" d="M 10.34,15.358 H 37.317 V 35.612 H 10.34 Z"/>

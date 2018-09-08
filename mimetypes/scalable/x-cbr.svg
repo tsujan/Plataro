@@ -1,4 +1,5 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path style="opacity:.2" d="M 4,4 V 46 H 46 V 4 Z"/>
 <defs id="defs4">
 <linearGradient id="linearGradient4376" xlink:href="#linearGradient4370" y1="38.127232" x1="8" y2="71.877235" x2="8" gradientUnits="userSpaceOnUse"/>
 <linearGradient id="linearGradient4370">

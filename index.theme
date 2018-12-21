@@ -3,9 +3,24 @@ Name=Plataro
 Comment=A colorful flat icon set for KDE and LXQt
 Inherits=breeze,oxygen,gnome,hicolor
 
+DisplayDepth=32
 Example=folder
 
 FollowsColorScheme=true
+
+########## These are only for KDE System Settings
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=48
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
 
 Directories=actions/16,actions/22,actions/24,actions/scalable,apps/16,apps/22,apps/24,apps/scalable,categories/16,categories/22,categories/24,categories/scalable,emblems/scalable,devices/16,devices/22,devices/24,devices/scalable,places/16,places/22,places/24,places/scalable,mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/scalable,status/16,status/22,status/24,status/scalable
 

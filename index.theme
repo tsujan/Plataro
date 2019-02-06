@@ -24,6 +24,8 @@ DialogSizes=16,22,32,48,64,128,256
 
 Directories=actions/16,actions/22,actions/24,actions/scalable,apps/16,apps/22,apps/24,apps/scalable,categories/16,categories/22,categories/24,categories/scalable,emblems/scalable,devices/16,devices/22,devices/24,devices/scalable,places/16,places/22,places/24,places/scalable,mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/scalable,status/16,status/22,status/24,status/scalable
 
+ScaledDirectories=actions/16x2,actions/22x2,actions/24x2,apps/16x2,apps/22x2,apps/24x2,categories/16x2,categories/22x2,categories/24x2,devices/16x2,devices/22x2,devices/24x2,places/16x2,places/22x2,places/24x2,mimetypes/16x2,mimetypes/22x2,mimetypes/24x2,status/16x2,status/22x2,status/24x2
+
 [actions/16]
 Size=16
 Context=Actions
@@ -36,6 +38,24 @@ Type=Fixed
 
 [actions/24]
 Size=24
+Context=Actions
+Type=Fixed
+
+[actions/16x2]
+Size=16
+Scale=2
+Context=Actions
+Type=Fixed
+
+[actions/22x2]
+Size=22
+Scale=2
+Context=Actions
+Type=Fixed
+
+[actions/24x2]
+Size=24
+Scale=2
 Context=Actions
 Type=Fixed
 
@@ -61,6 +81,24 @@ Size=24
 Context=Applications
 Type=Fixed
 
+[apps/16x2]
+Size=16
+Scale=2
+Context=Applications
+Type=Fixed
+
+[apps/22x2]
+Size=22
+Scale=2
+Context=Applications
+Type=Fixed
+
+[apps/24x2]
+Size=24
+Scale=2
+Context=Applications
+Type=Fixed
+
 [apps/scalable]
 Size=96
 Context=Applications
@@ -83,6 +121,24 @@ Size=24
 Context=Categories
 Type=Fixed
 
+[categories/16x2]
+Size=16
+Scale=2
+Context=Categories
+Type=Fixed
+
+[categories/22x2]
+Size=22
+Scale=2
+Context=Categories
+Type=Fixed
+
+[categories/24x2]
+Size=24
+Scale=2
+Context=Categories
+Type=Fixed
+
 [categories/scalable]
 Size=96
 Context=Categories
@@ -102,6 +158,24 @@ Type=Fixed
 
 [devices/24]
 Size=24
+Context=Devices
+Type=Fixed
+
+[devices/16x2]
+Size=16
+Scale=2
+Context=Devices
+Type=Fixed
+
+[devices/22x2]
+Size=22
+Scale=2
+Context=Devices
+Type=Fixed
+
+[devices/24x2]
+Size=24
+Scale=2
 Context=Devices
 Type=Fixed
 
@@ -132,6 +206,24 @@ Size=24
 Context=MimeTypes
 Type=Fixed
 
+[mimetypes/16x2]
+Size=16
+Scale=2
+Context=MimeTypes
+Type=Fixed
+
+[mimetypes/22x2]
+Size=22
+Scale=2
+Context=MimeTypes
+Type=Fixed
+
+[mimetypes/24x2]
+Size=24
+Scale=2
+Context=MimeTypes
+Type=Fixed
+
 [mimetypes/scalable]
 Size=96
 Context=MimeTypes
@@ -154,6 +246,24 @@ Size=24
 Context=Places
 Type=Fixed
 
+[places/16x2]
+Size=16
+Scale=2
+Context=Places
+Type=Fixed
+
+[places/22x2]
+Size=22
+Scale=2
+Context=Places
+Type=Fixed
+
+[places/24x2]
+Size=24
+Scale=2
+Context=Places
+Type=Fixed
+
 [places/scalable]
 Size=96
 Context=Places
@@ -173,6 +283,24 @@ Type=Fixed
 
 [status/24]
 Size=24
+Context=Status
+Type=Fixed
+
+[status/16x2]
+Size=16
+Scale=2
+Context=Status
+Type=Fixed
+
+[status/22x2]
+Size=22
+Scale=2
+Context=Status
+Type=Fixed
+
+[status/24x2]
+Size=24
+Scale=2
 Context=Status
 Type=Fixed
 

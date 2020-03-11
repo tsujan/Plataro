@@ -15,8 +15,8 @@
 </linearGradient>
 <linearGradient gradientTransform="matrix(1.1111111,0,0,1.25,-3.666671,-5.5)" xlink:href="#linearGradient875" id="linearGradient1109" y1="18" x1="33" y2="22" gradientUnits="userSpaceOnUse" x2="33"/>
 <linearGradient id="linearGradient2768">
-<stop offset="0" style="stop-color:#ccc4c4" id="stop2770"/>
-<stop offset="1" style="stop-color:#fff" id="stop2772"/>
+<stop offset="0" style="stop-color:#d5cfcf" id="stop2770"/>
+<stop offset="1" style="stop-color:#fafafa" id="stop2772"/>
 </linearGradient>
 <linearGradient id="linearGradient895">
 <stop offset="0" style="stop-color:#1b6271" id="stop891"/>

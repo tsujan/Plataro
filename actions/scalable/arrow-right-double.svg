@@ -1,6 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g style="fill:#1e8a24" id="g826" transform="translate(0.5)">
-<path style="color-interpolation-filters:linearRGB" id="path829" d="M 6,2 11.133691,8 6,14 H 8.8490552 L 14,8 8.8490552,2 Z"/>
-<path style="color-interpolation-filters:linearRGB" id="path817" d="M 1,2 6.1336906,8 1,14 H 3.8490552 L 9,8 3.8490552,2 Z"/>
+<g style="fill:#1e8a24">
+<path style="color-interpolation-filters:linearRGB" id="path829" d="m 1.5,2 5,6 -5,6 h 3 l 5,-6 -5,-6 z"/>
+<path style="color-interpolation-filters:linearRGB" id="path816" d="m 6.5,2 5,6 -5,6 h 3 l 5,-6 -5,-6 z"/>
 </g>
 </svg>

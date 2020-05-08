@@ -1,1 +1,22 @@
-package-x-generic.svg
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#ba925f" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
+<g style="fill-rule:evenodd" id="g888" transform="translate(-11,-1.507)">
+<rect width="7.9695606" x="20.002359" y="4.5075564" height="18.793396" style="fill:#34495e" id="shape0"/>
+<g style="fill:#ecf0f1" id="g10" transform="matrix(1.4683729,0,0,1.025597,-11.238691,-2.7746832)">
+<path id="shape2" d="m 23.4659,7.1005 h 3.25641 v 1.4654 h -3.25641 z "/>
+<path id="shape3" d="m 21.3025,8.5685 h 3.25641 v 1.4654 h -3.25641 z "/>
+<path id="shape4" d="m 23.4662,10.0341 h 3.25641 v 1.4654 h -3.25641 Z "/>
+<path id="shape5" d="m 21.2993,11.5035 h 3.25641 v 1.4654 h -3.25641 Z "/>
+<path id="shape6" d="m 23.4628,12.969 h 3.25641 v 1.4654 h -3.25641 z "/>
+<path id="shape7" d="m 21.2993,14.437 h 3.25641 v 1.4654 h -3.25641 Z "/>
+<path id="shape8" d="m 23.4628,15.9026 h 3.25641 v 1.4654 h -3.25641 z "/>
+<path id="shape9" d="m 21.2776,17.3707 h 3.25641 v 1.4654 h -3.25641 z "/>
+<path id="shape10" d="m 23.441,18.8362 h 3.25641 v 1.4654 h -3.25641 z "/>
+<path id="shape11" d="m 21.2776,20.3043 h 3.25641 v 1.4654 h -3.25641 z "/>
+<path id="shape12" d="m 23.4413,21.7698 h 3.25641 v 1.4654 h -3.25641 z "/>
+<path id="shape13" d="m 21.2744,23.2393 h 3.25641 v 1.4654 h -3.25641 z "/>
+<path id="shape17" d="m 21.2856,24.8247 h 5.4193 v 9.76658 h -5.4193 z "/>
+</g>
+<path style="fill:#2c3e50" id="shape18" d="m 21.6932,23.6854 h 4.66442 v 2.36961 h -4.66442 z "/>
+</g>
+</svg>

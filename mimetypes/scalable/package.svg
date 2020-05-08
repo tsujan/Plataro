@@ -1,24 +1,22 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
 <path style="fill:#b99337" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
-<g style="stroke:#003bc3;stroke-linecap:square;fill-rule:evenodd;stroke-width:0" id="g888" transform="translate(0,-1.507)">
-<rect width="7.9695606" x="20.002359" y="4.5075564" height="18.793396" style="fill:#34495e;stroke-miterlimit:2.013" id="shape0"/>
-<g style="stroke-miterlimit:2">
-<g style="fill:#ecf0f1" id="g10" transform="matrix(1.4683729,0,0,1.025597,-11.238691,-2.7746832)">
-<rect width="3.2564054" x="23.465931" y="7.1004887" height="1.4654016" id="shape2"/>
-<rect width="3.2564054" x="21.302462" y="8.5685101" height="1.4654016" id="shape3"/>
-<rect width="3.2564054" x="23.46616" y="10.03407" height="1.4654016" id="shape4"/>
-<rect width="3.2564054" x="21.29925" y="11.503496" height="1.4654016" id="shape5"/>
-<rect width="3.2564054" x="23.462833" y="12.96901" height="1.4654016" id="shape6"/>
-<rect width="3.2564054" x="21.29925" y="14.437004" height="1.4654016" id="shape7"/>
-<rect width="3.2564054" x="23.462833" y="15.902609" height="1.4654016" id="shape8"/>
-<rect width="3.2564054" x="21.277571" y="17.370695" height="1.4654016" id="shape9"/>
-<rect width="3.2564054" x="23.441038" y="18.836208" height="1.4654016" id="shape10"/>
-<rect width="3.2564054" x="21.277571" y="20.304295" height="1.4654016" id="shape11"/>
-<rect width="3.2564054" x="23.441269" y="21.769808" height="1.4654016" id="shape12"/>
-<rect width="3.2564054" x="21.274359" y="23.239271" height="1.4654016" id="shape13"/>
-<rect width="5.4192996" x="21.285601" y="24.824669" height="9.7665815" id="shape17"/>
+<g style="fill-rule:evenodd">
+<path style="fill:#34495e" id="shape0" d="m 20.0024,3 h 7.96956 V 21.794 H 20.0024 Z"/>
+<g style="stroke-width:1.227;fill:#ecf0f1">
+<path id="shape2" d="m 23.218,3 h 4.78162 v 1.50291 h -4.78162 z "/>
+<path id="shape3" d="m 20.0413,4.5061 h 4.78162 v 1.50291 h -4.78162 z "/>
+<path id="shape4" d="m 23.2184,6.0093 h 4.78162 v 1.50291 h -4.78162 z "/>
+<path id="shape5" d="m 20.0366,7.5163 h 4.78162 v 1.50291 h -4.78162 z "/>
+<path id="shape6" d="m 23.2134,9.0193 h 4.78162 v 1.50291 h -4.78162 z "/>
+<path id="shape7" d="m 20.0366,10.5249 h 4.78162 v 1.50291 h -4.78162 z "/>
+<path id="shape8" d="m 23.2134,12.028 h 4.78162 v 1.50291 h -4.78162 z "/>
+<path id="shape9" d="m 20.0048,13.5337 h 4.78162 v 1.50291 h -4.78162 Z "/>
+<path id="shape10" d="m 23.1814,15.0367 h 4.78162 v 1.50291 h -4.78162 z "/>
+<path id="shape11" d="m 20.0048,16.5423 h 4.78162 v 1.50291 h -4.78162 Z "/>
+<path id="shape12" d="m 23.1819,18.0454 h 4.78162 v 1.50291 h -4.78162 z "/>
+<path id="shape13" d="m 20,19.5525 h 4.78163 v 1.50291 h -4.78162 z "/>
+<path id="shape17" d="m 20.0165,21.1785 h 7.95755 v 10.0166 h -7.95755 z "/>
 </g>
-<rect width="4.6644192" x="21.693239" y="23.685429" height="2.3696082" style="fill:#2c3e50" id="shape18"/>
-</g>
+<path style="fill:#2c3e50" id="shape18" d="m 21.6932,22.1784 h 4.66442 v 2.36961 H 21.6932 Z"/>
 </g>
 </svg>

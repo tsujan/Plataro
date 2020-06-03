@@ -9,8 +9,8 @@
 </g>
 <g style="stroke:#000">
 <g id="g3894" transform="matrix(0.38330256,0,0,0.38095032,-1.7153119,-348.47837)">
-<rect width="16.335632" x="-657.81592" y="760.18213" rx="2.6425266" ry="2.933136" height="44.448147" style="stroke:none" id="rect3896" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"/>
-<ellipse cx="64.10714" cy="59.07143" rx="33.75" ry="32.142857" style="fill:none;stroke-width:14.639" id="path3898" transform="matrix(1,0,0,1.05,-11.071429,909.44432)"/>
+<rect width="16.335632" x="-657.81592" y="760.18213" rx="2.6425266" ry="2.933136" height="44.448147" style="opacity:.7;stroke:none" id="rect3896" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"/>
+<ellipse cx="64.10714" cy="59.07143" rx="33.75" ry="32.142857" style="opacity:.7;fill:none;stroke-width:14.639" id="path3898" transform="matrix(1,0,0,1.05,-11.071429,909.44432)"/>
 </g>
 <g id="g3776" transform="matrix(0.38724929,0,0,0.38724929,-0.35075198,-355.96343)">
 <rect width="16.335632" x="-657.81592" y="760.18213" rx="2.6425266" height="44.448147" ry="2.933136" style="fill:#e6e6e6;stroke:none" id="rect3755" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"/>

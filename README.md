@@ -10,10 +10,6 @@ Plataro was made based on FaenzaFlattr, when the latter disappeared from Interne
 
 "Plataro" means "a set of flat things" in Esperanto.
 
+## Note
 
-The following lines are quoted from the text files of FaenzaFlattr:
-
-> Icons are designed and developed by Uri Herrera <kaisergreymon99@gmail.com>.
-> Many icons are designed and developed by Tago <tago73@gmail.com>.
-> Merge Flattr with FaenzaFlattr-Green and fixed missing symlinks FadeMind <fademind@gmail.com>
-> Icons are licensed under the [Creative Commons License (CC BY-NC-SA 4.0)] (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+With Qt apps, for the symbolic monochrome icons to have a hight contrast with dark backgrounds, a good Qt plugin is needed. A standard installation of KDE or LXQt provides such a plugin.

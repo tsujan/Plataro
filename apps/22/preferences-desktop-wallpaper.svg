@@ -1,5 +1,5 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-<g transform="matrix(0.20277778,0,0,0.14558608,-6.6497464,-1.7497834)">
+<g transform="matrix(0.23055556,0,0,0.17955617,-9.1675194,-4.3247323)">
 <rect width="72" x="51.039845" y="46.362835" height="35" style="fill:#00c3ff;fill-rule:evenodd"/>
 <g style="fill-rule:evenodd" transform="matrix(1.0286749,0,0,1.0409543,129.48951,49.498772)">
 <g>
@@ -18,7 +18,7 @@
 </g>
 </g>
 </g>
-<path style="fill:#2c2c2c" d="m 3,4 v 11 h 6 v 1 h -2 v 2 h 8 v -2 h -2 v -1 h 6 v -11 h -16 z  m 1,1 h 14 v 9 h -14 v -9 z "/>
-<path style="opacity:.5;fill:#fff" d="M 2,3 V 16 H 9 V 15 H 3 V 4 h 16 v 11 h -6 v 1 h 7 V 3 Z m 4,13 v 3 h 10 v -3 h -1 v 2 H 7 v -2 z"/>
-<path style="fill:#7fff2a" d="m 10,16 h 2 v 1 h -2 z"/>
+<path style="fill:#2c2c2c" d="m 2,3 v 13 h 7 v 1 H 7 v 2 h 8 v -2 h -2 v -1 h 7 V 3 Z M 3,4 H 19 V 15 H 3 Z"/>
+<path style="opacity:.5;fill:#fff" d="M 1,2 V 17 H 9 V 16 H 2 V 3 h 18 v 13 h -7 v 1 h 8 V 2 Z m 5,15 v 3 h 10 v -3 h -1 v 2 H 7 v -2 z"/>
+<path style="fill:#7fff2a" d="m 10,17 h 2 v 1 h -2 z"/>
 </svg>

@@ -1,8 +1,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-<path style="fill:#2c2c2c" d="m 3,4 v 11 h 6 v 1 h -2 v 2 h 8 v -2 h -2 v -1 h 6 v -11 h -16 z  m 1,1 h 14 v 9 h -14 v -9 z "/>
-<path style="opacity:.5;fill:#fff" d="M 2,3 V 16 H 9 V 15 H 3 V 4 h 16 v 11 h -6 v 1 h 7 V 3 Z m 4,13 v 3 h 10 v -3 h -1 v 2 H 7 v -2 z"/>
-<path style="fill:#7fff2a" d="m 10,16 h 2 v 1 h -2 z"/>
-<g transform="matrix(0.19999971,0,0,0.14754026,35.882034,5.9899804)">
+<path style="fill:#2c2c2c" d="m 2,3 v 13 h 7 v 1 H 7 v 2 h 8 v -2 h -2 v -1 h 7 V 3 Z M 3,4 H 19 V 15 H 3 Z"/>
+<path style="opacity:.5;fill:#fff" d="M 1,2 V 17 H 9 V 16 H 2 V 3 h 18 v 13 h -7 v 1 h 8 V 2 Z m 5,15 v 3 h 10 v -3 h -1 v 2 H 7 v -2 z"/>
+<path style="fill:#7fff2a;stroke-width:1.414" d="m 10,17 h 2 v 1 h -2 z"/>
+<g transform="matrix(0.2285711,0,0,0.18032698,39.435879,5.209976)">
 <path style="fill:#00cca9" d="m -159.4071,-6.7099 v 61 h 69.9968 v -61 z"/>
 <path style="fill:#e58800" d="m -89.4103,-6.7099 -24.0852,17.7735 -4.8633,-2.2833 -19.7196,15.9475 9.0998,5.8015 -3.0583,2.6149 28.9486,21.1462 h 13.6812 z"/>
 <path style="fill:#319b3b" d="m -138.0308,24.5933 -5.1148,3.9906 .4097,3.24 -16.6713,13.0214 v 9.44488 h 56.6417 l -29.0862,-21.2133 2.9895,-2.6485 z "/>

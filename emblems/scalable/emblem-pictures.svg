@@ -1,19 +1,14 @@
 <svg width="24" version="1.0" xmlns="http://www.w3.org/2000/svg" height="24" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs id="defs4">
-<clipPath id="clipPath2883">
-<path style="opacity:.3;fill:#f00;stroke:none;color:#000;stroke-width:4" id="path2885" d="m -100,-74 0,96 96,0 0,-96 -96,0 z  m 48,16 c 17.664,0 32,14.336 32,32 4e-06,17.664 -14.336,32 -32,32 -17.664,0 -32,-14.336 -32,-32 0,-17.664 14.336,-32 32,-32 z  m 12.125,16.125 -16.25,18.875 -8,-7.25 -7.75,8.375 15.75,15.625 24,-27.25 -7.75,-8.375 z "/>
-</clipPath>
-<clipPath id="clipPath3266">
-<path style="opacity:.3;fill:#f00;stroke:none;color:#000;stroke-width:4" id="path3268" d="M 0,0 0,96 96,96 96,0 0,0 z m 12,6 72,0 c 3.324,0 6,2.676 6,6 l 0,72 c 0,3.324 -2.676,6 -6,6 L 12,90 C 8.676,90 6,87.324 6,84 L 6,12 C 6,8.676 8.676,6 12,6 z"/>
-</clipPath>
-<linearGradient id="ButtonColor-6" y1="21" x1="10.31979" y2="0.99929649" x2="10.31979" gradientUnits="userSpaceOnUse">
-<stop offset="0" style="stop-color:#c8c8c8" id="stop3189-4"/>
-<stop offset="1" style="stop-color:#e6e6e6" id="stop3191-0"/>
+<defs>
+<linearGradient id="ButtonColor-6" y1="21" x1="10.31979" y2="1" x2="10.31979" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#c8c8c8"/>
+<stop offset="1" style="stop-color:#e6e6e6"/>
 </linearGradient>
 <linearGradient gradientTransform="matrix(0.2570698,0,0,0.2570698,-0.33949467,-0.7525833)" xlink:href="#ButtonColor-6" id="linearGradient3022" y1="90" x1="48" y2="5.9877172" gradientUnits="userSpaceOnUse" x2="48"/>
 </defs>
-<g style="stroke:none">
-<rect width="21.593863" x="1.2029241" y="0.78983551" rx="1.5424188" ry="1.5424188" height="21.593863" style="opacity:.75;fill:url(#linearGradient3022)" id="rect2419"/>
-<path style="fill:#333" id="rect3261" d="m 4.5146,3.7707 0,15 15,0 0,-2 0,-13 -15,0 z  m 2,2 11,0 0,8 -4,-6 -2.8008,4.1992 -.6992,-1.1992 -3.5,6 0,-11 z "/>
+<rect width="21.593863" x="1.2029241" y="0.78983551" rx="1.5424188" height="21.593863" style="opacity:.75;fill:url(#linearGradient3022)"/>
+<g style="fill:#333">
+<path d="m 4,3.2715 v 15.998 l 16,.002 v -16 l -16,-0 z  m 2,2 h 12 v 9 l -3.5996,-4.8027 -3.3008,5 -2,-1.5996 -3.0996,4.4004 v -11.998 z "/>
+<circle cx="10" cy="9" style="fill-rule:evenodd" r="2"/>
 </g>
 </svg>

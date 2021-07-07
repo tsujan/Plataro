@@ -7,5 +7,5 @@
 <linearGradient gradientTransform="matrix(0.2570698,0,0,0.2570698,-0.33949467,-0.7525833)" xlink:href="#ButtonColor-6" id="linearGradient3035" y1="90" x1="48" y2="5.9877172" gradientUnits="userSpaceOnUse" x2="48"/>
 </defs>
 <rect width="21.593863" x="1.2029241" y="0.78983551" rx="1.5424188" height="21.593863" style="opacity:.75;fill:url(#linearGradient3035)"/>
-<path style="fill:#333;color:#4d4d4d" d="M 3,3 V 20 H 21 V 3 Z m 1,1.5 h 3 v 3 H 4 Z m 4.5,0 7,0 v 6 l -7,0 z m 8.5,0 h 3 v 3 H 17 Z M 4,10 h 3 v 3 H 4 Z m 13,0 h 3 v 3 h -3 z m -8.5,2.5 7,0 v 6 h -7 z m -4.5,3 h 3 v 3 H 4 Z m 13,0 h 3 v 3 h -3 z"/>
+<path style="fill:#333;color:#4d4d4d" d="m 3,3 v 17 0.5 H 8.5 V 20 h 7 v 0.5 H 21 V 20 3 2.5 H 15.5 V 3 h -7 V 2.5 H 3 Z m 1,1.5 h 3 v 3 H 4 Z m 4.5,0 h 7 v 6 h -7 z m 8.5,0 h 3 v 3 H 17 Z M 4,10 h 3 v 3 H 4 Z m 13,0 h 3 v 3 h -3 z m -8.5,2.5 h 7 v 6 h -7 z m -4.5,3 h 3 v 3 H 4 Z m 13,0 h 3 v 3 h -3 z"/>
 </svg>

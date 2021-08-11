@@ -2,7 +2,7 @@
 <defs id="defs30">
 <linearGradient id="linearGradient859">
 <stop offset="0" style="stop-color:#f2ba56" id="stop855"/>
-<stop offset="0.17647059" style="stop-color:#e59a13" id="stop863"/>
+<stop offset="0.3" style="stop-color:#e59a13" id="stop863"/>
 <stop offset="1" style="stop-color:#fabc51" id="stop857"/>
 </linearGradient>
 <linearGradient xlink:href="#linearGradient859" id="linearGradient861" y1="3" x1="23.5" y2="37" x2="23.5" gradientUnits="userSpaceOnUse"/>

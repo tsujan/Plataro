@@ -1,1 +1,12 @@
-./text-plain.svg
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.2" id="path2" d="M 4,4 V 46 H 46 V 4 Z"/>
+<path style="fill:#ecf0f1" id="rect4090" d="M 3,3 3,45 H 45 V 3 Z"/>
+<g style="fill-rule:evenodd;fill:#7f8c8d">
+<path id="line2" d="m 10.6301,16.7813 h 18.6848 v 2.92213 h -18.6848 Z "/>
+<path id="line" d="m 13.9141,10.937 h 12.1515 v 2.92214 h -12.1515 Z "/>
+<path id="line21" d="m 10.6203,22.6256 h 18.6848 v 2.92213 h -18.6848 Z "/>
+<path id="line22" d="m 10.6705,28.4699 h 18.6848 v 2.92213 h -18.6848 Z "/>
+<path id="line23" d="m 10.6608,34.3141 h 18.6848 v 2.92213 h -18.6848 Z "/>
+</g>
+<path style="fill:#636d6e" id="path4140" d="m 31.6643,11.6749 h 5.6812 v 11.0426 l -.8048,6.5965 h -4.0715 l -.8048,-6.5965 z  m 0,19.9432 h 5.6812 v 5.6181 h -5.6812 z "/>
+</svg>

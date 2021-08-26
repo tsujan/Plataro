@@ -1,0 +1,23 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#2980b9" d="M 3,3 V 45 H 45 V 3 Z"/>
+<g style="fill:#ecf0f1" transform="matrix(1.1176471,0,0,0.95,-2.8235294,1.2002576)">
+<path d="m 0,0 v 40 h 34 v -40 Z " transform="translate(7,4)"/>
+<g style="fill-rule:evenodd">
+<rect width="23.362026" x="0" y="0" height="3.1810868" style="stroke-miterlimit:2.013" transform="translate(12.3038,16.1417)"/>
+<g style="stroke-miterlimit:2">
+<rect width="11.115499" x="0" y="0" height="3.1810868" transform="translate(18.861,9.77954)"/>
+<rect width="13.562757" x="0" y="0" height="3.1810868" transform="translate(12.2953,22.5039)"/>
+<rect width="13.562757" x="0" y="0" height="3.1810868" transform="translate(12.3208,28.8661)"/>
+<rect width="23.362026" x="0" y="0" height="3.1810868" transform="translate(12.3307,35.2282)"/>
+</g>
+<rect width="6.5734076" x="0" y="0" height="9.5378857" style="stroke-miterlimit:2.013" transform="translate(29.0863,22.4914)"/>
+</g>
+</g>
+<g style="fill:#2980b9;fill-rule:evenodd">
+<path d="m 10.5838,16.7852 h 26.7976 v 2.92012 h -26.7976 Z "/>
+<path d="m 18.1053,10.9449 h 12.7501 v 2.92012 h -12.7501 Z "/>
+<path d="m 10.574,22.6254 h 26.807 v 2.92012 h -26.807 Z "/>
+<path d="m 10.6033,28.4657 h 26.7777 v 2.92012 h -26.7777 Z "/>
+<path d="m 10.6146,34.3059 26.7664,0 v 2.92012 l -26.7664,0 z "/>
+</g>
+</svg>

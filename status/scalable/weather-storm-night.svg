@@ -22,7 +22,7 @@
 <g id="g4225" transform="matrix(0.54347827,0,0,0.54347827,283.45652,244.45652)">
 <g style="stroke:none" id="layer9-9" transform="translate(-81,-245)">
 <path style="font-family:Sans;text-transform:none;text-indent:0;text-align:start;color:#bebebe;text-decoration-line:none;stroke-width:2.21;line-height:normal;fill:#5b7495" id="path7834" d="m 105,255.5455 c -7.38949,0 -13.4545,6.065 -13.4545,13.4545 0,7.38949 6.06499,13.4545 13.4545,13.4545 7.3895,0 13.4545,-6.06501 13.4545,-13.4545 0,-7.3895 -6.06498,-13.4545 -13.4545,-13.4545 z "/>
-<circle cx="27.930717" cy="18.124739" style="fill:url(#radialGradient3910)" id="path6598" r="9.1923885" transform="matrix(2.50207,0,0,2.50207,35.11539,223.65064)"/>
+<circle cx="27.930717" cy="18.124739" style="opacity:.75;fill:url(#radialGradient3910)" id="path6598" r="9.1923885" transform="matrix(2.50207,0,0,2.50207,35.11539,223.65064)"/>
 </g>
 </g>
 </g>

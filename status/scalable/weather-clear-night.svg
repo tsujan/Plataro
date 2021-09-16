@@ -1,13 +1,5 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs id="defs7386">
-<linearGradient id="linearGradient7473">
-<stop offset="0" style="stop-color:#fff;stop-opacity:0" id="stop7475"/>
-<stop offset="0.39673913" style="stop-color:#fff;stop-opacity:0" id="stop7481"/>
-<stop offset="0.75" style="stop-color:#fff;stop-opacity:.784" id="stop7483"/>
-<stop offset="1" style="stop-color:#fff;stop-opacity:0" id="stop7477"/>
-</linearGradient>
-<radialGradient fx="27.930717" fy="18.124739" cx="27.930717" cy="18.124739" gradientTransform="matrix(2.50207,0,0,2.50207,-45.88461,-21.34936)" r="9.1923885" id="radialGradient3910" xlink:href="#linearGradient7473" gradientUnits="userSpaceOnUse"/>
-</defs>
-<path style="fill:#5b7495;line-height:normal;color:#bebebe" id="path7834" d="m 24,10.5455 c -7.38949,0 -13.4545,6.065 -13.4545,13.4545 0,7.38949 6.06499,13.4545 13.4545,13.4545 7.3895,0 13.4545,-6.06501 13.4545,-13.4545 0,-7.3895 -6.06498,-13.4545 -13.4545,-13.4545 z"/>
-<circle cx="24" cy="24" style="opacity:.75;fill:url(#radialGradient3910)" id="path6598" r="23"/>
+<defs id="defs7386"/>
+<path style="fill:#5b7495;color:#bebebe" id="path7834" d="m 24,10.5 c -7.41448,0 -13.5,6.08551 -13.5,13.5 0,7.41448 6.0855,13.5 13.5,13.5 7.41449,0 13.5,-6.08552 13.5,-13.5 0,-7.41449 -6.08549,-13.5 -13.5,-13.5 z"/>
+<path style="fill:#9cc7ff" id="path6598" d="m 24,2 c -12.1325,0 -22,9.8675 -22,22 0,12.1325 9.8675,22 22,22 12.1325,0 22,-9.8675 22,-22 0,-12.1325 -9.8675,-22 -22,-22 Z  m 0,3 c 10.5112,0 19,8.48882 19,19 0,10.5112 -8.48882,19 -19,19 -10.5112,0 -19,-8.48882 -19,-19 0,-10.5112 8.48882,-19 19,-19 Z "/>
 </svg>

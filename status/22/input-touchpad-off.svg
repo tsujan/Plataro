@@ -1,0 +1,11 @@
+<svg width="22" version="1.1" xmlns="http://www.w3.org/2000/svg" height="22">
+<defs id="defs3051">
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text {
+color:#4d4d4d;
+}
+</style>
+</defs>
+<path style="fill:currentColor" d="m 5.0176,3 l 1,1 h 11.9824 v 11.9844 l 1,1 v -13.9844 h -13.9824 z  m -2.0176,2.0156 v 13.9844 h 13.9844 l -1,-1 h -11.9844 v -11.9844 l -1,-1 z  m 2,9.9844 v 2 h 5 v -2 h -5 z  m 7,0 v 2 h 2.98438 l -2,-2 h -0.984375 z " class="ColorScheme-Text"/>
+<path style="fill:#da4453" d="m 3,3.7071 .7071,-.7071 15.2929,15.2929 -.7071,.7071 Z "/>
+</svg>

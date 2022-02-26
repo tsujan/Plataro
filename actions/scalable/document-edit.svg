@@ -12,10 +12,13 @@
 <stop offset="0" style="stop-color:#666"/>
 <stop offset="1"/>
 </linearGradient>
-<linearGradient xlink:href="#linearGradient880" id="linearGradient882" y1="39.928188" x1="3.4801226" y2="44.521946" x2="8.0639439" gradientUnits="userSpaceOnUse"/>
 <linearGradient gradientTransform="matrix(0.75722601,0.75722601,-1.0350281,1.0350281,15.788394,-28.145285)" xlink:href="#linearGradient3770" id="linearGradient3849" y1="23.72045" x1="34.265" y2="23.72045" gradientUnits="userSpaceOnUse" x2="45.4021"/>
+<linearGradient xlink:href="#linearGradient880" id="linearGradient882" y1="39.928188" x1="3.4801226" y2="44.521946" x2="8.0639439" gradientUnits="userSpaceOnUse"/>
 </defs>
-<path style="fill:#ecf0f1;stroke-width:1.024" d="m 4.5719,5.628 v 36.7438 h 38.8357 l .1643,-36.7458 -12.7288,.0019 z "/>
+<g style="stroke-width:1.024">
+<path style="opacity:.5" d="M 5.372,6.628 V 43.3718 H 44.2077 L 44.372,6.626 31.6432,6.6279 Z"/>
+<path style="fill:#ecf0f1" d="m 4.5719,5.628 v 36.7438 h 38.8357 l .1643,-36.7458 -12.7288,.0019 z "/>
+</g>
 <g style="fill-rule:evenodd">
 <g style="fill:#7f8c8d">
 <rect width="26.684752" x="10.630051" y="16.781309" height="2.9221342"/>

@@ -1,19 +1,26 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<g style="fill:#dcae00" id="layer9" transform="translate(-81,-245)">
-<g style="stroke:none;color:#bebebe" id="g15">
-<path style="font-family:Sans;text-align:start;line-height:normal;text-indent:0;stroke-width:2.21;text-transform:none" id="path7834" d="m 104.9882,255.5456 c -7.3895,0 -13.4545,6.06502 -13.4545,13.4545 0,7.3895 6.06499,13.4545 13.4545,13.4545 7.38951,0 13.4545,-6.06501 13.4545,-13.4545 0,-7.38949 -6.06499,-13.4545 -13.4545,-13.4545 z"/>
-<g style="stroke-width:2" id="g13">
-<rect width="5.5" x="83" y="266.25" rx="1.546875" height="5.5" ry="1.546875" id="rect4906-43"/>
-<rect width="5.5" x="121.5" y="266.25" rx="1.546875" height="5.5" ry="1.546875" id="rect4906-4-6"/>
-<rect width="5.5" x="247" y="-107.75" rx="1.546875" ry="1.546875" height="5.5" id="rect4107" transform="rotate(90)"/>
-<rect width="5.5" x="285.5" y="-107.75" rx="1.546875" ry="1.546875" height="5.5" id="rect4109" transform="rotate(90)"/>
-<g id="use4998-8-8" transform="matrix(-1.9445436,1.9445436,-1.9445436,-1.9445436,832.25932,650.13055)">
-<rect width="2" x="81" y="284" rx="0.5625" height="2" ry="0.5625" id="rect4101"/>
-<rect width="2" x="95" y="284" rx="0.5625" height="2" ry="0.5625" id="rect4103"/>
+<g style="color:#bebebe">
+<g style="fill:#332800">
+<path style="opacity:.4;line-height:normal" d="m 24.3882,11.3456 c -7.3895,0 -13.4545,6.06502 -13.4545,13.4545 0,7.3895 6.06499,13.4545 13.4545,13.4545 7.38951,0 13.4545,-6.06501 13.4545,-13.4545 0,-7.38949 -6.06499,-13.4545 -13.4545,-13.4545 z"/>
+<rect width="5.5" x="2.4000001" y="22.049999" rx="1.546875" height="5.5" style="opacity:.4"/>
+<rect width="5.5" x="40.900002" y="22.049999" rx="1.546875" height="5.5" style="opacity:.4"/>
+<rect width="5.5" x="2.8" y="-27.15" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(90)"/>
+<rect width="5.5" x="41.299999" y="-27.15" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(90)"/>
+<rect width="5.5" x="-21.717163" y="-37.539665" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(135)"/>
+<rect width="5.5" x="16.782835" y="-37.539665" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(135)"/>
+<rect width="5.5" x="12.789676" y="-2.4671714" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(45)"/>
+<rect width="5.5" x="51.289692" y="-2.4671714" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(45)"/>
 </g>
-<rect width="5.5" x="242.45796" y="113.2155" rx="1.546875" ry="1.546875" height="5.5" id="rect4095" transform="rotate(45)"/>
-<rect width="5.5" x="280.95798" y="113.2155" rx="1.546875" ry="1.546875" height="5.5" id="rect4097" transform="rotate(45)"/>
-</g>
+<g style="fill:#dcae00">
+<path style="line-height:normal" d="m 23.9882,10.5456 c -7.3895,0 -13.4545,6.06502 -13.4545,13.4545 0,7.3895 6.06499,13.4545 13.4545,13.4545 7.38951,0 13.4545,-6.06501 13.4545,-13.4545 0,-7.38949 -6.06499,-13.4545 -13.4545,-13.4545 z"/>
+<rect width="5.5" x="2" y="21.25" rx="1.546875" height="5.5"/>
+<rect width="5.5" x="40.5" y="21.25" rx="1.546875" height="5.5"/>
+<rect width="5.5" x="2" y="-26.75" rx="1.546875" height="5.5" transform="rotate(90)"/>
+<rect width="5.5" x="40.5" y="-26.75" rx="1.546875" height="5.5" transform="rotate(90)"/>
+<rect width="5.5" x="-22.000006" y="-36.691139" rx="1.546875" height="5.5" transform="rotate(135)"/>
+<rect width="5.5" x="16.499992" y="-36.691139" rx="1.546875" height="5.5" transform="rotate(135)"/>
+<rect width="5.5" x="11.941152" y="-2.750011" rx="1.546875" height="5.5" transform="rotate(45)"/>
+<rect width="5.5" x="50.441166" y="-2.750011" rx="1.546875" height="5.5" transform="rotate(45)"/>
 </g>
 </g>
 </svg>

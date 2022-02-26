@@ -2,20 +2,23 @@
 <defs>
 <linearGradient id="linearGradient3770">
 <stop offset="0" style="stop-color:#ffda7d"/>
-<stop offset="0.30000001" style="stop-color:#ffda7d"/>
-<stop offset="0.30000001" style="stop-color:#ffc941"/>
-<stop offset="0.60000002" style="stop-color:#ffc941"/>
-<stop offset="0.60000002" style="stop-color:#dc9e00"/>
+<stop offset="0.3" style="stop-color:#ffda7d"/>
+<stop offset="0.3" style="stop-color:#ffc941"/>
+<stop offset="0.6" style="stop-color:#ffc941"/>
+<stop offset="0.6" style="stop-color:#dc9e00"/>
 <stop offset="1" style="stop-color:#dc9e00"/>
 </linearGradient>
 <linearGradient id="linearGradient880">
 <stop offset="0" style="stop-color:#666"/>
 <stop offset="1"/>
 </linearGradient>
-<linearGradient xlink:href="#linearGradient880" id="linearGradient882" y1="44.0398" x1="38.8611" y2="44.0398" x2="45.297588" gradientUnits="userSpaceOnUse"/>
 <linearGradient gradientTransform="matrix(1.0621268,0,0,1.0621268,-0.24856716,-0.16342185)" xlink:href="#linearGradient3770" id="linearGradient3849" y1="23.72045" x1="34.265" y2="23.72045" gradientUnits="userSpaceOnUse" x2="45.4021"/>
+<linearGradient xlink:href="#linearGradient880" id="linearGradient882" y1="44.0398" x1="38.8611" y2="44.0398" x2="45.297588" gradientUnits="userSpaceOnUse"/>
 </defs>
-<path style="fill:#ecf0f1;stroke-width:1.024" d="m 0,5.4257 v 36.7438 h 38.8357 l .1643,-36.7458 -12.7288,.0019 z "/>
+<g style="stroke-width:1.024">
+<path style="opacity:.5" d="M 0.8,6.426 V 43.1698 H 39.6357 L 39.8,6.424 27.0712,6.4259 Z"/>
+<path style="fill:#ecf0f1" d="m 0,5.4257 v 36.7438 h 38.8357 l .1643,-36.7458 -12.7288,.0019 z "/>
+</g>
 <g style="fill-rule:evenodd">
 <g style="fill:#7f8c8d">
 <rect width="26.684752" x="6.0581465" y="16.578972" height="2.9221342"/>

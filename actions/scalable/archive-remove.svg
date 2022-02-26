@@ -1,7 +1,8 @@
-<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#edf1f1" id="rect4090" d="m 4.5719,5.628 0,36.7438 38.8357,0 .1643,-36.7458 z "/>
-<g style="fill:none;stroke:#ff3219;stroke-linecap:round;stroke-width:8.855;stroke-miterlimit:0" id="g4" transform="matrix(0.79761149,0,0,0.79761149,4.8573252,4.8573651)">
-<path id="path3341" d="M 34.5726,34.5726 13.4273,13.4273"/>
-<path id="path3803" d="M 13.4274,34.5726 34.5727,13.4273"/>
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.5" d="M 5.372,6.628 V 43.3718 H 44.2077 L 44.372,6.626 Z"/>
+<path style="fill:#edf1f1" d="m 4.5719,5.628 0,36.7438 38.8357,0 .1643,-36.7458 z "/>
+<g style="fill:none;stroke:#ff3219;stroke-linecap:round;stroke-width:8.855;stroke-miterlimit:0" transform="matrix(0.79761149,0,0,0.79761149,4.8573252,4.8573651)">
+<path d="M 34.5726,34.5726 13.4273,13.4273"/>
+<path d="M 13.4274,34.5726 34.5727,13.4273"/>
 </g>
 </svg>

@@ -1,4 +1,5 @@
-<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#edf1f1" id="rect4090" d="m 4.5719,5.628 0,36.7438 38.8357,0 .1643,-36.7458 z "/>
-<path style="fill:#429cd6;fill-rule:evenodd;stroke:none" id="rect3232" d="m 21,12 0,9 -9,0 0,6 9,0 0,9 6,0 0,-9 9,0 0,-6 -9,0 0,-9 -6,0 z "/>
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.5;fill:#0b0b0b" d="M 5.372,6.628 V 43.3718 H 44.2077 L 44.372,6.626 Z"/>
+<path style="fill:#edf1f1" d="m 4.5719,5.628 0,36.7438 38.8357,0 .1643,-36.7458 z "/>
+<path style="fill:#429cd6;fill-rule:evenodd" d="m 21,12 0,9 -9,0 0,6 9,0 0,9 6,0 0,-9 9,0 0,-6 -9,0 0,-9 -6,0 z "/>
 </svg>

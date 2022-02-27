@@ -1,3 +1,4 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<path style="fill:#429cd6;color-interpolation-filters:linearRGB" id="path829" d="M 3,2 8,8 3,14 H 6 L 11,8 6,2 Z m 8,0 v 12 h 2 V 2 Z"/>
+<path style="opacity:.88" d="m 14.134766,1 v 14 h -4 V 10.761719 L 6.603516,15 H 1 L 6.8339847,8 1,1 h 2.134766 3.46875 l 3.53125,4.2382812 V 1 h 1 z"/>
+<path style="fill:#fff;opacity:.88" d="m 3.134766,2 5,6 -5,6 h 3 l 5,-6 -5,-6 z m 8,0 v 12 h 2 V 2 Z"/>
 </svg>

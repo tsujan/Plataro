@@ -1,8 +1,4 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<g style="opacity:.6;fill:#fff" id="g4137" transform="translate(1,1)">
-<path style="fill-rule:evenodd;stroke:none" id="rect4139" d="m 34.7078,11.6314 1.7927,1.953 0,21.3314 c 0,0.877759 -0.65964,1.5882 -1.47899,1.5844 h -21.5425 l -1.9531,-1.8644 z "/>
-</g>
-<g id="layer1">
-<rect width="24" x="12" y="12" rx="1.478994" height="24" ry="1.5844016" style="fill:#919191;fill-rule:evenodd;stroke:none" id="rect7340"/>
-</g>
+<path style="fill:#d6dfe2" d="M 47,24 A 23,23 0 0 1 24,47 23,23 0 0 1 1,24 23,23 0 0 1 24,1 23,23 0 0 1 47,24 Z"/>
+<path style="fill:#4d575a" d="M 13.478994,12 H 34.521006 C 35.340369,12 36,12.706643 36,13.584402 V 34.415598 C 36,35.293357 35.340369,36 34.521006,36 H 13.478994 C 12.659631,36 12,35.293357 12,34.415598 V 13.584402 C 12,12.706643 12.659631,12 13.478994,12 Z"/>
 </svg>

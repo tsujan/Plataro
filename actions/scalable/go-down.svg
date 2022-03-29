@@ -1,4 +1,4 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<path style="opacity:.88" d="m 1,1.8652 v 2.13477 3.46875 l 7,5.832 7,-5.832 v -5.60352 l -7,5.834 Z "/>
-<path style="fill:#fff;opacity:.88" d="M 2,4 8,9 14,4 V 7 L 8,12 2,7 Z"/>
+<path style="fill:#4d575a" d="m 1,1.8652 v 2.13477 3.46875 l 7,5.832 7,-5.832 v -5.60352 l -7,5.834 Z "/>
+<path style="fill:#d6dfe2" d="M 2,4 8,9 14,4 V 7 L 8,12 2,7 Z"/>
 </svg>

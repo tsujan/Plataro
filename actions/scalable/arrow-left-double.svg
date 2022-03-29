@@ -1,6 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<path style="opacity:.88" d="m 16.0002,1 h -10.1684 l -5.832,7 5.832,7 h 10.1684 l -5.834,-7 Z "/>
-<g style="fill:#fff;opacity:.88">
+<path style="fill:#4d575a" d="m 16.0002,1 h -10.1684 l -5.832,7 5.832,7 h 10.1684 l -5.834,-7 Z "/>
+<g style="fill:#d6dfe2">
 <path d="m 13.8654,2 -5,6 5,6 h -3 l -5,-6 5,-6 z "/>
 <path d="m 9.3006,2 -5,6 5,6 h -3 l -5,-6 5,-6 Z "/>
 </g>

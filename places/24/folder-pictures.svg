@@ -1,1 +1,10 @@
-../../mimetypes/24/image-x-generic.svg
+<svg width="24" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24">
+<defs id="defs3051">
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text {
+color:#4d4d4d;
+}
+</style>
+</defs>
+<path style="fill:currentColor" d="M 3,3 V 21 H 21 V 5 h -8.99219 l -2,-2 -0.0078,0.0078 V 2.99999 Z m 6.0078,5 h 10.99219 v 12 h -16 V 10 h 3 V 9.99219 l 0.0078,0.0078 z M 10,11 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 4,2 -3.5,5 L 8,15 5,19 h 13 z" class="ColorScheme-Text"/>
+</svg>

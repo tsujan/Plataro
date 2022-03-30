@@ -6,5 +6,5 @@ color:#4d4d4d;
 }
 </style>
 </defs>
-<path style="fill:currentColor" d="m 3,3 v 1 15 h 1 15 v -1 -13 h -6.99219 l -2,-2 -.0078,.0078 v -0.0078125 h -6 -1 z  m 6.0078,5 h 8.99219 v 10 h -14 v -8 h 3 v -0.0078125 l .0078,.0078 2,-2 z  m -.0078,1 v 8 h 5.71484 v -0.005859 l .0039,.0059 2.2812,-1.9961 v -0.003906 -6 h -8 z  m 1,1 h 6 v 3 h -3 v 3 h -3 v -6 z " class="ColorScheme-Text"/>
+<path style="fill:currentColor" d="M 3,3 V 19 H 19 V 5 h -6.99219 l -2,-2 -0.0078,0.0078 v -0.00781 z m 6.0078,4 h 8.99219 v 11 h -14 V 9 h 3 v -0.00781 l 0.0078,0.0078 z M 9,9 v 8 h 5.71484 v -0.0059 l 0.0039,0.0059 2.2812,-1.9961 v -0.0039 -6 h -8 z m 1,1 h 6 v 3 h -3 v 3 h -3 z" class="ColorScheme-Text"/>
 </svg>

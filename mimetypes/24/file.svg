@@ -1,4 +1,4 @@
-<svg width="24" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24">
+<svg width="24" version="1.1" xmlns="http://www.w3.org/2000/svg" height="24">
 <defs id="defs3051">
 <style type="text/css" id="current-color-scheme">
 .ColorScheme-Text {
@@ -6,5 +6,5 @@ color:#4d4d4d;
 }
 </style>
 </defs>
-<path style="fill:currentColor" d="M 4,2 V 22 H 20 V 2 Z M 19,3 V 21 H 5 V 3 Z" class="ColorScheme-Text"/>
+<path style="fill:currentColor" d="m 3,3 v 18 h 18 v -18 h -18 z  m 1,1 h 16 v 16 h -16 v -16 z " class="ColorScheme-Text"/>
 </svg>

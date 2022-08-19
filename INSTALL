@@ -1,16 +1,24 @@
 Installation
 ============
 
+**************
+***  LXQt  ***
+**************
+ 1. Put the extracted folder in '~/.local/share/icons/'.
+
+ 2. Update the icon cache with the following command in terminal (Qt uses GTK icon cache and you need `gtk-update-icon-cache`):
+
+     gtk-update-icon-cache ~/.local/share/icons/Plataro
+
+ 3. select it from Configuration Center → Appearance → Icons Theme.
+
+Also, make sure that this box is checked: Appearance → Icons Theme → Colorize icons based on widget style (palette)
+
+If you update the set, don't forget to recreate the icon cache by using the above-mentioned command.
+
 *************
 ***  KDE  ***
 *************
 Put the extracted folder in '~/.local/share/icons/' (create the last folder "icons" if it doesn't exist; here '~' is your home). Then, select Plataro in System Settings → Icons and click Apply.
 
 If you update the set, don't forget to recreate the icon cache by choosing another icon set in System Settings → Icons, selecting Plataro again and clicking Apply.
-
-**************
-***  LXQt  ***
-**************
-Put the extracted folder in '~/.local/share/icons/' and select it from Configuration Center → Appearance → Icons Theme.
-
-Also, make sure that this box is checked: Appearance → Icons Theme → Colorize icons based on widget style (palette)

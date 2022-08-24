@@ -1,0 +1,17 @@
+<svg width="96" version="1.0" xmlns="http://www.w3.org/2000/svg" height="96" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs2410">
+<linearGradient id="linearGradient3678">
+<stop offset="0" style="stop-color:#888" id="stop3680"/>
+<stop offset="1" style="stop-color:#acacac" id="stop3682"/>
+</linearGradient>
+<linearGradient id="linearGradient3684" xlink:href="#linearGradient3678" y1="24" x1="48" y2="80" x2="48" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:#c8c8c8;color:#000" id="rect2419" d="m 12,6 h 72 c 3.324,0 6,2.676 6,6 v 72 c 0,3.324 -2.676,6 -6,6 H 12 C 8.676,90 6,87.324 6,84 V 12 C 6,8.676 8.676,6 12,6 Z"/>
+<path style="opacity:.99;fill:url(#linearGradient3684);stroke-width:1.5" id="rect3674" d="M 11,23 H 85 V 83 H 11 Z"/>
+<g style="color:#000">
+<path style="fill:#566069" id="path3763" d="M 12,6 H 50 V 90 H 12 C 8.676,90 6,87.324 6,84 V 12 C 6,8.676 8.676,6 12,6 Z"/>
+<rect width="72" x="12" y="24" height="58" style="opacity:.99;fill:#fff" id="rect3676"/>
+</g>
+<circle cx="19.5" cy="14.5" style="fill:#fff" id="path2069" r="4.5"/>
+<circle cx="77.5" cy="14.5" id="circle2279" r="4.5"/>
+</svg>

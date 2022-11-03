@@ -1,18 +1,23 @@
 <svg width="48" version="1.0" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
+<linearGradient id="linearGradient885">
+<stop offset="0" style="stop-color:#fff"/>
+<stop offset="1" style="stop-color:#e5e5e5"/>
+</linearGradient>
 <linearGradient id="linearGradient922">
 <stop offset="0" style="stop-color:#6c2c76"/>
 <stop offset="1" style="stop-color:#ac46bc"/>
 </linearGradient>
+<linearGradient xlink:href="#linearGradient885" id="linearGradient887" y1="26.574799" x1="15.1741" y2="10.066" x2="15.1741" gradientUnits="userSpaceOnUse"/>
 <linearGradient xlink:href="#linearGradient922" id="linearGradient924" y1="44.936958" x1="25.310062" y2="2.5093" x2="24.632799" gradientUnits="userSpaceOnUse"/>
 </defs>
 <g style="color:#000">
-<path style="opacity:.08" d="m 24.6623,2.5097 a 22.5,22.5 0 0,0 -23.1623,22.4893 v 0.0561 a 22.5,22.5 0 1,0 23.1623,-22.5454 Z "/>
-<path style="opacity:.14" d="m 24.6549,2.5096 a 22.25,22.25 0 0,0 -22.9049,22.2394 v 0.05548 a 22.25,22.25 0 1,0 22.9049,-22.2949 Z "/>
-<path style="opacity:.2" d="m 24.6475,2.5095 a 22,22 0 0,0 -22.6475,21.9895 v 0.05485 a 22,22 0 1,0 22.6475,-22.0443 Z "/>
-<path style="opacity:.3" d="m 24.6402,2.5094 a 21.75,21.75 0 0,0 -22.3902,21.7396 v 0.05423 a 21.75,21.75 0 1,0 22.3902,-21.7938 Z "/>
+<path style="opacity:.08" d="M 24.6623,2.5097 A 22.5,22.5 0 0 0 1.5,25 v 0.0561 A 22.5,22.5 0 1 0 24.6623,2.5097 Z"/>
+<path style="opacity:.14" d="M 24.6549,2.5096 A 22.25,22.25 0 0 0 1.75,24.749 v 0.05548 A 22.25,22.25 0 1 0 24.6549,2.50958 Z"/>
+<path style="opacity:.2" d="M 24.6475,2.5095 A 22,22 0 0 0 2,24.499 v 0.05485 A 22,22 0 1 0 24.6475,2.50955 Z"/>
+<path style="opacity:.3" d="M 24.6402,2.5094 A 21.75,21.75 0 0 0 2.25,24.249 v 0.05423 A 21.75,21.75 0 1 0 24.6402,2.50943 Z"/>
 <path style="fill:url(#linearGradient924)" d="M 24.6328,2.5093 A 21.5,21.5 0 0 0 2.5,24 v 0.0536 A 21.5,21.5 0 1 0 24.6328,2.5093 Z"/>
-<path style="fill:#5d2666" d="M 15.2009,9.0656 40.6295,23.7493 40.63,24.749 15.201,10.066 15.2011,9.0656 H 15.201 Z"/>
-<path style="fill:#fff" d="M 15.2009,10.066 40.63,24.749 15.1741,38.6559 15.2011,10.066 Z"/>
+<path style="fill:#5d2666" d="M 15.2009,9.0656 41.5161,24.2672 40.63,24.749 15.201,10.066 v -1 0 z"/>
+<path style="fill:url(#linearGradient887)" d="M 15.2009,10.066 40.63,24.749 15.1741,38.6559 15.2011,10.066 Z"/>
 </g>
 </svg>

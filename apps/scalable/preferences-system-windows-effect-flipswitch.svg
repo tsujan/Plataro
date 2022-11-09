@@ -1,32 +1,32 @@
 <svg width="96" version="1.0" xmlns="http://www.w3.org/2000/svg" height="96" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<linearGradient id="linearGradient1016">
-<stop offset="0"/>
-<stop offset="1" style="stop-opacity:.5"/>
-</linearGradient>
-<linearGradient xlink:href="#linearGradient1016" id="linearGradient1034" y1="54" x1="12.497" y2="19.8" x2="12.497" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient1016" id="linearGradient1074" y1="75" x1="26" y2="40.4" x2="26" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient1016" id="linearGradient1042" y1="54" x1="11.997" y2="19.4" x2="11.997" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient1016" id="linearGradient1058" y1="75" x1="27" y2="41.2" x2="27" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient1016" id="linearGradient1066" y1="75" x1="26.5" y2="40.8" x2="26.5" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient1016" id="linearGradient1050" y1="75" x1="27.5" y2="41.6" x2="27.5" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient1016" id="linearGradient1026" y1="54" x1="12.997" y2="20.2" x2="12.997" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient1016" id="linearGradient1018" y1="54" x1="13.4968" y2="20.6" x2="13.4968" gradientUnits="userSpaceOnUse"/>
 <linearGradient id="linearGradient3678">
 <stop offset="0" style="stop-color:#888"/>
 <stop offset="1" style="stop-color:#acacac"/>
 </linearGradient>
+<linearGradient id="linearGradient1016">
+<stop offset="0"/>
+<stop offset="1" style="stop-opacity:.5"/>
+</linearGradient>
+<linearGradient xlink:href="#linearGradient1016" id="linearGradient1026" y1="54" x1="12.997" y2="20.2" x2="12.997" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="translate(6,18)" id="linearGradient3684" xlink:href="#linearGradient3678" y1="37" x1="27" y2="71" x2="27" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient1016" id="linearGradient1018" y1="54" x1="13.4968" y2="20.6" x2="13.4968" gradientUnits="userSpaceOnUse"/>
 <linearGradient gradientTransform="translate(-20,-16)" xlink:href="#linearGradient3678" id="linearGradient446" y1="29" x1="25" y2="63" gradientUnits="userSpaceOnUse" x2="25"/>
 <linearGradient gradientTransform="translate(-7,-1)" xlink:href="#linearGradient3678" id="linearGradient462" y1="35" x1="26" y2="69" gradientUnits="userSpaceOnUse" x2="26"/>
-<linearGradient gradientTransform="translate(6,18)" id="linearGradient3684" xlink:href="#linearGradient3678" y1="37" x1="27" y2="71" x2="27" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient1016" id="linearGradient1050" y1="75" x1="27.5" y2="41.6" x2="27.5" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient1016" id="linearGradient1066" y1="75" x1="26.5" y2="40.8" x2="26.5" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient1016" id="linearGradient1034" y1="54" x1="12.497" y2="19.8" x2="12.497" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient1016" id="linearGradient1042" y1="54" x1="11.997" y2="19.4" x2="11.997" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient1016" id="linearGradient1058" y1="75" x1="27" y2="41.2" x2="27" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient1016" id="linearGradient1074" y1="75" x1="26" y2="40.4" x2="26" gradientUnits="userSpaceOnUse"/>
 </defs>
 <g style="color:#000">
 <path style="fill:#c8c8c8" d="m 6,0 h 56 c 3.324,0 6,2.676 6,6 v 42 c 0,3.324 -2.676,6 -6,6 H 6 C 2.676,54 0,51.324 0,48 V 6 C 0,2.676 2.676,0 6,0 Z"/>
 <path style="fill:url(#linearGradient446)" d="M 5,13 H 63 V 47 H 5 Z"/>
 <path style="fill:#fff" d="M 6,14 H 62 V 46 H 6 Z"/>
-<path style="opacity:.1;fill:url(#linearGradient1042)" d="m 19.997,19.4 c -4.48813,0 -8,3.27412 -8,8 V 54 h 50 c 3.324,0 6,-2.676 6,-6 V 19.4 Z"/>
-<path style="opacity:.1;fill:url(#linearGradient1034)" d="m 20.497,19.8 c -4.62155,0 -8,2.85713 -8,8 V 54 h 49.5 c 3.324,0 6,-2.676 6,-6 V 19.8 Z"/>
-<path style="opacity:.2;fill:url(#linearGradient1026)" d="m 20.997,20.2 c -5.0256,0 -8,2.68819 -8,8 V 54 h 49 c 3.324,0 6,-2.676 6,-6 V 20.2 Z"/>
+<path style="opacity:.1;fill:url(#linearGradient1042)" d="m 19.997,20.3 c -4.48813,0 -8,3.27412 -8,8 V 54 h 50 c 3.324,0 6,-2.676 6,-6 V 20.3 Z"/>
+<path style="opacity:.1;fill:url(#linearGradient1034)" d="m 20.497,20.4 c -4.62155,0 -8,2.85713 -8,8 V 54 h 49.5 c 3.324,0 6,-2.676 6,-6 V 20.4 Z"/>
+<path style="opacity:.2;fill:url(#linearGradient1026)" d="m 20.997,20.5 c -5.0256,0 -8,2.68819 -8,8 V 54 h 49 c 3.324,0 6,-2.676 6,-6 V 20.5 Z"/>
 </g>
 <circle cx="55.5" cy="6.5" style="fill:#b25959" r="4.5"/>
 <circle cx="41.5" cy="6.5" style="fill:#4d994d" r="4.5"/>
@@ -41,9 +41,9 @@
 <ellipse cx="55.5" cy="27.5" rx="4.5" ry="4.5" style="fill:#4d994d"/>
 <ellipse cx="41.5" cy="27.5" rx="4.5" ry="4.5" style="fill:#a67f32"/>
 <g style="color:#000">
-<path style="opacity:.1;fill:url(#linearGradient1074)" d="m 34,40.4 c -4.48813,0 -8,3.27412 -8,8 V 75 h 50 c 3.324,0 6,-2.676 6,-6 V 40.4 Z"/>
-<path style="opacity:.1;fill:url(#linearGradient1066)" d="m 34.5,40.8 c -4.62155,0 -8,2.85713 -8,8 V 75 H 76 c 3.324,0 6,-2.676 6,-6 V 40.8 Z"/>
-<path style="opacity:.2;fill:url(#linearGradient1058)" d="m 35,41.2 c -5.0256,0 -8,2.68819 -8,8 V 75 h 49 c 3.324,0 6,-2.676 6,-6 V 41.2 Z"/>
+<path style="opacity:.1;fill:url(#linearGradient1074)" d="m 34,41.3 c -4.48813,0 -8,3.27412 -8,8 V 75 h 50 c 3.324,0 6,-2.676 6,-6 V 41.3 Z"/>
+<path style="opacity:.1;fill:url(#linearGradient1066)" d="m 34.5,41.4 c -4.62155,0 -8,2.85713 -8,8 V 75 H 76 c 3.324,0 6,-2.676 6,-6 V 41.4 Z"/>
+<path style="opacity:.2;fill:url(#linearGradient1058)" d="m 35,41.5 c -5.0256,0 -8,2.68819 -8,8 V 75 h 49 c 3.324,0 6,-2.676 6,-6 V 41.5 Z"/>
 <path style="opacity:.25;fill:url(#linearGradient1050)" d="m 34.6,41.6 c -4.35773,0 -7.03318,2.77039 -7.1,7.1 V 75 H 76 c 3.324,0 6,-2.676 6,-6 V 41.6 Z"/>
 <path style="fill:#c8c8c8" d="m 34,42 h 56 c 3.324,0 6,2.676 6,6 v 42 c 0,3.324 -2.676,6 -6,6 H 34 c -3.324,0 -6,-2.676 -6,-6 V 48 c 0,-3.324 2.676,-6 6,-6 z"/>
 <path style="fill:url(#linearGradient3684)" d="M 33,55 H 91 V 89 H 33 Z"/>

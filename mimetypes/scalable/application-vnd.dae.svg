@@ -1,0 +1,7 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="opacity:.2" d="M 4,4 V 46 H 46 V 4 Z"/>
+<path style="fill:#ecf0f1;stroke-width:1.027" d="m 3,3 v 42 h 42 v -42 Z "/>
+<path style="fill:#4ba69e;stroke-width:.813" d="m 12.5,22 v 11.8868 l 10,6.1132 v -12 Z "/>
+<path style="fill:#73bfb8;stroke-width:.824" d="m 23.875,13.5 10.125,6 -10,6 -10,-6 z"/>
+<path style="fill:#39807a;stroke-width:.813" d="m 35.5,22 v 11.8868 l -10,6.1132 v -12 Z "/>
+</svg>

@@ -1,6 +1,6 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
 <path style="opacity:.2" d="M 4,4 V 46 H 46 V 4 Z"/>
-<path style="fill:#ecf0f1;stroke-width:1.027" d="m 3,3 v 42 h 42 v -42 Z "/>
+<path style="fill:#ecf0f1" d="m 3,3 v 42 h 42 v -42 Z "/>
 <path style="fill:#5686bf" d="m 11,19.25 v 14.5 l 13,7.25 v -14.5 Z "/>
 <path style="fill:#8ab3e5" d="m 24,12 13,7.25 -13,7.25 -13,-7.25 Z "/>
 <path style="fill:#3f618c" d="m 37,19.25 v 14.5 l -13,7.25 v -14.5 Z "/>

@@ -1,6 +1,4 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
 <path style="opacity:.2" d="M 4,4 V 46 H 46 V 4 Z"/>
-<g id="layer1" transform="matrix(1.2352941,0,0,1.05,-5.6470589,-1.2)">
-<path style="fill:#ecf0f1" id="rect4090" d="m 0,0 v 40 h 34 l -.0719,-39.9302 Z " transform="translate(7,4)"/>
-</g>
+<path style="fill:#ecf0f1" d="m 3,3 v 42 h 42 l -.0888,-41.9267 Z "/>
 </svg>

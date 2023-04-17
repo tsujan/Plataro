@@ -1,23 +1,19 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<defs id="defs4">
-<clipPath id="clipPath4200">
-<rect width="37.780914" x="134.06201" y="60.829136" height="37.780914" style="fill:#fff;stroke:none" id="rect4202"/>
+<defs>
+<clipPath>
+<rect width="37.780914" x="154.06203" y="60.829136" height="37.780914" style="fill:#fff"/>
 </clipPath>
-<clipPath id="clipPath4196">
-<rect width="37.780914" x="154.06203" y="60.829136" height="37.780914" style="fill:#fff;stroke:none" id="rect4198"/>
+<clipPath id="clipPath357" clipPathUnits="userSpaceOnUse">
+<g>
+<rect width="20.638371" x="13.763506" y="19.350159" height="17.66754" style="fill:#fff"/>
+</g>
 </clipPath>
 </defs>
-<g id="layer1" transform="matrix(1.2352941,0,0,1.05,-5.6470589,-1.2)">
-<path style="fill:#d40000" id="rect4090" d="M 0,0 0,40 34,40 33.79661,0.01694915 23,0 z" transform="translate(7,4)"/>
-</g>
-<g id="layer3" transform="matrix(0.32247528,0,0,0.27605595,8.6038591,14.933223)">
-<rect width="63.999855" x="16.00013" y="16.000145" rx="2.118166" height="63.999855" ry="2.118166" style="fill:#f6d49f;stroke:none" id="rect2411"/>
-<g style="clip-path:url(#clipPath4200)" id="g3938" transform="matrix(1.6939731,0,0,1.6939731,-211.09731,-87.042774)">
-<path style="fill:#340000;stroke:none" id="path171" d="m 171.9803,71.8124 -19.3937,12.7755 -18.7565,-12.7755 -.089,2.2127 18.8094,10.6543 19.6704,-10.5954 z "/>
-</g>
-</g>
-<g style="color:#000;stroke:none;stroke-width:1.191">
-<rect width="23.06419" x="12.422605" y="11.338688" height="2.1491115" style="fill:#f6d49f" id="rect3001"/>
-<rect width="23.06419" x="12.422605" y="-11.338688" height="0.3160457" style="fill:#fff" id="rect3003" transform="scale(1,-1)"/>
+<path style="fill:#d40000" d="m 3,3 v 42 h 42 l 0,-42 Z "/>
+<rect width="20.638371" x="13.763505" y="19.350159" rx="0.68305618" height="17.667542" ry="0.58473229" style="fill:#ffdca5"/>
+<path style="fill:#340000;clip-path:url(#clipPath357)" d="m 34.4769,24.4863 -10.5941,5.9742 -10.246,-5.9742 -.0486,1.0347 10.2749,4.9823 10.7452,-4.9547 Z "/>
+<g style="color:#000">
+<path style="fill:#fff" d="m 12.4226,11.839 h 23.0642 v -0.816358 h -23.0642 Z "/>
+<path style="fill:#ffdca5" d="m 12.4226,11.3387 h 23.0642 v 2.14911 h -23.0642 Z "/>
 </g>
 </svg>

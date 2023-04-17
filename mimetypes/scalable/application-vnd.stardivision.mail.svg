@@ -1,19 +1,9 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<defs>
-<clipPath>
-<rect width="37.780914" x="154.06203" y="60.829136" height="37.780914" style="fill:#fff"/>
-</clipPath>
-<clipPath id="clipPath357" clipPathUnits="userSpaceOnUse">
-<g>
-<rect width="20.638371" x="13.763506" y="19.350159" height="17.66754" style="fill:#fff"/>
-</g>
-</clipPath>
-</defs>
-<path style="fill:#d40000" d="m 3,3 v 42 h 42 l 0,-42 Z "/>
-<rect width="20.638371" x="13.763505" y="19.350159" rx="0.68305618" height="17.667542" ry="0.58473229" style="fill:#ffdca5"/>
-<path style="fill:#340000;clip-path:url(#clipPath357)" d="m 34.4769,24.4863 -10.5941,5.9742 -10.246,-5.9742 -.0486,1.0347 10.2749,4.9823 10.7452,-4.9547 Z "/>
+<path style="fill:#d40000" d="m 3,3 v 42 h 42 v -42 Z "/>
+<rect width="20.638371" x="13.680753" y="19.350159" rx="0.8" height="17.667542" style="fill:#ffdca5"/>
+<path style="fill:#340000" d="m 34.3192,24.5 -10.402,5.9 -10.2365,-5.9 v 1.5 l 10.2365,4.5 10.4019,-4.5 Z "/>
 <g style="color:#000">
-<path style="fill:#fff" d="m 12.4226,11.839 h 23.0642 v -0.816358 h -23.0642 Z "/>
-<path style="fill:#ffdca5" d="m 12.4226,11.3387 h 23.0642 v 2.14911 h -23.0642 Z "/>
+<path style="fill:#fff" d="M 12.4679,11.839 H 35.5321 V 11.022642 H 12.4679 Z"/>
+<path style="fill:#ffdca5" d="m 12.4679,11.3387 h 23.0642 v 2.14911 H 12.4679 Z"/>
 </g>
 </svg>

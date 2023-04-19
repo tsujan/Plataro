@@ -1,10 +1,6 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<g style="fill-rule:evenodd">
-<rect width="10" x="18.981947" y="24.206728" height="10" style="fill:#fff;stroke:none;stroke-linejoin:bevel;stroke-linecap:round;stroke-width:2" id="rect4148"/>
-<g style="stroke-linecap:square;stroke-miterlimit:2;stroke-width:0;stroke:#003bc3">
-<path style="fill:#3498db" id="shape02" d="m 1,42.0925 25.1252,-16.2314 -1.8042,-19.9536 Z "/>
-<path style="fill:#e74c3c" id="shape01" d="m 24.321,5.9075 2.4161,27.4597 20.2629,8.7253 Z "/>
-<path style="fill:#88c941" id="shape0" d="m 47,42.0925 -27.47,-11.9848 -18.53,11.9848 Z "/>
-</g>
-</g>
+<rect width="10" x="18.981947" y="24.206728" height="10" style="fill:#fff"/>
+<path style="fill:#3498db" d="m 1,42.0925 25.1252,-16.2314 -1.8042,-19.9536 Z "/>
+<path style="fill:#e74c3c" d="m 24.321,5.9075 2.4161,27.4597 20.2629,8.7253 Z "/>
+<path style="fill:#88c941" d="m 47,42.0925 -27.47,-11.9848 -18.53,11.9848 Z "/>
 </svg>

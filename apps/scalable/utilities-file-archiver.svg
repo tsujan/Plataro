@@ -1,5 +1,8 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
 <g style="fill-rule:evenodd">
+<path style="opacity:.1" d="m 4.8,3 h 38.6 c 1.108,0 2.1,0.892 2.1,2 v 38.6 c 0,1.108 -0.992,2.3 -2.1,2.3 H 4.8 C 3.692,45.9 2.5,44.708 2.5,43.6 V 5 C 2.5,3.892 3.692,3 4.8,3 Z"/>
+<path style="opacity:.2" d="m 4.8,3 h 38.4 c 1.108,0 2.1,0.892 2.1,2 v 38.4 c 0,1.108 -0.992,2.1 -2.1,2.1 H 4.8 C 3.692,45.5 2.7,44.508 2.7,43.4 V 5 C 2.7,3.892 3.692,3 4.8,3 Z"/>
+<path style="opacity:.35" d="m 4.9,3 h 38.2 c 1.108,0 2,0.892 2,2 v 38.2 c 0,1.108 -0.892,2 -2,2 H 4.9 c -1.108,0 -2,-0.892 -2,-2 V 5 c 0,-1.108 0.892,-2 2,-2 z"/>
 <path style="fill:#c19761" d="m 5,3 h 38 c 1.108,0 2,0.892 2,2 v 38 c 0,1.108 -0.892,2 -2,2 H 5 C 3.892,45 3,44.108 3,43 V 5 C 3,3.892 3.892,3 5,3 Z"/>
 <path style="opacity:.5" d="m 20,2.9922 h 8 v 19.6657 h -8 z"/>
 <g style="fill:#ecf0f1">
@@ -17,11 +20,11 @@
 <path d="M 23.2,19.0269 H 28 v 1.45577 h -4.8 z"/>
 <path d="m 20,20.4867 h 4.8 v 1.45577 H 20 Z"/>
 </g>
-<path style="opacity:.05" d="M 18,36.5 H 30 L 29.5,21.75 h -11 z"/>
-<path style="opacity:.07" d="m 18.25,36 h 11.5 l -.4,-14.2 h -10.7 z "/>
+<path style="opacity:.05" d="M 18,36.3 H 30 L 29.45,21.8 h -10.9 z"/>
+<path style="opacity:.07" d="m 18.25,35.9 h 11.5 L 29.3,21.825 H 18.7 Z"/>
 <path style="opacity:.15" d="m 18.5,35.5 h 11 L 29.2,21.85 H 18.8 Z"/>
 <path style="opacity:.25" d="M 18.8,35.2 H 29.2 L 29.1,21.9 H 18.9 Z"/>
 <path style="opacity:.15" d="m 20,33.5 h 8 v -4 h -8 z"/>
-<path style="fill:#ecf0f1" d="m 19,22 v 13 h 10 v -13 h -10 z  m 2,8 h 6 v 3 h -6 v -3 z "/>
+<path style="fill:#ecf0f1" d="M 19,22 V 35 H 29 V 22 Z m 2,8 h 6 v 3 h -6 z"/>
 </g>
 </svg>

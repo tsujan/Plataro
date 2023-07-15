@@ -7,9 +7,7 @@
 </g>
 <path style="opacity:.5;fill:#3a240f" d="m 26.9785,3.2781 -5.8984,0 .0293,12.3137 .0655,14.8088 2.7675,-.2532 2.9412,-.2688 .0159,-2.8408 .0496,-11.446 .0293,-12.3137 z "/>
 <path style="fill:#d8cab2" d="m 26.9492,3.216 -2.9492,-.216 l -2.9492,.216 .0293,12.5563 .0655,14.1417 2.7675,-.2418 2.9412,-.2567 .0159,-2.7128 .0496,-10.9304 .0293,-12.5563 z "/>
-<g style="stroke-width:1.087">
-<rect width="0.48664677" x="23.513353" y="3.2092094" height="20.545557" style="opacity:.2;fill:#8d6137"/>
-<rect width="0.48664677" x="24" y="3.2092094" height="20.545557" style="opacity:.2;fill:#fff"/>
-</g>
-<path style="opacity:.1;fill:#8d6137;stroke-linecap:round;stroke-width:.1" d="m 21.1116,20.5478 5.787,-.109 -.0054,1.1912 -5.786,-.0013 z "/>
+<path style="opacity:.2;fill:#8d6137" d="M 23.513353,3.2092094 H 24 V 20.5 h -0.486647 z"/>
+<path style="opacity:.2;fill:#fff" d="m 24,3.2092094 h 0.486647 V 20.5 H 24 Z"/>
+<path style="opacity:.2;fill:#8d6137;stroke-linecap:round;stroke-width:.122" d="m 21.1023,20.5552 5.791,-.128 0,1.1915 -5.786,.0108 z "/>
 </svg>

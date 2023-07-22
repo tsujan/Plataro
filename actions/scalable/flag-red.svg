@@ -1,0 +1,14 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="48" xmlns:xlink="http://www.w3.org/1999/xlink" style="overflow:visible;enable-background:new 0 0 128 128">
+<defs id="defs12">
+<linearGradient id="linearGradient4497">
+<stop offset="0" style="stop-color:#e35d5d" id="stop4493"/>
+<stop offset="1" style="stop-color:#641212" id="stop4495"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,1.0247655,-0.2252413,-0.59437315)" xlink:href="#linearGradient4497" id="linearGradient4499" y1="24" x1="3.0265304" y2="24" x2="8.0271214" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g style="stroke-width:2.847">
+<path style="fill:#881818" id="path4491" d="m 5.9495,9.5941 c 13.8203,4.515 23.9126,9.26782 37.9233,7.24822 -13.8647,11.4869 -30.9496,8.35961 -38.0996,8.84189 Z "/>
+<path style="fill:#e63737" id="rect4101" d="m 5.9495,3.2254 c 13.8203,4.515 24.7385,5.92139 38.7492,3.9018 -13.8647,11.4869 -31.7269,17.7604 -38.9255,18.8754 Z "/>
+</g>
+<path style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4499);stroke-linecap:round;stroke-width:4" id="path4136" d="m 5.3016,3.0288 v 41.9423"/>
+</svg>

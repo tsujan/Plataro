@@ -36,8 +36,8 @@
 </defs>
 <g id="g36">
 <g style="stroke-linecap:round" id="g33">
-<rect width="38" x="5.5" y="1.5" rx="2.432" height="46" style="opacity:.2" id="rect881"/>
-<rect width="37.5" x="5.5" y="1.5" rx="2.4" height="45.5" style="opacity:.2" id="rect879"/>
+<rect width="38" x="5.5" y="1.5" rx="2.432" height="46" style="opacity:.1" id="rect881"/>
+<rect width="37.5" x="5.5" y="1.5" rx="2.4" height="45.5" style="opacity:.15" id="rect879"/>
 <rect width="37" x="5.5" y="1.5" rx="2.368" height="45" ry="2.3736265" style="opacity:.2" id="rect961"/>
 <rect width="36" x="6" y="2" rx="1.8" height="44" style="fill:url(#linearGradient943)" id="rect2778"/>
 <rect width="5" x="33" y="31" rx="0.6" height="12" style="fill:url(#linearGradient963)" id="rect3169"/>

@@ -1,13 +1,21 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs id="defs8">
-<linearGradient id="linearGradient3779">
-<stop offset="0" style="stop-color:#b2b9be" id="stop3781"/>
-<stop offset="1" style="stop-color:#bdc3c7;stop-opacity:.51" id="stop3783"/>
+<defs>
+<linearGradient id="linearGradient3671">
+<stop offset="0" style="stop-opacity:0"/>
+<stop offset="0.5" style="stop-opacity:.232"/>
+<stop offset="1" style="stop-opacity:0"/>
 </linearGradient>
+<linearGradient id="linearGradient3779">
+<stop offset="0" style="stop-color:#acb4b9"/>
+<stop offset="1" style="stop-color:#bdc3c7;stop-opacity:.51"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.89757416,0,0,1.0455696,6.516135,-3.619208)" xlink:href="#linearGradient3671" id="linearGradient3879" y1="41.989594" x1="37.830212" y2="25.025982" gradientUnits="userSpaceOnUse" x2="18.771614"/>
 <linearGradient gradientTransform="matrix(1.2386449,0,0,1.0107666,-5.6395479,1.0040988)" xlink:href="#linearGradient3779" id="linearGradient852" y1="2.1564658" x1="7.1517768" y2="43.522217" gradientUnits="userSpaceOnUse" x2="35.66811"/>
 </defs>
+<path style="opacity:.2" d="M 4,4 V 46 H 46 V 4 Z"/>
 <g>
-<path style="fill:#ecf0f1" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
-<path style="fill:url(#linearGradient852);fill-rule:evenodd;stroke:none;color:#000" id="path850" d="m 3,3 v 6 h 7 v -6 h -7 z  m 7,6 v 6 h 7 v -6 h -7 z  m 7,0 h 7 v -6 h -7 v 6 z  m 0,6 v 6 h 7 7 v -6 h -7 -7 z  m 14,0 h 7 v -6 h -7 v 6 z  m 7,0 v 6 h 7 v -6 h -7 z  m 0,6 h -7 v 6 h 7 v -6 z  m 0,6 v 6 h 7 v -6 h -7 z  m -7,0 h -7 v 6 h 7 v -6 z  m -7,6 h -7 v 6 h 7 v -6 z  m -7,6 h -7 v 6 h 7 v -6 z  m -7,0 v -6 h -7 v 6 h 7 z  m 0,-6 h 7 v -6 -6 h -7 v 6 6 z  m 0,-12 v -6 h -7 v 6 h 7 z  m 21,18 v 6 h 7 v -6 h -7 z "/>
+<path style="fill:#ecf0f1" d="M 3,3 V 45 H 45 V 3 Z"/>
+<path style="fill:url(#linearGradient852);fill-rule:evenodd;color:#000" d="m 3,3 v 6 h 7 v -6 h -7 z  m 7,6 v 6 h 7 v -6 h -7 z  m 7,0 h 7 v -6 h -7 v 6 z  m 0,6 v 6 h 7 7 v -6 h -7 -7 z  m 14,0 h 7 v -6 h -7 v 6 z  m 7,0 v 6 h 7 v -6 h -7 z  m 0,6 h -7 v 6 h 7 v -6 z  m 0,6 v 6 h 7 v -6 h -7 z  m -7,0 h -7 v 6 h 7 v -6 z  m -7,6 h -7 v 6 h 7 v -6 z  m -7,6 h -7 v 6 h 7 v -6 z  m -7,0 v -6 h -7 v 6 h 7 z  m 0,-6 h 7 v -6 -6 h -7 v 6 6 z  m 0,-12 v -6 h -7 v 6 h 7 z  m 21,18 v 6 h 7 v -6 h -7 z "/>
 </g>
+<path style="opacity:.4;fill:url(#linearGradient3879);fill-rule:evenodd" d="M 45,45 V 3 H 3 v 42 z"/>
 </svg>

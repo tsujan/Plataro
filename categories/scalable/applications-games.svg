@@ -28,6 +28,7 @@
 <stop offset="0" style="stop-color:#aeb1b7"/>
 <stop offset="0.27" style="stop-color:#bbc0c3"/>
 <stop offset="1" style="stop-color:#f1f3f3"/>
+</linearGradient>
 <linearGradient gradientTransform="matrix(1.1818635,0,0,1.1818635,-6.3657035,-2.8627266)" xlink:href="#linearGradient27" id="linearGradient30" y1="11.729549" x1="36.692665" y2="23.575247" x2="36.692665" gradientUnits="userSpaceOnUse"/>
 <linearGradient xlink:href="#linearGradient35" id="linearGradient37" y1="31.190338" x1="30.346756" y2="25.26749" x2="30.346756" gradientUnits="userSpaceOnUse"/>
 <linearGradient gradientTransform="matrix(0.8461213,0,0,0.8461213,-3.0767277,-5.1894926)" xlink:href="#linearGradient27" id="linearGradient31" y1="33.995979" x1="24.501993" y2="44.995987" gradientUnits="userSpaceOnUse" x2="24.501993"/>
@@ -35,7 +36,6 @@
 <linearGradient gradientTransform="matrix(1.1818635,0,0,1.1818635,-2.3657532,-2.8627266)" xlink:href="#linearGradient27" id="linearGradient28" y1="11.729549" x1="11.309027" y2="23.575247" x2="11.309027" gradientUnits="userSpaceOnUse"/>
 <linearGradient gradientTransform="matrix(0.8461213,0,0,0.8461213,-3.0767277,-5.1894926)" id="g" xlink:href="#linearGradient27" y1="33.995979" x1="39.501968" y2="44.995987" gradientUnits="userSpaceOnUse" x2="39.501968"/>
 <linearGradient gradientTransform="translate(-6.0020254,-8.9959985)" id="f" xlink:href="#linearGradient35" y1="32" x1="12" y2="22" gradientUnits="userSpaceOnUse" x2="12"/>
-</linearGradient>
 </defs>
 <g style="fill-rule:evenodd">
 <path style="opacity:.45" d="m 13,8 c -6,0 -11.998,4.07992 -11.998,11.374 v 16.5537 c 0,2.57264 2.03007,4.91181 5.20703,4.92383 1.00948,0 1.97804,-0.40293 2.69141,-1.11719 l 6.1152,-6.1152 c 0.83644,0.427858 1.76167,0.653311 2.70117,0.658203 1.64808,-0.0046 3.22173,-0.686857 4.35156,-1.88672 h 4.03125 c 1.12151,1.13005 2.64618,1.76802 4.23828,1.77344 0.899085,-0.0022 1.78618,-0.206473 2.5957,-0.597656 l 6.168,6.168 c 0.71337,0.714257 1.68192,1.1163 2.69141,1.11719 3.20751,0.003126 5.20703,-2.3963 5.20703,-4.92383 v -16.5537 c 0,-7.374 -6,-11.374 -12,-11.374 Z "/>

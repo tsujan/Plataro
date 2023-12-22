@@ -1,8 +1,9 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="fill:#203040" id="rect4090" d="M 3,3 V 45 H 45 V 3 Z"/>
-<path style="fill:#e6e6e6;stroke-width:.981" id="rect813" d="M 15,15 H 40 V 40 H 15 Z"/>
-<path style="fill:#f00" id="rect3773" d="m 19,19 h 8 v 8 h -8 z"/>
-<path style="fill:#51ff00" id="rect3775" d="m 28,19 h 8 v 8 h -8 z"/>
-<path style="fill:#53a8ff" id="rect3777" d="m 19,28 h 8 v 8 h -8 z"/>
-<path style="fill:#fffd00" id="rect3779" d="m 28,28 h 8 v 8 h -8 z"/>
+<path style="fill:#203040" d="M 3,3 V 45 H 45 V 3 Z"/>
+<g style="stroke-width:1.25">
+<path style="fill:#ff4c4c" d="M 18,18 H 28 V 28 H 18 Z"/>
+<path style="fill:#51ff00" d="M 29,18 H 39 V 28 H 29 Z"/>
+<path style="fill:#53a8ff" d="M 18,29 H 28 V 39 H 18 Z"/>
+<path style="fill:#fffd00" d="M 29,29 H 39 V 39 H 29 Z"/>
+</g>
 </svg>

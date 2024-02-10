@@ -2,33 +2,33 @@
 <defs>
 <linearGradient id="linearGradient11">
 <stop offset="0" style="stop-color:#fff"/>
-<stop offset="0.5" style="stop-color:#f7f7f7"/>
-<stop offset="0.5" style="stop-color:#ededed"/>
-<stop offset="1" style="stop-color:#bfbfbf"/>
+<stop offset="0.5" style="stop-color:#d9d9d9"/>
+<stop offset="0.5" style="stop-color:#ccc"/>
+<stop offset="1" style="stop-color:#8c8c8c"/>
 </linearGradient>
 <linearGradient id="linearGradient7">
 <stop offset="0" style="stop-color:#554b44"/>
 <stop offset="1" style="stop-color:#8d8783"/>
 </linearGradient>
-<linearGradient id="linearGradient3">
-<stop offset="0" style="stop-color:#0f2240"/>
-<stop offset="1" style="stop-color:#414e6b"/>
-</linearGradient>
 <linearGradient id="linearGradient1">
 <stop offset="0" style="stop-color:#f8e4a4"/>
 <stop offset="1" style="stop-color:#c78d18"/>
 </linearGradient>
-<linearGradient xlink:href="#linearGradient11" id="linearGradient14" y1="8.5848827" x1="37.323219" y2="10.677319" x2="39.415657" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient1" id="linearGradient2" y1="14.189847" x1="24.348719" y2="36.591755" x2="24.347742" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient11" id="linearGradient16" y1="4.0630593" x1="3.2554309" y2="10.677319" x2="9.2773724" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="linearGradient3">
+<stop offset="0" style="stop-color:#0f2240"/>
+<stop offset="1" style="stop-color:#414e6b"/>
+</linearGradient>
 <linearGradient xlink:href="#linearGradient1" id="linearGradient6" y1="6.9628921" x1="24.530472" y2="45.694698" x2="24.346258" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient7" id="linearGradient8" y1="5.9326625" x1="43.837307" y2="4.1632285" x2="42.066589" gradientUnits="userSpaceOnUse"/>
 <linearGradient xlink:href="#linearGradient3" id="linearGradient4" y1="44.086445" x1="24.328978" y2="7.0867934" x2="23.978403" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient11" id="linearGradient12" y1="8.5848827" x1="11.369809" y2="10.677319" x2="9.2773724" gradientUnits="userSpaceOnUse"/>
 <linearGradient xlink:href="#linearGradient7" id="linearGradient10" y1="5.932662" x1="4.8557196" y2="4.163229" x2="6.6251531" gradientUnits="userSpaceOnUse"/>
 <linearGradient xlink:href="#linearGradient11" id="linearGradient18" y1="2.5074553" x1="43.822971" y2="8.5848827" x2="37.323219" gradientUnits="userSpaceOnUse"/>
-<linearGradient xlink:href="#linearGradient7" id="linearGradient8" y1="5.9326625" x1="43.837307" y2="4.1632285" x2="42.066589" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient11" id="linearGradient12" y1="8.5848827" x1="11.369809" y2="10.677319" x2="9.2773724" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient11" id="linearGradient16" y1="4.0630593" x1="3.2554309" y2="10.677319" x2="9.2773724" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient1" id="linearGradient2" y1="14.189847" x1="24.348719" y2="36.591755" x2="24.347742" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient11" id="linearGradient14" y1="8.5848827" x1="37.323219" y2="10.677319" x2="39.415657" gradientUnits="userSpaceOnUse"/>
 </defs>
-<g style="stroke:#000">
+<g style="stroke:#000;stroke-linejoin:round">
 <path style="opacity:.05;stroke-width:1.5" d="m 5.3885,2.3063 -.1982,.0721 c -0.995588,0.34258 -1.77697,1.12513 -2.11946,2.12075 l -.0721,.1969 .9896,.9896 .8673,.2471 3.2043,3.2056 -.0656,.0721 c -0.84333,0.839454 -1.54823,1.80826 -2.08858,2.86841 -0.089099,0.201878 -0.109194,0.427832 -0.056622,0.642143 0.034738,0.289364 0.14664,0.563259 0.323002,0.795281 0.385927,0.398727 0.883285,0.67087 1.42713,0.781125 l .6087,.1518 -.2213,-.5868 c -0.344109,-0.613755 -0.26362,-1.37735 0.199463,-1.90713 0.292391,-0.482179 0.660486,-0.91395 1.09126,-1.27785 l 29.02,28.4757 3.0653,1.5172 -1.4799,-3.0267 -28.513,-29.0586 c 0.359709,-0.427106 0.786662,-0.791997 1.2637,-1.08225 0.299726,-0.238065 0.662271,-0.383017 1.04364,-0.415656 0.30228,0.016518 0.6,0.086612 0.877639,0.207185 l .5379,.1853 -.1017,-.5701 c -0.110347,-0.544903 -0.383122,-1.04284 -0.782411,-1.4297 -0.232135,-0.176314 -0.507116,-0.288481 -0.796566,-0.323002 -0.07839,-0.019464 -0.158585,-0.028301 -0.239356,-0.028311 -0.138526,0 -0.27511,0.028233 -0.401501,0.084933 -1.06005,0.540183 -2.0278,1.24535 -2.86713,2.08858 l -.0734,.0656 -3.2056,-3.2043 -.2471,-.8673 z "/>
 <path style="opacity:.1;stroke-width:1.25" d="m 5.3885,2.3063 -.1982,.0721 c -0.995588,0.34258 -1.77697,1.12513 -2.11946,2.12075 l -.0721,.1969 .9896,.9896 .8673,.2471 3.2043,3.2056 -.0656,.0721 c -0.84333,0.839454 -1.54823,1.80826 -2.08858,2.86841 -0.089099,0.201878 -0.109194,0.427832 -0.056622,0.642143 0.034738,0.289364 0.14664,0.563259 0.323002,0.795281 0.385927,0.398727 0.883285,0.67087 1.42713,0.781125 l .6087,.1518 -.2213,-.5868 c -0.344109,-0.613755 -0.26362,-1.37735 0.199463,-1.90713 0.292391,-0.482179 0.660486,-0.91395 1.09126,-1.27785 l 29.02,28.4757 3.0653,1.5172 -1.4799,-3.0267 -28.513,-29.0586 c 0.359709,-0.427106 0.786662,-0.791997 1.2637,-1.08225 0.299726,-0.238065 0.662271,-0.383017 1.04364,-0.415656 0.30228,0.016518 0.6,0.086612 0.877639,0.207185 l .5379,.1853 -.1017,-.5701 c -0.110347,-0.544903 -0.383122,-1.04284 -0.782411,-1.4297 -0.232135,-0.176314 -0.507116,-0.288481 -0.796566,-0.323002 -0.07839,-0.019464 -0.158585,-0.028301 -0.239356,-0.028311 -0.138526,0 -0.27511,0.028233 -0.401501,0.084933 -1.06005,0.540183 -2.0278,1.24535 -2.86713,2.08858 l -.0734,.0656 -3.2056,-3.2043 -.2471,-.8673 z "/>
 <path style="opacity:.05;stroke-width:1.5" d="m 43.3046,2.3063 -.9909,.9896 -.2471,.8673 -3.2043,3.2043 -.0733,-.0656 c -0.839202,-0.843483 -1.80695,-1.54844 -2.86713,-2.08857 -0.126324,-0.056379 -0.263168,-0.085327 -0.401501,-0.084933 -0.08105,0 -0.161818,0.00946 -0.240642,0.028311 -0.289543,0.034835 -0.564534,0.146342 -0.796567,0.323002 -0.398601,0.38585 -0.67094,0.883417 -0.781125,1.42713 l -.1518,.6087 .5881,-.2213 c 0.278435,-0.120441 0.576011,-0.190587 0.878926,-0.207185 0.375335,0.031191 0.733066,0.172673 1.0282,0.406648 0.482223,0.29217 0.913792,0.660721 1.27785,1.09126 l -28.4757,29.02 -1.5172,3.0653 2.9685,-1.7856 29.1168,-28.2072 c 0.426828,0.35982 0.792342,0.786615 1.08225,1.2637 0.469185,0.531832 0.5522,1.30165 0.207184,1.92128 l -.1853,.5379 .5701,-.1017 c 0.54516,-0.110047 1.04412,-0.382859 1.43099,-0.782411 0.176704,-0.231396 0.287834,-0.506109 0.321715,-0.795281 0.05299,-0.214394 0.03306,-0.440329 -0.05662,-0.642143 -0.539529,-1.05912 -1.24361,-2.02598 -2.086,-2.86455 l -.0669,-.0759 3.2043,-3.2056 .8673,-.2471 .9896,-.9896 -.0721,-.1982 c -0.342918,-0.995308 -1.12523,-1.77715 -2.12075,-2.11946 Z "/>

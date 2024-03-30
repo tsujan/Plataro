@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<path style="color:#4d4d4d" d="m 1,2 v 9 h 5 v 1 H 5 v 2 h 6 v -2 h -1 v -1 h 5 V 2 Z m 1,1 h 12 v 7 H 2 Z"/>
+<path style="opacity:.5;fill:#fff" d="M 0,1 V 12 H 6 V 11 H 1 V 2 h 14 v 9 h -5 v 1 h 6 V 1 Z m 4,11 v 3 h 8 v -3 h -1 v 2 H 5 v -2 z"/>
+<path style="fill:#7fff2a" d="m 7,12 h 2 v 1 H 7 Z"/>
+<path style="fill:#3880d9" d="m 2,3 h 12 v 7 H 2 Z"/>
+<g style="color:#bebebe;stroke-width:.152">
+<g style="fill:#ffdc4c">
+<path style="line-height:normal" d="m 7.9982,4.5013 c -1.12522,0 -2.04875,0.923537 -2.04875,2.04875 0,1.12522 0.923533,2.04875 2.04875,2.04875 1.12522,0 2.04875,-0.923536 2.04875,-2.04875 0,-1.12522 -0.923533,-2.04875 -2.04875,-2.04875 z"/>
+<rect width="0.8375" x="4.65" y="6.1312499" rx="0.23554687" height="0.8375"/>
+<rect width="0.8375" x="10.5125" y="6.1312499" rx="0.23554687" height="0.8375"/>
+<rect width="0.8375" x="3.2" y="-8.4187498" rx="0.23554687" height="0.8375" transform="rotate(90)"/>
+</g>
+<rect width="0.8375" x="9.0625" y="-8.4187498" rx="0.23554687" height="0.8375" style="fill:#eec623" transform="rotate(90)"/>
+<g style="fill:#ffdc4c">
+<rect width="0.8375" x="-4.3753057" y="-10.707156" rx="0.23554687" height="0.8375" transform="rotate(135)"/>
+<rect width="0.8375" x="1.4871942" y="-10.707156" rx="0.23554687" height="0.8375" transform="rotate(135)"/>
+<rect width="0.8375" x="6.9384074" y="-1.4440563" rx="0.23554687" height="0.8375" transform="rotate(45)"/>
+<rect width="0.8375" x="12.80091" y="-1.4440563" rx="0.23554687" height="0.8375" transform="rotate(45)"/>
+</g>
+</g>
+</svg>

@@ -1,10 +1,11 @@
 <svg width="96" version="1.0" xmlns="http://www.w3.org/2000/svg" height="96" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<linearGradient id="linearGradient12">
-<stop offset="0" style="stop-color:#ff9494"/>
-<stop offset="1" style="stop-color:#ff2e2e"/>
-</linearGradient>
-<radialGradient fx="47.467381" fy="36.487312" cx="47.467381" cy="36.487312" gradientTransform="matrix(-2.3454906,0.01793826,-0.01341151,-1.7536032,159.82371,83.132833)" xlink:href="#linearGradient12" id="radialGradient13" r="14.49593" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="538.77338" cy="651.10352" gradientTransform="translate(-484,-674)" r="126.0234" id="radialGradient2854" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#f99"/>
+<stop offset="0.6" style="stop-color:#c33"/>
+<stop offset="1" style="stop-color:#ff7a7a"/>
+</radialGradient>
+<radialGradient fx="47.467381" fy="36.487312" cx="47.467381" cy="36.487312" gradientTransform="matrix(-3.4946246,-0.02813808,0.01595754,-1.9818542,213.29849,93.648221)" xlink:href="#radialGradient2854" id="radialGradient13" r="14.49593" gradientUnits="userSpaceOnUse"/>
 </defs>
 <path style="opacity:.65;fill:#fff" d="m 8.5673,4.2142 c -2.54478,0 -4.519,2.28524 -4.519,4.51924 v 68.3368 c -1.3e-06,2.43 2.21994,5.12025 4.81904,5.12025 h 15.7693 c 1.7595,0 2.18754,0.127994 2.18754,1.8875 v 1.52451 c 0,2.39775 1.97577,4.4875 5.08723,4.4875 h 32.2747 c 3.01354,0 5.08827,-2.08976 5.08827,-4.4875 v -1.52451 c 0,-1.7595 0.427964,-1.8875 2.18746,-1.8875 h 15.7667 c 3.271,0 4.81996,-2.69025 4.81996,-5.12025 v -68.3368 c 0,-2.234 -2.14706,-4.51924 -4.51996,-4.51924 z "/>
 <path style="fill:#4051a5" d="M 84.937,75.2786 V 11.0071 H 11 v 64.2715 z"/>

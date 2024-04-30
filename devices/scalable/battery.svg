@@ -1,6 +1,18 @@
-<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="fill:#00a200" d="m 13.67,5.5001 c -0.725163,0 -1.17006,0.473007 -1.17006,1.25189 v 36.1206 c 0,0.785149 0.533368,1.34984 1.17006,1.45164 5.97109,0.95469 14.9427,0.845645 20.6599,0 0.637854,-0.09435 1.17007,-0.653794 1.17007,-1.45164 v -36.1206 c 0,-0.841719 -0.525237,-1.25189 -1.17007,-1.25189 z "/>
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient6">
+<stop offset="0" style="stop-color:#e3e3e3"/>
+<stop offset="1" style="stop-color:#bfbfbf"/>
+</linearGradient>
+<linearGradient id="linearGradient4">
+<stop offset="0" style="stop-color:#00bd00"/>
+<stop offset="1" style="stop-color:#008a00"/>
+</linearGradient>
+<linearGradient xlink:href="#linearGradient6" id="linearGradient7" y1="5.5066856" x1="18" y2="5.5066856" x2="30" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient4" id="linearGradient5" y1="25.250037" x1="12.5" y2="25.250037" x2="35.5" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:url(#linearGradient5)" d="m 13.67,5.5001 c -0.725163,0 -1.17006,0.473007 -1.17006,1.25189 v 36.1206 c 0,0.785149 0.533368,1.34984 1.17006,1.45164 5.97109,0.95469 14.9427,0.845645 20.6599,0 0.637854,-0.09435 1.17007,-0.653794 1.17007,-1.45164 v -36.1206 c 0,-0.841719 -0.525237,-1.25189 -1.17007,-1.25189 z "/>
 <path style="opacity:.35" d="m 28.1825,12.018 -3.2931,10.988 7.6106,.0655 -.8743,1.2816 -6.9247,7.5729 -5.3876,10.3974 -.4298,.6767 3.3114,-15.6454 -5.7632,1.3469 -.9319,-.0133 13.1536,-18.6882 Z "/>
 <path style="fill:#fff" d="m 28.1827,12.0178 -3.2932,12.3352 h 6.73626 l -12.3122,17.9703 2.8816,-13.6218 h -5.76319 l 11.7509,-16.6835 z "/>
-<path style="fill:#d2d2d2" d="m 28.4433,2 c 1.19942,0 1.55671,0.355807 1.55667,1.49952 V 8.712 c -2.865997,0.436051 -9.45782,0.366225 -12,0 V 3.49911 c 0,-1.15507 0.321839,-1.49916 1.36081,-1.49916 z"/>
+<path style="fill:url(#linearGradient7)" d="m 28.4433,2 c 1.19942,0 1.55671,0.355807 1.55667,1.49952 V 8.712 c -2.865997,0.436051 -9.45782,0.366225 -12,0 V 3.49911 c 0,-1.15507 0.321839,-1.49916 1.36081,-1.49916 z"/>
 </svg>

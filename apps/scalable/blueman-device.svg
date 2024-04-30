@@ -1,17 +1,22 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
+<linearGradient id="linearGradient10">
+<stop offset="0" style="stop-color:#006aeb"/>
+<stop offset="1" style="stop-color:#004aa3"/>
+</linearGradient>
 <linearGradient id="linearGradient9168">
 <stop offset="0" style="stop-color:#ebebeb"/>
 <stop offset="0.49" style="stop-color:#ebebeb"/>
 <stop offset="0.51" style="stop-color:#c7c7c7"/>
 <stop offset="1" style="stop-color:#c7c7c7"/>
 </linearGradient>
+<linearGradient xlink:href="#linearGradient10" id="linearGradient11" y1="19.4645" x1="13" y2="19.4645" x2="35" gradientUnits="userSpaceOnUse"/>
 <linearGradient xlink:href="#linearGradient9168" id="linearGradient9170" y1="38.968283" x1="16.819268" y2="38.968283" x2="31.180932" gradientUnits="userSpaceOnUse"/>
 </defs>
 <path style="fill:#5a5a5a" d="m 17.3963,31.2745 c -0.321837,0 -0.577032,0.254696 -0.577032,0.577032 V 46.685 c 0,0.322336 0.255195,0.577033 0.577032,0.577033 H 30.903 c 0.413114,0 0.877466,-0.425317 0.877466,-0.877033 V 31.851532 c 0,-0.322336 -0.255195,-0.577032 -0.577032,-0.577032 z"/>
 <path style="fill:#003d82" d="m 18,39.7467 h 12 v 6.11486 h -12 Z "/>
 <path style="fill:url(#linearGradient9170)" d="m 17.3963,31.2745 c -0.321837,0 -0.577032,0.254696 -0.577032,0.577032 v 14.2335 c 0,0.322336 0.255195,0.577033 0.577032,0.577033 h 13.2076 c 0.321837,0 0.577032,-0.254697 0.577032,-0.577033 v -14.2335 c 0,-0.322336 -0.255195,-0.577032 -0.577032,-0.577032 z M 19,41 H 23 v 3 H 19 Z M 25,41 h 4 v 3 h -4 z"/>
 <path style="fill:#00408c" d="m 17,1 14.6,0 c 2.216,0 4,1.784 4,4 V 34.229 c 0,2.216 -2.084,4.300202 -4.3,4.300125 l -14.3,0 c -2.216,0 -4,-1.784 -4,-4 V 5 c 0,-2.216 1.784,-4 4,-4 z"/>
-<path style="fill:#005bc8" d="m 17,1 h 14 c 2.216,0 4,1.784 4,4 v 28.929001 c 0,2.216 -1.784,4 -4,4 H 17 c -2.216,0 -4,-1.784 -4,-4 V 5 c 0,-2.216 1.784,-4 4,-4 z"/>
+<path style="fill:url(#linearGradient11)" d="m 17,1 h 14 c 2.216,0 4,1.784 4,4 v 28.929001 c 0,2.216 -1.784,4 -4,4 H 17 c -2.216,0 -4,-1.784 -4,-4 V 5 c 0,-2.216 1.784,-4 4,-4 z"/>
 <path style="fill:#fff;fill-rule:evenodd" d="m 22.8461,5.748 v 10.2715 l -5.319,-4.2936 -1.8063,1.5151 6.6229,5.3886 -6.7237,5.3886 2.1079,1.6835 5.1182,-4.3778 v 10.1873 l 9.5333,-7.493 -6.3221,-5.3044 6.122,-5.2203 -9.3331,-7.7455 z m 2.6088,4.967 3.111,2.8627 -3.111,2.5259 z m -0.1,10.693 3.3118,2.5259 -3.111,2.2728 z"/>
 </svg>

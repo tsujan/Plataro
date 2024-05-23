@@ -1,10 +1,8 @@
-<svg width="48" version="1.0" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs id="defs550"/>
-<g id="g3816" transform="translate(0.375,5.59375)">
-<path style="fill:#ffac24;fill-rule:evenodd;stroke:#963304;stroke-width:1.5" id="path3244" d="m 21.125,-3.5938 -10.0625,34.75 -7.1875,0 0,9.25 39.5,0 0,-9.25 -7.0312,0 -9.4375,-34.75 -5.7812,0 z "/>
-<g style="fill:#fff" id="layer4" transform="translate(0.5896806,-5.6358922)">
-<path style="fill-rule:evenodd;stroke:#fff;stroke-width:0" id="path3250" d="m 19.5593,8.2099 7.6479,-0 2.1315,8.183 -12.0694,0 2.29,-8.183 z "/>
-<path style="fill-rule:evenodd;stroke:#fff;stroke-width:0" id="path3252" d="m 14.6252,25.2209 17.1612,0 2.061,7.484 -21.3601,0 2.138,-7.484 z "/>
+<svg width="48" version="1.0" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#ffac24" d="m 21.96425,2.65 h 4.843 l 9.4375,34.75 H 43.1 v 7.95 H 4.9 V 37.4 h 7.00175 z"/>
+<g style="fill:#fff">
+<path d="m 19.56,11.0625 h 9.51 l 2.25,8.3125 H 17.15 Z"/>
+<path d="M 14.75,27.6875 H 33.58 L 35.84,36 h -23.5 z"/>
 </g>
-</g>
+<path style="fill:#963304" d="m 20.9355,1.25 c -3.35342,11.5835 -6.70821,23.1667 -10.0625,34.75 h -7.37305 v 10.75 h 41 v -10.75 h -7.20703 l -9.4375,-34.75 h -6.91992 z  m 1.1289,1.5 h 4.64258 l 9.4375,34.75 h 6.85547 v 7.75 h -38 v -7.75 h 7.00195 l 10.0625,-34.75 z "/>
 </svg>

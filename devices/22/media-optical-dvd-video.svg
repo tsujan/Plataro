@@ -1,1 +1,10 @@
-drive-optical.svg
+<svg width="22" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" height="22">
+<defs id="defs3051">
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text {
+color:#4d4d4d;
+}
+</style>
+</defs>
+<path style="fill:currentColor;fill-opacity:1;stroke:none" d="m 11,3 c -4.43199,0 -8,3.56801 -8,8 0,4.09281 3.04394,7.44584 7,7.93555 v -1.00781 c -3.40041,-0.482892 -6,-3.38979 -6,-6.92773 0,-3.87799 3.12201,-7 7,-7 3.87799,0 7,3.12201 7,7 h 1 c 0,-4.43199 -3.56801,-8 -8,-8 z  m 0,6 c -1.108,0 -2,0.892005 -2,2 0,1.108 0.892005,2 2,2 1.108,0 2,-0.892005 2,-2 0,-1.108 -0.892005,-2 -2,-2 z  m 0,1 c 0.553996,0 1,0.446005 1,1 0,0.553996 -0.446005,1 -1,1 -0.553996,0 -1,-0.446005 -1,-1 0,-0.553996 0.446005,-1 1,-1 z  m 2,3 v 7 h 7 v -7 h -7 z  m 1,1 h 1 v 1 h -1 v -1 z  m 4,0 h 1 v 1 h -1 v -1 z  m -4,2 h 1 v 1 h -1 v -1 z  m 4,0 h 1 v 1 h -1 v -1 z  m -4,2 h 1 v 1 h -1 v -1 z  m 4,0 h 1 v 1 h -1 v -1 z " class="ColorScheme-Text"/>
+</svg>

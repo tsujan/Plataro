@@ -189,7 +189,9 @@ MaxSize=512
 [emblems/scalable]
 Size=24
 Context=Emblems
-Type=Fixed
+Type=Scalable
+MinSize=16
+MaxSize=512
 
 [mimetypes/16]
 Size=16

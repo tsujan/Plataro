@@ -1,12 +1,35 @@
-<svg width="16" version="1.1" xmlns="http://www.w3.org/2000/svg" height="16">
-<g style="stroke:none;color:#bebebe" id="layer9" transform="translate(-221.0002,-237)">
-<g style="font-family:Sans;text-align:start;line-height:normal;text-indent:0;text-transform:none">
-<path style="fill:#b4b4b4;stroke-width:3" id="path13314" d="m 229,238.0004 c -1.64501,0 -3,1.355 -3,3 v 2 1.00001 h 1 4 1 v -1.00001 -2 c 0,-1.645 -1.35499,-3 -3,-3 z  m 0,2 c 0.56413,0 1,0.43588 1,1 v 1 h -2 v -1 c 0,-0.56412 0.43587,-1 1,-1 z "/>
-<g style="fill:#a0a0a0;stroke-width:2">
-<path id="path12679-6" d="m 228,247 0,3 2,0 0,-3 -2,0 z"/>
-<path id="path12681-3" d="m 223,250 0,2 12,0 0,-2 -12,0 z"/>
+<svg width="16" version="1.1" xmlns="http://www.w3.org/2000/svg" height="16" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient1">
+<stop offset="0" style="stop-color:#7a7a7a"/>
+<stop offset="1" style="stop-color:#ccc"/>
+</linearGradient>
+<linearGradient id="linearGradient3654">
+<stop offset="0" style="stop-color:#f2b200"/>
+<stop offset="0.25" style="stop-color:#f2b200"/>
+<stop offset="0.25" style="stop-color:#e5a800"/>
+<stop offset="0.5" style="stop-color:#e5a800"/>
+<stop offset="0.5" style="stop-color:#cc9600"/>
+<stop offset="0.75" style="stop-color:#cc9600"/>
+<stop offset="0.75" style="stop-color:#bf8d00"/>
+<stop offset="1" style="stop-color:#bf8d00"/>
+</linearGradient>
+<linearGradient spreadMethod="reflect" xlink:href="#linearGradient1" id="linearGradient10" y1="15" x1="2" y2="14" x2="2" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(0.25,0,0,0.25,2,-0.25)" xlink:href="#linearGradient3654" id="linearGradient3656" y1="33.6406" x1="8" y2="33.6406" x2="40" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g style="line-height:normal;color:#bebebe">
+<path style="fill:#a0a0a0" d="m 7,10 v 3 h 2 v -3 z"/>
+<path style="fill:url(#linearGradient10)" d="m 2,13 v 2 h 12 v -2 z"/>
 </g>
+<g style="color:#000">
+<g style="fill-rule:evenodd">
+<path style="fill:#7a7a7a" d="m 8.0076,.9748 c -1.7578,0 -2.96875,1.3449 -2.96875,3 v 1.22054 h 1.4687 l -.0078,-.9705 c -0.00493,-1 0.5,-1.75 1.5,-1.75 1,0 1.49224,0.777734 1.5,1.75 l .0077,.9705 h 1.461 v -1.22054 c 0,-1.6551 -1.21874,-3 -2.96095,-3 z "/>
+<path style="fill:#8a8a8a" d="m 8.0076,1.0998 c -1.69404,0 -2.84375,1.28088 -2.84375,2.875 v 1.09554 h 1.21826 l -.0073,-.845 c -0.00257,-0.520728 0.126863,-0.986925 0.40039,-1.32812 0.273528,-0.3412 0.69332,-0.547363 1.22461,-0.547363 0.532405,0 0.949607,0.214038 1.22119,0.558105 0.271582,0.344067 0.401305,0.809207 0.403807,1.31641 l .0073,.846 h 1.21143 v -1.09554 c 0,-1.59372 -1.15806,-2.875 -2.83595,-2.875 z "/>
+<path style="fill:#999" d="m 8.0076,1.2248 c -1.63103,0 -2.71875,1.21598 -2.71875,2.75 v 1.09547 h 0.967773 l -.0068,-.8445 c -0.002675,-0.541807 0.131488,-1.0372 0.427735,-1.40674 0.297198,-0.370728 0.75864,-0.594237 1.32226,-0.594237 0.565905,0 1.0248,0.232322 1.31933,0.60547 0.293535,0.371878 0.428057,0.86542 0.430665,1.39356 l .0068,.8464 h 0.961925 v -1.09548 c 0,-1.53315 -1.09669,-2.75 -2.71095,-2.75 z "/>
+<path style="fill:#ababab" d="m 8.0076,1.3498 c -1.5689,0 -2.59375,1.15007 -2.59375,2.625 v 1.07048 h 0.717285 l -.0064,-.819 c -0.0027775,-0.562818 0.136252,-1.08764 0.455077,-1.48535 0.321358,-0.400863 0.82325,-0.641113 1.41992,-0.641113 0.600115,0 1.09946,0.25 1.41748,0.652833 0.31535,0.399517 0.45481,0.92173 0.45752,1.4707 l .0063,.822 h 0.712402 v -1.07048 c 0,-1.47353 -1.03451,-2.625 -2.58595,-2.625 z "/>
+<path style="fill:#bdbdbd" d="m 8.0076,1.4748 c -1.50781,0 -2.46875,1.08297 -2.46875,2.5 v 1.07048 h 0.466797 l -.0058,-.8185 c -0.00288,-0.583785 0.14112,-1.13822 0.482422,-1.56397 0.34584,-0.431402 0.887353,-0.687987 1.51758,-0.687987 0.63482,0 1.17375,0.267077 1.51562,0.700195 0.337067,0.42703 0.481563,0.9781 0.484375,1.54785 l .0059,.8224 h 0.46289 v -1.07048 c 0,-1.41501 -0.971365,-2.5 -2.46094,-2.5 z "/>
+<path style="fill:#ccc" d="m 8.0076,1.5998 c -1.44796,0 -2.34375,1.01448 -2.34375,2.375 v 1.04547 h 0.216309 l -.0054,-.793 c -0.00298,-0.60473 0.14607,-1.1889 0.509765,-1.64258 0.37054,-0.462215 0.951083,-0.734862 1.61524,-0.734862 0.66988,0 1.2478,0.28391 1.61377,0.747557 0.358705,0.454445 0.508318,1.03451 0.51123,1.625 l .0054,.7979 h 0.213379 v -1.04547 c 0,-1.35779 -0.907065,-2.375 -2.33594,-2.375 z "/>
 </g>
-<rect width="8" x="224.99995" y="242" rx="0" height="6" ry="0" style="fill:#dca100" id="rect13312"/>
+<path style="fill:url(#linearGradient3656)" d="m 4,5 v 6 h 8 v -6 Z "/>
 </g>
 </svg>

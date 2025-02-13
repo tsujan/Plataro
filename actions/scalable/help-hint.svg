@@ -1,26 +1,17 @@
-<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<g style="color:#bebebe">
-<g style="fill:#332800">
-<path style="opacity:.4;line-height:normal" d="m 24.3882,11.3456 c -7.3895,0 -13.4545,6.06502 -13.4545,13.4545 0,7.3895 6.06499,13.4545 13.4545,13.4545 7.38951,0 13.4545,-6.06501 13.4545,-13.4545 0,-7.38949 -6.06499,-13.4545 -13.4545,-13.4545 z"/>
-<rect width="5.5" x="2.4000001" y="22.049999" rx="1.546875" height="5.5" style="opacity:.4"/>
-<rect width="5.5" x="40.900002" y="22.049999" rx="1.546875" height="5.5" style="opacity:.4"/>
-<rect width="5.5" x="2.8" y="-27.15" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(90)"/>
-<rect width="5.5" x="41.299999" y="-27.15" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(90)"/>
-<rect width="5.5" x="-21.717163" y="-37.539665" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(135)"/>
-<rect width="5.5" x="16.782835" y="-37.539665" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(135)"/>
-<rect width="5.5" x="12.789676" y="-2.4671714" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(45)"/>
-<rect width="5.5" x="51.289692" y="-2.4671714" rx="1.546875" height="5.5" style="opacity:.4" transform="rotate(45)"/>
-</g>
-<g style="fill:#dcae00">
-<path style="line-height:normal" d="m 23.9882,10.5456 c -7.3895,0 -13.4545,6.06502 -13.4545,13.4545 0,7.3895 6.06499,13.4545 13.4545,13.4545 7.38951,0 13.4545,-6.06501 13.4545,-13.4545 0,-7.38949 -6.06499,-13.4545 -13.4545,-13.4545 z"/>
-<rect width="5.5" x="2" y="21.25" rx="1.546875" height="5.5"/>
-<rect width="5.5" x="40.5" y="21.25" rx="1.546875" height="5.5"/>
-<rect width="5.5" x="2" y="-26.75" rx="1.546875" height="5.5" transform="rotate(90)"/>
-<rect width="5.5" x="40.5" y="-26.75" rx="1.546875" height="5.5" transform="rotate(90)"/>
-<rect width="5.5" x="-22.000006" y="-36.691139" rx="1.546875" height="5.5" transform="rotate(135)"/>
-<rect width="5.5" x="16.499992" y="-36.691139" rx="1.546875" height="5.5" transform="rotate(135)"/>
-<rect width="5.5" x="11.941152" y="-2.750011" rx="1.546875" height="5.5" transform="rotate(45)"/>
-<rect width="5.5" x="50.441166" y="-2.750011" rx="1.546875" height="5.5" transform="rotate(45)"/>
-</g>
+<svg width="46" version="1.0" xmlns="http://www.w3.org/2000/svg" height="46" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="538.77338" cy="651.10352" gradientTransform="translate(-484,-674)" r="126.0234" id="radialGradient2854" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#f4e20b"/>
+<stop offset="0.6" style="stop-color:#ccc233"/>
+<stop offset="1" style="stop-color:#f4e40b"/>
+</radialGradient>
+<radialGradient fx="47.467381" fy="36.487312" cx="47.467381" cy="36.487312" gradientTransform="matrix(-3.4946246,-0.02813808,0.01595754,-1.9818542,188.29846,74.436711)" xlink:href="#radialGradient2854" id="radialGradient13" r="14.49593" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:#808080" d="m 17.0478,32.7953 h 11.7894 v 6.94222 h -1.43818 v 5.474 h -9.004 l -.122,-3.924 h -1.22524 z "/>
+<path style="fill:url(#radialGradient13)" d="m 23,.7885 c -8.00586,0 -14.4959,6.36516 -14.4959,14.2169 0.0068,4.49519 2.18087,8.72242 5.86279,11.3996 2.65217,2.14242 2.08459,2.37823 2.16241,4.28304 0.122534,3 0.55667,3.14153 6.50798,3.14893 5.9513,0.0074 6.44262,-0.08048 6.43348,-3.14893 -0.0048,-1.62662 -0.2094,-2.34378 2.16241,-4.28069 3.68259,-2.67764 5.85673,-6.90589 5.86279,-11.4019 0,-7.85177 -6.49007,-14.2169 -14.4959,-14.2169 z "/>
+<g style="stroke-linecap:round;stroke:#d1d1d1;fill:#d1d1d1;stroke-width:2.5">
+<path d="m 17.6243,36.8964 10.7514,-1.3973"/>
+<path d="M 17.6243,40.4973 28.3757,39.1"/>
+<path d="m 19.3577,43.8674 7.2846,-.95"/>
 </g>
 </svg>

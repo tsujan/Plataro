@@ -1,8 +1,16 @@
-<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="fill:#00a200;stroke-width:.984" id="path3981" d="m 14.1701,8 c -0.725163,0 -1.17006,0.473007 -1.17006,1.25189 v 33.6207 c 0,0.785149 0.533368,1.34984 1.17006,1.45164 5.97109,0.95469 13.9427,0.845645 19.6599,0 0.637854,-0.094347 1.17007,-0.653794 1.17007,-1.45164 v -33.6207 c 0,-0.841719 -0.525237,-1.25189 -1.17007,-1.25189 Z "/>
-<path style="fill:#d2d2d2;stroke-width:1.008" id="path3485" d="m 28.442943,3 c 1.199381,4.2e-6 1.556667,0.351588 1.556627,1.48174 v 6.1386 C 25,11 23,11 18,10.62034 V 4.48133 c 0,-1.14137 0.32183,-1.48138 1.36077,-1.48138 z"/>
-<g style="fill:#fff" id="g6">
-<rect width="0.46697369" x="109.98477" y="154.78966" height="0" style="opacity:.578" id="rect1327"/>
-<rect width="0.46697369" x="93.581467" y="143.50511" height="0" style="opacity:.578" id="rect2482"/>
-</g>
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient3">
+<stop offset="0" style="stop-color:#e3e3e3"/>
+<stop offset="1" style="stop-color:#bfbfbf"/>
+</linearGradient>
+<linearGradient id="linearGradient1">
+<stop offset="0" style="stop-color:#00bd00"/>
+<stop offset="1" style="stop-color:#008a00"/>
+</linearGradient>
+<linearGradient xlink:href="#linearGradient3" id="linearGradient4" y1="6.9525175" x1="18" y2="6.9525175" x2="30" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#linearGradient1" id="linearGradient2" y1="26.5" x1="13" y2="26.5" x2="35" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:url(#linearGradient2)" d="m 14.1701,8 c -0.725163,0 -1.17006,0.473007 -1.17006,1.25189 v 33.6207 c 0,0.785149 0.533368,1.34984 1.17006,1.45164 5.97109,0.95469 13.9427,0.845645 19.6599,0 0.637854,-0.094347 1.17007,-0.653794 1.17007,-1.45164 v -33.6207 c 0,-0.841719 -0.525237,-1.25189 -1.17007,-1.25189 Z "/>
+<path style="fill:url(#linearGradient4)" d="m 28.442943,3 c 1.199381,0 1.556667,0.351588 1.556627,1.48174 v 6.1386 C 25,11 23,11 18,10.62034 V 4.48133 c 0,-1.14137 0.32183,-1.48138 1.36077,-1.48138 z"/>
 </svg>

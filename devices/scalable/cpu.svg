@@ -1,15 +1,29 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<g style="fill-rule:evenodd">
-<path style="fill:#2c3e50" d="M 39.419,32.3473 H 8.5809 V 7.65 H 39.419 Z"/>
-<g style="fill:#f1c40f">
-<path d="M 23.0057,40.35 H 20.99809 V 33.35707 H 23.0057 Z"/>
-<path d="M 19.2992,40.3267 H 17.29159 V 33.34998 H 19.2992 Z"/>
-<path d="M 15.6938,40.3267 H 13.68619 V 33.36339 H 15.6938 Z"/>
-<path d="M 11.9023,40.3168 H 9.89469 v -6.96331 h 2.00761 z"/>
-<path d="M 38.1053,40.35 H 36.09769 V 33.35707 H 38.1053 Z"/>
-<path d="M 34.3989,40.3267 H 32.39129 V 33.34998 H 34.3989 Z"/>
-<path d="M 30.7935,40.3267 H 28.78589 V 33.36339 H 30.7935 Z"/>
-<path d="M 27.002,40.3168 H 24.99439 V 33.35349 H 27.002 Z"/>
-</g>
+<rect width="28" x="10" y="10" rx="3" height="28" style="fill:#2c3e50"/>
+<g style="fill:#e5b700">
+<rect width="7" x="2" y="15" rx="2" height="4"/>
+<path d="m 6,15 h 3 v 4 H 6 Z"/>
+<rect width="7" x="2" y="22" rx="2" height="4"/>
+<path d="m 6,22 h 3 v 4 H 6 Z"/>
+<rect width="7" x="2" y="29" rx="2" height="4"/>
+<path d="m 6,29 h 3 v 4 H 6 Z"/>
+<rect width="7" x="-46" y="15" rx="2" height="4" transform="scale(-1,1)"/>
+<path d="m 42,15 h -3 v 4 h 3 z"/>
+<rect width="7" x="-46" y="22" rx="2" height="4" transform="scale(-1,1)"/>
+<path d="m 42,22 h -3 v 4 h 3 z"/>
+<rect width="7" x="-46" y="29" rx="2" height="4" transform="scale(-1,1)"/>
+<path d="m 42,29 h -3 v 4 h 3 z"/>
+<rect width="7" x="2" y="15" rx="2" height="4" transform="matrix(0,1,1,0,0,0)"/>
+<path d="m 15,6 v 3 h 4 V 6 Z"/>
+<rect width="7" x="2" y="22" rx="2" height="4" transform="matrix(0,1,1,0,0,0)"/>
+<path d="m 22,6 v 3 h 4 V 6 Z"/>
+<rect width="7" x="2" y="29" rx="2" height="4" transform="matrix(0,1,1,0,0,0)"/>
+<path d="m 29,6 v 3 h 4 V 6 Z"/>
+<rect width="7" x="-46" y="15" rx="2" height="4" transform="rotate(-90)"/>
+<path d="m 15,42 v -3 h 4 v 3 z"/>
+<rect width="7" x="-46" y="22" rx="2" height="4" transform="rotate(-90)"/>
+<path d="m 22,42 v -3 h 4 v 3 z"/>
+<rect width="7" x="-46" y="29" rx="2" height="4" transform="rotate(-90)"/>
+<path d="m 29,42 v -3 h 4 v 3 z"/>
 </g>
 </svg>

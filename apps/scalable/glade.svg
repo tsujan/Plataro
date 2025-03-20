@@ -1,13 +1,17 @@
 <svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
-<path style="fill:#ecf0f1" id="rect4090" d="M 6,6.0000979 6,42 42,42 42,6 Z"/>
-<g style="fill-rule:evenodd;stroke:#a38503" id="g4165" transform="matrix(-1,0,0,1,48.48503,-5.2458449)">
-<path style="fill:#9fd36d;stroke:#59852f;stroke-width:1.024" id="path4319" d="m 3.9652,13.1036 0,30.7126 39.9263,0 l -39.9263,-30.7126 Z  m 6.1425,13.3088 15.3563,11.2613 -15.3563,0 0,-11.2613 z "/>
-<g style="fill:none;fill-opacity:.75;stroke-linecap:round" id="g4168">
-<path style="stroke:#59852f" id="path4326" d="m 8.5,43.5 0,-3"/>
-<path style="stroke:#59852f" id="path4328" d="m 14.5,43.5 0,-3"/>
-<path style="stroke:#59852f" id="path4330" d="m 20.5,43.5 0,-2.9643"/>
-<path style="stroke:#59852f" id="path4332" d="m 26.5,43.5 0,-3"/>
-<path style="stroke:#59852f" id="path4334" d="m 32.5,43.5 0,-3"/>
+<path style="opacity:.2" d="m 4,4.1 v 42 h 42 v -42 z"/>
+<path style="fill:#edf1f2" d="m 3,3.1 v 42 h 42 v -42 z"/>
+<g style="fill-rule:evenodd">
+<path style="fill:#7f8c8d" d="m 10.6608,34.4141 h 26.6848 v 2.92213 H 10.6608 Z"/>
+<g style="stroke:#59852f">
+<path style="fill:#9fd36d;stroke-width:1.024" d="m 44.5198,7.8578 v 30.7126 h -39.9263 Z  m -6.1425,13.3088 -15.3563,11.2613 h 15.3563 z "/>
+<g style="fill-opacity:.75;fill:none;stroke-linecap:round">
+<path d="m 39.985,38.2542 v -3"/>
+<path d="m 33.985,38.2542 v -3"/>
+<path d="m 27.985,38.2542 v -2.9643"/>
+<path d="m 21.985,38.2542 v -3"/>
+<path d="m 15.985,38.2542 v -3"/>
+</g>
 </g>
 </g>
 </svg>

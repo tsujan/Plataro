@@ -1,0 +1,7 @@
+<svg width="16" version="1.1" xmlns="http://www.w3.org/2000/svg" height="16">
+<path style="opacity:.24" d="M 15,1 V 15 H 1 v 1 H 16 V 1 Z"/>
+<path style="fill:#ecf0f1" d="M 1,1 V 15 H 15 V 1 Z"/>
+<path style="fill:#88c941" d="m 13.9898,13 -6.564,-3.3695 -5.4156,3.3695 Z "/>
+<path style="fill:#e74c3c" d="m 8.0815,3 .2329,7.0996 5.666,2.8919 z "/>
+<path style="fill:#3498db" d="m 2.0239,12.997 6.2775,-3.9037 -.2179,-6.092 Z "/>
+</svg>

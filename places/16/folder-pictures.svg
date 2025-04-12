@@ -1,4 +1,4 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<svg width="16" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16">
 <defs id="defs3051">
 <style type="text/css" id="current-color-scheme">
 .ColorScheme-Text {
@@ -6,5 +6,5 @@ color:#4d4d4d;
 }
 </style>
 </defs>
-<path style="fill:currentColor" d="m 1,1 v 14 h 14 v -12 h -5.99219 l -2,-2 -.0078,.0078 v -0.0078125 h -6 z  m 5,3 h 8 v 10 h -12 v -8 h 2 l 2,-2 z  m .25,2 c -0.690356,0 -1.25,0.559644 -1.25,1.25 0,0.690356 0.559644,1.25 1.25,1.25 0.690356,0 1.25,-0.559644 1.25,-1.25 0,-0.690356 -0.559644,-1.25 -1.25,-1.25 z  m 3.25,1.5 l -3,4 -1.5,-2 -2,3.5 h 10 l -3.5,-5.5 z " class="ColorScheme-Text"/>
+<path style="fill:currentColor" d="M 1,1 V 15 H 15 V 3 H 9.00781 l -2,-2 0,0 v 0 h -6 z m 5,3 h 8 V 14 H 2 V 6 H 4 Z M 6,5.75 C 5.309644,5.75 4.75,6.309644 4.75,7 4.75,7.690356 5.309644,8.25 6,8.25 6.690356,8.25 7.25,7.690356 7.25,7 7.25,6.309644 6.690356,5.75 6,5.75 Z M 9.5,7 6.5,11.5 5,9 3,13 h 10 z" class="ColorScheme-Text"/>
 </svg>

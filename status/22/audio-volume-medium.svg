@@ -1,19 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
-      </style>
-  </defs>
-    <path
-       style="fill:currentColor;fill-opacity:1;stroke:none" 
-       d="M 10.988281 3 L 6 7.9902344 L 6 8 L 6 9 L 6 13 L 6 14 L 6 14.009766 L 10.988281 19 L 12 19 L 12 18.597656 L 12 3.4023438 L 12 3 L 10.988281 3 z M 14.324219 7.28125 L 13.785156 8.1425781 A 4 4 0 0 1 15 11 A 4 4 0 0 1 13.789062 13.861328 L 14.328125 14.724609 A 5 5 0 0 0 16 11 A 5 5 0 0 0 14.324219 7.28125 z M 3 8 L 3 9 L 3 13 L 3 14 L 5 14 L 5 13 L 5 9 L 5 8 L 3 8 z "
-       id="path4226" 
-          class="ColorScheme-Text"/>
-    <path
-       style="fill:currentColor;fill-opacity:0.5;stroke:none" 
-       d="M 13.865234 3.5371094 L 13.621094 4.5136719 A 7 7 0 0 1 18 11 A 7 7 0 0 1 13.619141 17.478516 L 13.863281 18.453125 A 8 8 0 0 0 19 11 A 8 8 0 0 0 13.865234 3.5371094 z "
-       id="path4188" 
-          class="ColorScheme-Text"/>
+<svg width="22" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" height="22">
+<defs id="defs3051">
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text {
+color:#4d4d4d;
+}
+</style>
+</defs>
+<path style="fill:currentColor" d="m 9.9883,3 l -4.9883,4.9902 v 0.0097656 1 4 1 0.009766 l 4.9883,4.9902 h 1.01172 v -0.402344 -15.1953 -0.402344 h -1.01172 z  m 2.877,.5371 l -.2441,.9766 a 7,7 0 0,1 4.37891,6.48633 7,7 0 0,1 -4.38086,6.47852 l .2441,.9746 a 8,8 0 0,0 5.13672,-7.45312 8,8 0 0,0 -5.13477,-7.46289 z  m .459,3.7441 l -.5391,.8613 a 4,4 0 0,1 1.21484,2.85742 4,4 0 0,1 -1.21094,2.86133 l .5391,.8633 a 5,5 0 0,0 1.67188,-3.72461 5,5 0 0,0 -1.67578,-3.71875 z  m -11.3242,.7188 v 1 4 1 h 2 v -1 -4 -1 h -2 z " class="ColorScheme-Text"/>
+<path style="opacity:.2;fill:currentColor" d="m 13.2148,.4814 -.2129,.9785 a 10,10 0 0,1 6.99805,9.53906 10,10 0 0,1 -7,9.53906 l .2148,.9805 a 11,11 0 0,0 7.78516,-10.5195 11,11 0 0,0 -7.78516,-10.5176 z " class="ColorScheme-Text"/>
 </svg>

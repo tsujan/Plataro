@@ -1,1 +1,10 @@
-battery-charging-060.svg
+<svg width="16" version="1.1" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16">
+<defs id="defs3051">
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text {
+color:#4d4d4d;
+}
+</style>
+</defs>
+<path style="fill:currentColor" d="m 2.5,1 -2,8 H 2 v 6 h 0.5 l 2,-9 H 3 V 1 Z M 7,1 V 2 H 5 v 13 h 8 V 2 H 11 V 1 Z M 6,9 h 6 v 2 H 6 Z m 0,3 h 6 v 2 H 6 Z" class="ColorScheme-Text"/>
+</svg>

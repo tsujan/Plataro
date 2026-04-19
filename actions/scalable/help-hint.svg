@@ -1,10 +1,15 @@
 <svg width="48" version="1.0" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
+<linearGradient id="linearGradient9">
+<stop offset="0" style="stop-color:#fff"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
+</linearGradient>
 <radialGradient cx="538.77338" cy="651.10352" gradientTransform="translate(-484,-674)" r="126.0234" id="radialGradient2854" gradientUnits="userSpaceOnUse">
 <stop offset="0" style="stop-color:#f4e20b"/>
 <stop offset="0.6" style="stop-color:#ccc233"/>
 <stop offset="1" style="stop-color:#f4e40b"/>
 </radialGradient>
+<linearGradient xlink:href="#linearGradient9" id="linearGradient10" y1="3.7246571" x1="24" y2="17.724657" x2="24" gradientUnits="userSpaceOnUse"/>
 <radialGradient fx="47.467381" fy="36.487312" cx="47.467381" cy="36.487312" gradientTransform="matrix(-3.6468407,-0.0293637,0.01665261,-2.0681782,196.49837,77.606121)" xlink:href="#radialGradient2854" id="radialGradient13" r="14.49593" gradientUnits="userSpaceOnUse"/>
 </defs>
 <path style="fill:#737373" d="m 17.7885,34.1509 h 12.3029 v 7.2446 h -1.50082 v 5.71243 h -9.39619 l -.1273,-4.0949 h -1.27861 z "/>
@@ -14,4 +19,5 @@
 <path d="m 18.3901,42.1884 11.2197,-1.4582"/>
 <path d="m 20.0866,45.7049 7.6019,-.9914"/>
 </g>
+<ellipse cx="24" cy="10.724657" rx="9" ry="7" style="opacity:.9;fill:url(#linearGradient10)"/>
 </svg>

@@ -4,7 +4,7 @@ Installation
 **************
 ***  LXQt  ***
 **************
- 1. Put the extracted folder in '~/.local/share/icons/'.
+ 1. Put the extracted folder in '~/.local/share/icons/' (create the last folder "icons" if it doesn't exist; here '~' is your home).
 
  2. Update the icon cache with the following command in terminal (Qt uses GTK icon cache and you need `gtk-update-icon-cache`):
 
@@ -19,6 +19,6 @@ If you update the set, don't forget to recreate the icon cache by using the abov
 *************
 ***  KDE  ***
 *************
-Put the extracted folder in '~/.local/share/icons/' (create the last folder "icons" if it doesn't exist; here '~' is your home). Then, select Plataro in System Settings → Icons and click Apply.
+Put the extracted folder in '~/.local/share/icons/', select Plataro in System Settings → Icons and click Apply.
 
 If you update the set, don't forget to recreate the icon cache by choosing another icon set in System Settings → Icons, selecting Plataro again and clicking Apply.

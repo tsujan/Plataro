@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Plataro SVG icon theme, by Pedram Pourang (aka Tsu Jan <tsujan2000@gmail.com>), consists of flat and colorful icons intended for use under KDE and LXQt. Although it is a rich icon set, it takes its missing icons from Breeze, Oxygen or GNOME icon theme, whichever is installed and in that order.
+The Plataro SVG icon theme, by Pedram Pourang (aka. Tsu Jan <tsujan2000@gmail.com>), consists of flat and colorful icons intended for use under LXQt and KDE. Although it is a rich icon set, it takes its missing icons from Breeze, Oxygen or GNOME icon theme, whichever is installed and in that order.
 
 ![Screenshot](screenshot.jpg?raw=true "Screenshot")
 
@@ -12,4 +12,4 @@ Plataro was made based on FaenzaFlattr, when the latter disappeared from Interne
 
 ## Note
 
-With Qt apps, for the symbolic monochrome icons to have a hight contrast with dark backgrounds, a good Qt plugin is needed. A standard installation of KDE or LXQt provides such a plugin.
+With Qt apps, for the symbolic monochrome icons to have a hight contrast with dark backgrounds, a good Qt plugin is needed. A standard installation of LXQt or KDE provides such a plugin.

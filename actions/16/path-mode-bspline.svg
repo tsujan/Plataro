@@ -1,0 +1,16 @@
+<svg width="16" version="1.1" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16">
+<defs id="defs3051">
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text {
+color:#4d4d4d;
+}
+</style>
+</defs>
+<path style="fill:#3daee9" d="m 5.1034,5.8399 c -2.54458,3.29709 -2.35352,7.55273 -2.35352,7.55273 0.042969,1.33333 2.04297,1.26888 2,-0.06445 0,0 -0.056459,-3.68705 1.93359,-6.26562 1.65153,-2.1399 5.48209,-2.12531 6.54297,-2.03125 1.37658,0.196618 1.58745,-1.90787 0.199219,-1.98828 -0.470833,-0.0458516 -5.78947,-0.484886 -8.32226,2.79687 Z "/>
+<path style="fill:currentColor" d="M 1.5312,1 C 1.3963938,1 1.26751,1.055456 1.173778,1.152344 1.0840413,1.2451093 1,1.3689818 1,1.498047 l -4.7e-5,12.5371 C 0.9749825,14.724986 2.0222758,14.727031 2,14.037147 V 2 h 12.035053 c 0.708311,0.044333 0.708311,-1.04438 0,-1 h -12.5039 z" class="ColorScheme-Text"/>
+<g style="stroke-linejoin:round;stroke-linecap:round;stroke-width:.499;color:#000;fill-opacity:.392;stroke-miterlimit:0;fill:#3daee9;fill-rule:evenodd;stroke:#3daee9">
+<rect width="1.9967748" x="0.50158399" y="0.5011723" height="1.9975989"/>
+<rect width="1.9967748" x="0.50158399" y="13.501228" height="1.9975989"/>
+<rect width="1.9967748" x="13.501641" y="0.5011723" height="1.9975989"/>
+</g>
+</svg>

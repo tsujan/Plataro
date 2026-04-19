@@ -19,6 +19,7 @@
 <linearGradient xlink:href="#linearGradient4989" id="linearGradient4158" y1="1.5007336" x1="23.8636" y2="53.975311" x2="23.119411" gradientUnits="userSpaceOnUse"/>
 <linearGradient xlink:href="#linearGradient9" id="linearGradient14" y1="1.416" x1="23.6227" y2="46.526699" x2="25.994801" gradientUnits="userSpaceOnUse"/>
 <radialGradient fx="24" fy="34" cx="24" cy="34" gradientTransform="matrix(1.1818182,0,0,1,-4.3636363,0)" xlink:href="#linearGradient1" id="radialGradient2" r="11" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="translate(0,0.3546329)" xlink:href="#linearGradient1" id="linearGradient16" y1="5.6453671" x1="23.711365" y2="25.628077" x2="24.714821" gradientUnits="userSpaceOnUse"/>
 </defs>
 <g style="fill-rule:evenodd">
 <path style="opacity:.05;fill:url(#linearGradient14)" d="m 23.6227,2.716 13.622,17.4816 C 47.08244,31.8921 40.99884,47.1296 25.9948,47.8267 4.9324,48.805208 3.0272,31.1573 10.7129,20.5437 Z"/>
@@ -27,4 +28,5 @@
 <path style="fill:url(#linearGradient4158)" d="M 23.3294,1.3162 36.717,18.6268 C 46.38545,30.2069 40.40654,45.2953 25.6607,45.9856 4.9607,46.954536 3.0883,29.4793 10.6418,18.9695 Z"/>
 </g>
 <ellipse cx="24" cy="34" rx="13" ry="11" style="opacity:.4;fill:url(#radialGradient2)"/>
+<path style="opacity:.7;fill:url(#linearGradient16)" d="m 23.7114,6 5.7624,7.7438 c 4.16157,5.18032 1.58808,11.9301 -4.75894,12.2389 -8.90986,0.433453 -9.71579,-7.38404 -6.46456,-12.0856 z "/>
 </svg>
